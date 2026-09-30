@@ -2,8 +2,8 @@ import requests
 
 ICS_URLS = [
     "https://um6p.instructure.com/feeds/calendars/user_amVBPLnSsM6jiffhQXSvac71HG05BdOEkpVMOYuu.ics",
-    "LINK2",
-    "LINK3",
+    "https://um6p.instructure.com/feeds/calendars/user_OdWc5SEkRb8Xb0qnEDC9YcOUi2SAS8rstjTZTM6v.ics",
+    "https://um6p.instructure.com/feeds/calendars/user_50Lk68NhlhAPk3qgQoMyWkPmiqeSOBiERtuYks3S.ics",
     "LINK4",
     "LINK5",
     "LINK6",
