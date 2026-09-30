@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260827T132200Z
-UID:event-calendar-event-68214
-DTSTART:20260831T154500Z
-DTEND:20260831T174500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:INT202 | Lecture | Theories of International Relations [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=08&year=2026#calendar_event_68214
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260829T111500Z
-UID:event-calendar-event-69403
-DTSTART:20260831T160000Z
-DTEND:20260831T173000Z
-CLASS:PUBLIC
-LOCATION:A-F1-01
-SEQUENCE:0
-SUMMARY:Face to Face Session [LAN003C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11220&month=08&year=2026#calendar_event_69403
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260827T135900Z
 UID:event-calendar-event-68342
 DTSTART:20260901T123000Z
@@ -2196,18 +2172,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260829T111500Z
-UID:event-calendar-event-69403
-DTSTART:20260831T160000Z
-DTEND:20260831T173000Z
-CLASS:PUBLIC
-LOCATION:A-F1-01
-SEQUENCE:0
-SUMMARY:Face to Face Session [LAN003C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11220&month=08&year=2026#calendar_event_69403
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260827T134800Z
 UID:event-calendar-event-68428
 DTSTART:20260901T083000Z
@@ -3546,19 +3510,6 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T090700Z
-UID:event-calendar-event-68064
-DTSTART:20260831T123000Z
-DTEND:20260831T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:INT001E | Lecture | Area Studies\, Geopolitics\, and Global Affairs
-  [INT001ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10723&month=08&year=2026#calendar_event_68064
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260827T134800Z
@@ -6142,19 +6093,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=12&year=2026#calendar_event_68168
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T091700Z
-UID:event-calendar-event-68109
-DTSTART:20260831T123000Z
-DTEND:20260831T153000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-F0-02
-SEQUENCE:0
-SUMMARY:INT005E | Lecture | Multilateral Organization and Global Challenges
- : Threat and Opportunity [INT005ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10726&month=08&year=2026#calendar_event_68109
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T081200Z
 UID:event-calendar-event-67657
 DTSTART:20260901T080000Z
@@ -7874,10 +7812,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10745&month=11&year=2026#calendar_event_67430
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260930T122800Z
+DTSTAMP:20260930T165100Z
 UID:event-calendar-event-67669
 DTSTART:20261124T080000Z
-DTEND:20261124T100000Z
+DTEND:20261124T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
@@ -7972,15 +7910,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=11&year=2026#calendar_event_69111
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T081200Z
+DTSTAMP:20260930T165100Z
 UID:event-calendar-event-67670
 DTSTART:20261201T080000Z
-DTEND:20261201T110000Z
+DTEND:20261201T100000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
-SUMMARY:ECO218 | Lecture | Comptabilité Nationale et Agrégats Macroécono
- miques [ECO218]
+SUMMARY:ECO218 | Laboratory | Comptabilité Nationale et Agrégats Macroéc
+ onomiques [ECO218]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10749&month=12&year=2026#calendar_event_67670
 END:VEVENT
@@ -8068,100 +8006,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260831T092700Z
-UID:event-calendar-event-69393
-DTSTART:20260831T144500Z
-DTEND:20260831T154500Z
-CLASS:PUBLIC
-DESCRIPTION:Groupe \n\nLocation\n\nInstructor\n\nGroupe 1\n\nBuilding B - 
- Room: B-K1-01\n\nBounahai\, N\nCompagnon : Chaima TOULOUN\n\n([Voir la lis
- te] (https://um6p.instructure.com/courses/10744/files/818722?wrap=1))\n\nG
- roupe 2\n\nBuilding B - Room: B-K1-02\n\nBounahai\, N\nCompagnon : Fatima 
- Zahrae EL BAOU\n\n([Voir la liste] (https://um6p.instructure.com/courses/1
- 0744/files/818723?wrap=1))\n\nGroupe 3\n\nBuilding B - Room: B-G1-01\n\nBo
- unahai\, N\nCompagnon : Ghita ABID\n\n[(Voir la liste] (https://um6p.instr
- ucture.com/courses/10744/files/818725?wrap=1))\n\nGroupe 4\n\nBuilding B -
-  Room: B-G1-02\n\nBounahai\, N\nCompagnon : Adnane HRIOUA\n\n([Voir la lis
- te] (https://um6p.instructure.com/courses/10744/files/818726?wrap=1))\n\nG
- roupe 5\n\nBuilding B - Room: B-K0-01\n\nBounahai\, N\nCompagnon : Aida BO
- UZEKRI\n\n([Voir la liste] (https://um6p.instructure.com/courses/10744/fil
- es/818727?wrap=1))\n\nGroupe 6\n\nBuilding B - Room: B-K0-02\n\nBounahai\,
-  N\nCompagnon : Ayoub LOUTFI\n\n([Voir la liste] (https://um6p.instructure
- .com/courses/10744/files/818728?wrap=1))
-LOCATION:Groupe 1 : Building B - Room: B-K1-01 / Groupe 2: Building B - Roo
- m: B-K1-02 / Groupe 3 : Building B - Room: B-G1-01 / Groupe 4: Building B 
- - Room: B-G1-02 / Groupe 5: Building B - Room: B-K0-01 / Groupe 6: Buildin
- g B - Room: B-K0-02
-SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
-  1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=08&year=2026#calendar_event_69393
-X-ALT-DESC;FMTTYPE=text/html:<table style="border-collapse: collapse\; widt
- h: 49.187%\;" border="1" width="1095">\n<tbody>\n<tr>\n<td style="width: 1
- 6.6069%\;" width="362">\n<p><strong>Groupe&nbsp\;</strong></p>\n</td>\n<td
-  style="width: 27.957%\;" width="221">\n<p><strong>Location</strong></p>\n
- </td>\n<td style="width: 55.4361%\;" width="197">\n<p><strong>Instructor</
- strong></p>\n</td>\n</tr>\n<tr>\n<td style="width: 16.6069%\;" width="362"
- >\n<p><strong>Groupe 1</strong></p>\n</td>\n<td style="width: 27.957%\;" w
- idth="221">\n<p><strong>Building B - Room: B-K1-01</strong></p>\n</td>\n<t
- d style="width: 55.4361%\;" width="197">\n<p>Bounahai\, N<br><strong>Compa
- gnon : Chaima TOULOUN</strong></p>\n<p><strong>(<a class="instructure_file
- _link instructure_scribd_file inline_disabled" title="Groupe 1_Chaima_TOUL
- OUN.docx" href="https://um6p.instructure.com/courses/10744/files/818722?wr
- ap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="h
- ttps://um6p.instructure.com/api/v1/courses/10744/files/818722" data-api-re
- turntype="File">Voir la liste</a>)</strong></p>\n</td>\n</tr>\n<tr>\n<td s
- tyle="width: 16.6069%\;" width="362">\n<p><strong>Groupe 2</strong></p>\n<
- /td>\n<td style="width: 27.957%\;" width="221">\n<p><strong>Building B - R
- oom: B-K1-02</strong></p>\n</td>\n<td style="width: 55.4361%\;" width="197
- ">\n<p>Bounahai\, N<br><strong>Compagnon : Fatima Zahrae EL BAOU</strong><
- /p>\n<p><strong>(<a class="instructure_file_link instructure_scribd_file i
- nline_disabled" title="Groupe 2_Fatima_Zahrae_EL_BAOU.docx" href="https://
- um6p.instructure.com/courses/10744/files/818723?wrap=1" target="_blank" da
- ta-canvas-previewable="false" data-api-endpoint="https://um6p.instructure.
- com/api/v1/courses/10744/files/818723" data-api-returntype="File">Voir la 
- liste</a>)</strong></p>\n</td>\n</tr>\n<tr>\n<td style="width: 16.6069%\;"
-  width="362">\n<p><strong>Groupe 3</strong></p>\n</td>\n<td style="width: 
- 27.957%\;" width="221">\n<p><strong>Building B - Room: B-G1-01</strong></p
- >\n</td>\n<td style="width: 55.4361%\;" width="197">\n<p>Bounahai\, N<br><
- strong>Compagnon : Ghita ABID</strong></p>\n<p><strong><a class="instructu
- re_file_link instructure_scribd_file inline_disabled" title="Groupe 3_Ghit
- a_ABID.docx" href="https://um6p.instructure.com/courses/10744/files/818725
- ?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint
- ="https://um6p.instructure.com/api/v1/courses/10744/files/818725" data-api
- -returntype="File">(Voir la liste</a>)</strong></p>\n</td>\n</tr>\n<tr>\n<
- td style="width: 16.6069%\;" width="362">\n<p><strong>Groupe 4</strong></p
- >\n</td>\n<td style="width: 27.957%\;" width="221">\n<p><strong>Building B
-  - Room: B-G1-02</strong></p>\n</td>\n<td style="width: 55.4361%\;" width=
- "197">\n<p>Bounahai\, N<br><strong>Compagnon : Adnane HRIOUA</strong></p>\
- n<p><strong>(<a class="instructure_file_link instructure_scribd_file inlin
- e_disabled" title="Groupe 4_Adnane_HRIOUA.docx" href="https://um6p.instruc
- ture.com/courses/10744/files/818726?wrap=1" target="_blank" data-canvas-pr
- eviewable="false" data-api-endpoint="https://um6p.instructure.com/api/v1/c
- ourses/10744/files/818726" data-api-returntype="File">Voir la liste</a>)</
- strong></p>\n</td>\n</tr>\n<tr>\n<td style="width: 16.6069%\;" width="362"
- >\n<p><strong>Groupe 5</strong></p>\n</td>\n<td style="width: 27.957%\;" w
- idth="221">\n<p><strong>Building B - Room: B-K0-01</strong></p>\n</td>\n<t
- d style="width: 55.4361%\;" width="197">\n<p>Bounahai\, N<br><strong>Compa
- gnon : Aida BOUZEKRI</strong></p>\n<p><strong>(<a class="instructure_file_
- link instructure_scribd_file inline_disabled" title="Groupe 5_Aida_BOUZEKR
- I.docx" href="https://um6p.instructure.com/courses/10744/files/818727?wrap
- =1" target="_blank" data-canvas-previewable="false" data-api-endpoint="htt
- ps://um6p.instructure.com/api/v1/courses/10744/files/818727" data-api-retu
- rntype="File">Voir la liste</a>)</strong></p>\n</td>\n</tr>\n<tr>\n<td sty
- le="width: 16.6069%\;" width="362">\n<p><strong>Groupe 6</strong></p>\n</t
- d>\n<td style="width: 27.957%\;" width="221">\n<p><strong>Building B - Roo
- m: B-K0-02</strong></p>\n</td>\n<td style="width: 55.4361%\;" width="197">
- \n<p>Bounahai\, N<br><strong>Compagnon : Ayoub LOUTFI</strong></p>\n<p><st
- rong>(<a class="instructure_file_link instructure_scribd_file inline_disab
- led" title="Groupe 6_Ayoub_LOUTFI.docx" href="https://um6p.instructure.com
- /courses/10744/files/818728?wrap=1" target="_blank" data-canvas-previewabl
- e="false" data-api-endpoint="https://um6p.instructure.com/api/v1/courses/1
- 0744/files/818728" data-api-returntype="File">Voir la liste</a>)</strong><
- /p>\n</td>\n</tr>\n</tbody>\n</table>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260831T175700Z
@@ -10301,31 +10145,6 @@ SEQUENCE:0
 SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260830T185200Z
-UID:event-calendar-event-67687
-DTSTART:20260831T123000Z
-DTEND:20260831T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:ECO222 | Lecture | Introduction à l'Économie du Développement [E
- CO222]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10707&month=08&year=2026#calendar_event_67687
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260827T132200Z
-UID:event-calendar-event-68214
-DTSTART:20260831T154500Z
-DTEND:20260831T174500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:INT202 | Lecture | Theories of International Relations [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=08&year=2026#calendar_event_68214
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260827T135900Z
@@ -14768,100 +14587,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260831T092700Z
-UID:event-calendar-event-69393
-DTSTART:20260831T144500Z
-DTEND:20260831T154500Z
-CLASS:PUBLIC
-DESCRIPTION:Groupe \n\nLocation\n\nInstructor\n\nGroupe 1\n\nBuilding B - 
- Room: B-K1-01\n\nBounahai\, N\nCompagnon : Chaima TOULOUN\n\n([Voir la lis
- te] (https://um6p.instructure.com/courses/10744/files/818722?wrap=1))\n\nG
- roupe 2\n\nBuilding B - Room: B-K1-02\n\nBounahai\, N\nCompagnon : Fatima 
- Zahrae EL BAOU\n\n([Voir la liste] (https://um6p.instructure.com/courses/1
- 0744/files/818723?wrap=1))\n\nGroupe 3\n\nBuilding B - Room: B-G1-01\n\nBo
- unahai\, N\nCompagnon : Ghita ABID\n\n[(Voir la liste] (https://um6p.instr
- ucture.com/courses/10744/files/818725?wrap=1))\n\nGroupe 4\n\nBuilding B -
-  Room: B-G1-02\n\nBounahai\, N\nCompagnon : Adnane HRIOUA\n\n([Voir la lis
- te] (https://um6p.instructure.com/courses/10744/files/818726?wrap=1))\n\nG
- roupe 5\n\nBuilding B - Room: B-K0-01\n\nBounahai\, N\nCompagnon : Aida BO
- UZEKRI\n\n([Voir la liste] (https://um6p.instructure.com/courses/10744/fil
- es/818727?wrap=1))\n\nGroupe 6\n\nBuilding B - Room: B-K0-02\n\nBounahai\,
-  N\nCompagnon : Ayoub LOUTFI\n\n([Voir la liste] (https://um6p.instructure
- .com/courses/10744/files/818728?wrap=1))
-LOCATION:Groupe 1 : Building B - Room: B-K1-01 / Groupe 2: Building B - Roo
- m: B-K1-02 / Groupe 3 : Building B - Room: B-G1-01 / Groupe 4: Building B 
- - Room: B-G1-02 / Groupe 5: Building B - Room: B-K0-01 / Groupe 6: Buildin
- g B - Room: B-K0-02
-SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
-  1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=08&year=2026#calendar_event_69393
-X-ALT-DESC;FMTTYPE=text/html:<table style="border-collapse: collapse\; widt
- h: 49.187%\;" border="1" width="1095">\n<tbody>\n<tr>\n<td style="width: 1
- 6.6069%\;" width="362">\n<p><strong>Groupe&nbsp\;</strong></p>\n</td>\n<td
-  style="width: 27.957%\;" width="221">\n<p><strong>Location</strong></p>\n
- </td>\n<td style="width: 55.4361%\;" width="197">\n<p><strong>Instructor</
- strong></p>\n</td>\n</tr>\n<tr>\n<td style="width: 16.6069%\;" width="362"
- >\n<p><strong>Groupe 1</strong></p>\n</td>\n<td style="width: 27.957%\;" w
- idth="221">\n<p><strong>Building B - Room: B-K1-01</strong></p>\n</td>\n<t
- d style="width: 55.4361%\;" width="197">\n<p>Bounahai\, N<br><strong>Compa
- gnon : Chaima TOULOUN</strong></p>\n<p><strong>(<a class="instructure_file
- _link instructure_scribd_file inline_disabled" title="Groupe 1_Chaima_TOUL
- OUN.docx" href="https://um6p.instructure.com/courses/10744/files/818722?wr
- ap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="h
- ttps://um6p.instructure.com/api/v1/courses/10744/files/818722" data-api-re
- turntype="File">Voir la liste</a>)</strong></p>\n</td>\n</tr>\n<tr>\n<td s
- tyle="width: 16.6069%\;" width="362">\n<p><strong>Groupe 2</strong></p>\n<
- /td>\n<td style="width: 27.957%\;" width="221">\n<p><strong>Building B - R
- oom: B-K1-02</strong></p>\n</td>\n<td style="width: 55.4361%\;" width="197
- ">\n<p>Bounahai\, N<br><strong>Compagnon : Fatima Zahrae EL BAOU</strong><
- /p>\n<p><strong>(<a class="instructure_file_link instructure_scribd_file i
- nline_disabled" title="Groupe 2_Fatima_Zahrae_EL_BAOU.docx" href="https://
- um6p.instructure.com/courses/10744/files/818723?wrap=1" target="_blank" da
- ta-canvas-previewable="false" data-api-endpoint="https://um6p.instructure.
- com/api/v1/courses/10744/files/818723" data-api-returntype="File">Voir la 
- liste</a>)</strong></p>\n</td>\n</tr>\n<tr>\n<td style="width: 16.6069%\;"
-  width="362">\n<p><strong>Groupe 3</strong></p>\n</td>\n<td style="width: 
- 27.957%\;" width="221">\n<p><strong>Building B - Room: B-G1-01</strong></p
- >\n</td>\n<td style="width: 55.4361%\;" width="197">\n<p>Bounahai\, N<br><
- strong>Compagnon : Ghita ABID</strong></p>\n<p><strong><a class="instructu
- re_file_link instructure_scribd_file inline_disabled" title="Groupe 3_Ghit
- a_ABID.docx" href="https://um6p.instructure.com/courses/10744/files/818725
- ?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint
- ="https://um6p.instructure.com/api/v1/courses/10744/files/818725" data-api
- -returntype="File">(Voir la liste</a>)</strong></p>\n</td>\n</tr>\n<tr>\n<
- td style="width: 16.6069%\;" width="362">\n<p><strong>Groupe 4</strong></p
- >\n</td>\n<td style="width: 27.957%\;" width="221">\n<p><strong>Building B
-  - Room: B-G1-02</strong></p>\n</td>\n<td style="width: 55.4361%\;" width=
- "197">\n<p>Bounahai\, N<br><strong>Compagnon : Adnane HRIOUA</strong></p>\
- n<p><strong>(<a class="instructure_file_link instructure_scribd_file inlin
- e_disabled" title="Groupe 4_Adnane_HRIOUA.docx" href="https://um6p.instruc
- ture.com/courses/10744/files/818726?wrap=1" target="_blank" data-canvas-pr
- eviewable="false" data-api-endpoint="https://um6p.instructure.com/api/v1/c
- ourses/10744/files/818726" data-api-returntype="File">Voir la liste</a>)</
- strong></p>\n</td>\n</tr>\n<tr>\n<td style="width: 16.6069%\;" width="362"
- >\n<p><strong>Groupe 5</strong></p>\n</td>\n<td style="width: 27.957%\;" w
- idth="221">\n<p><strong>Building B - Room: B-K0-01</strong></p>\n</td>\n<t
- d style="width: 55.4361%\;" width="197">\n<p>Bounahai\, N<br><strong>Compa
- gnon : Aida BOUZEKRI</strong></p>\n<p><strong>(<a class="instructure_file_
- link instructure_scribd_file inline_disabled" title="Groupe 5_Aida_BOUZEKR
- I.docx" href="https://um6p.instructure.com/courses/10744/files/818727?wrap
- =1" target="_blank" data-canvas-previewable="false" data-api-endpoint="htt
- ps://um6p.instructure.com/api/v1/courses/10744/files/818727" data-api-retu
- rntype="File">Voir la liste</a>)</strong></p>\n</td>\n</tr>\n<tr>\n<td sty
- le="width: 16.6069%\;" width="362">\n<p><strong>Groupe 6</strong></p>\n</t
- d>\n<td style="width: 27.957%\;" width="221">\n<p><strong>Building B - Roo
- m: B-K0-02</strong></p>\n</td>\n<td style="width: 55.4361%\;" width="197">
- \n<p>Bounahai\, N<br><strong>Compagnon : Ayoub LOUTFI</strong></p>\n<p><st
- rong>(<a class="instructure_file_link instructure_scribd_file inline_disab
- led" title="Groupe 6_Ayoub_LOUTFI.docx" href="https://um6p.instructure.com
- /courses/10744/files/818728?wrap=1" target="_blank" data-canvas-previewabl
- e="false" data-api-endpoint="https://um6p.instructure.com/api/v1/courses/1
- 0744/files/818728" data-api-returntype="File">Voir la liste</a>)</strong><
- /p>\n</td>\n</tr>\n</tbody>\n</table>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260831T175700Z
 UID:event-calendar-event-67549
 DTSTART:20260901T080000Z
@@ -15845,6 +15570,18 @@ SUMMARY:DAT104 | Lecture | Statistiques Descriptives et Probabilités [DAT1
  04]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10738&month=10&year=2026#calendar_event_67360
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T193200Z
+UID:event-assignment-35204
+DTSTART:20261001T110000Z
+DTEND:20261001T110000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Pour chacune des questions suivantes donnez la bonne réponse [DAT1
+ 04]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10738&month=10&year=2026#assignment_35204
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260930T160400Z
