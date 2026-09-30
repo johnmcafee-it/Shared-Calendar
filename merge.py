@@ -10,7 +10,7 @@ ICS_URLS = [
     "https://um6p.instructure.com/feeds/calendars/user_D3k8V5PIUvkoHVBjnPUymukNnPXTPZ29NnDGGyUS.ics",
     "https://um6p.instructure.com/feeds/calendars/user_9PH88djY5kyPeN5Nut7Ba2rqHUEFcqERSFca4fKt.ics",
     "https://um6p.instructure.com/feeds/calendars/user_dDwyNG6DiNTe6ItpO7WmP8lOdPcAeNH7ZLp3mHC0.ics",
-    "LINK10"
+    "https://um6p.instructure.com/feeds/calendars/user_Ai337pW7eRegnn1WWlJa1LRe9KlPQIhjeIxRyXZJ.ics"
 ]
 
 events = []
