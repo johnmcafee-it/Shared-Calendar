@@ -5,7 +5,7 @@ ICS_URLS = [
     "https://um6p.instructure.com/feeds/calendars/user_OdWc5SEkRb8Xb0qnEDC9YcOUi2SAS8rstjTZTM6v.ics",
     "https://um6p.instructure.com/feeds/calendars/user_50Lk68NhlhAPk3qgQoMyWkPmiqeSOBiERtuYks3S.ics",
     "https://um6p.instructure.com/feeds/calendars/user_DX9BSFOirLcb9heoN4BsMhTE7Wj38VfeeaD5mpQD.ics",
-    "LINK5",
+    "https://um6p.instructure.com/feeds/calendars/user_WyGsAYh2gk6CN2Fc76flU1Z0hcNcrGCajoAtfXTn.ics",
     "LINK6",
     "LINK7",
     "LINK8",
