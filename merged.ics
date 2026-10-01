@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260831T105800Z
-UID:event-calendar-event-69091
-DTSTART:20260901T170000Z
-DTEND:20260901T200000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO214 | Lecture | Théorie des Jeux: Approche Stratégique [ECO214
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=09&year=2026#calendar_event_69091
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260831T105900Z
 UID:event-calendar-event-67627
 DTSTART:20260903T080000Z
@@ -10019,19 +10006,6 @@ SEQUENCE:0
 SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260831T105800Z
-UID:event-calendar-event-69091
-DTSTART:20260901T170000Z
-DTEND:20260901T200000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO214 | Lecture | Théorie des Jeux: Approche Stratégique [ECO214
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=09&year=2026#calendar_event_69091
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T080600Z
