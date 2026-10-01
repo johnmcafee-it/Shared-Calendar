@@ -2172,18 +2172,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260827T134800Z
-UID:event-calendar-event-68428
-DTSTART:20260901T083000Z
-DTEND:20260901T113000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-03
-SEQUENCE:0
-SUMMARY:LAW305 | Lecture | Droit Administratif [LAW305]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10765&month=09&year=2026#calendar_event_68428
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260827T135900Z
 UID:event-calendar-event-68342
 DTSTART:20260901T123000Z
@@ -3512,18 +3500,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260827T134800Z
-UID:event-calendar-event-68428
-DTSTART:20260901T083000Z
-DTEND:20260901T113000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-03
-SEQUENCE:0
-SUMMARY:LAW305 | Lecture | Droit Administratif [LAW305]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10765&month=09&year=2026#calendar_event_68428
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260827T135900Z
 UID:event-calendar-event-68342
 DTSTART:20260901T123000Z
@@ -4833,18 +4809,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=12&year=2026#calendar_event_68398
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260827T134800Z
-UID:event-calendar-event-68428
-DTSTART:20260901T083000Z
-DTEND:20260901T113000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-03
-SEQUENCE:0
-SUMMARY:LAW305 | Lecture | Droit Administratif [LAW305]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10765&month=09&year=2026#calendar_event_68428
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260827T135900Z
 UID:event-calendar-event-68342
 DTSTART:20260901T123000Z
@@ -6091,19 +6055,6 @@ SEQUENCE:0
 SUMMARY:INT012E | Q&A | Emerging Global Security Governance [INT012ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=12&year=2026#calendar_event_68168
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T081200Z
-UID:event-calendar-event-67657
-DTSTART:20260901T080000Z
-DTEND:20260901T100000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO218 | Lecture | Comptabilité Nationale et Agrégats Macroécono
- miques [ECO218]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10749&month=09&year=2026#calendar_event_67657
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T080600Z
@@ -8006,24 +7957,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260831T175700Z
-UID:event-calendar-event-67549
-DTSTART:20260901T080000Z
-DTEND:20260901T110000Z
-CLASS:PUBLIC
-DESCRIPTION:Please use the overflow room (B-I0-01) in case of a lack of ava
- ilable seats.
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:ECO101 | Lecture | Introduction à l'Analyse Economique [ECO101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10740&month=09&year=2026#calendar_event_67549
-X-ALT-DESC;FMTTYPE=text/html:<p><span style="color: #cf4a00\;"><em><strong>
- Please use the overflow room (B-I0-01) in case of a lack of available seat
- s.</strong></em></span></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260901T193100Z
@@ -11989,19 +11922,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260827T134100Z
-UID:event-calendar-event-68605
-DTSTART:20260901T080000Z
-DTEND:20260901T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:POL212 | Lecture | Systèmes Politiques Comparés et Philosophie Po
- litique [POL212]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10770&month=09&year=2026#calendar_event_68605
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260827T135900Z
 UID:event-calendar-event-68342
 DTSTART:20260901T123000Z
@@ -13494,18 +13414,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260827T134800Z
-UID:event-calendar-event-68428
-DTSTART:20260901T083000Z
-DTEND:20260901T113000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-03
-SEQUENCE:0
-SUMMARY:LAW305 | Lecture | Droit Administratif [LAW305]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10765&month=09&year=2026#calendar_event_68428
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260827T135900Z
 UID:event-calendar-event-68342
 DTSTART:20260901T123000Z
@@ -14587,24 +14495,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260831T175700Z
-UID:event-calendar-event-67549
-DTSTART:20260901T080000Z
-DTEND:20260901T110000Z
-CLASS:PUBLIC
-DESCRIPTION:Please use the overflow room (B-I0-01) in case of a lack of ava
- ilable seats.
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:ECO101 | Lecture | Introduction à l'Analyse Economique [ECO101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10740&month=09&year=2026#calendar_event_67549
-X-ALT-DESC;FMTTYPE=text/html:<p><span style="color: #cf4a00\;"><em><strong>
- Please use the overflow room (B-I0-01) in case of a lack of available seat
- s.</strong></em></span></p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260812T184100Z
 UID:event-calendar-event-67356
 DTSTART:20260901T123000Z
@@ -15572,18 +15462,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10738&month=10&year=2026#calendar_event_67360
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260930T205200Z
-UID:event-assignment-35204
-DTSTART:20261001T110000Z
-DTEND:20261001T110000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Pour chacune des questions suivantes donnez la bonne réponse [DAT1
- 04]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10738&month=10&year=2026#assignment_35204
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260930T160400Z
 UID:event-calendar-event-68333
 DTSTART:20261001T170000Z
@@ -15769,6 +15647,18 @@ SUMMARY:ECO101 | Flexible session | Introduction à l'Analyse Economique [E
  CO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67556
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T112300Z
+UID:event-assignment-35204
+DTSTART:20261015T110000Z
+DTEND:20261015T110000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Pour chacune des questions suivantes donnez la bonne réponse [DAT1
+ 04]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10738&month=10&year=2026#assignment_35204
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T103200Z
