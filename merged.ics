@@ -5984,18 +5984,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=12&year=2026#calendar_event_68168
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T080600Z
-UID:event-calendar-event-67582
-DTSTART:20260902T080000Z
-DTEND:20260902T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:ECO202 | Lecture | Macroéconomie 1 [ECO202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10747&month=09&year=2026#calendar_event_67582
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260901T152200Z
 UID:event-calendar-event-68110
 DTSTART:20260902T170000Z
@@ -9024,17 +9012,34 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=10&year=2026#calendar_event_68747
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260826T201500Z
+DTSTAMP:20261002T112200Z
 UID:event-calendar-event-69365
-DTSTART:20261005T134500Z
-DTEND:20261005T154500Z
+DTSTART:20261005T133000Z
+DTEND:20261005T143000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - R
+ oom: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Group
+ e 6 - Room: B-K0-02
 SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées [RES101
- ]
+SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
+  1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=10&year=2026#calendar_event_69365
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T112300Z
+UID:event-calendar-event-71674
+DTSTART:20261005T144500Z
+DTEND:20261005T154500Z
+CLASS:PUBLIC
+LOCATION:Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - R
+ oom: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gro
+ upe 12 - Room: B-K0-02
+SEQUENCE:0
+SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
+  7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10744&month=10&year=2026#calendar_event_71674
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260716T162400Z
@@ -10006,18 +10011,6 @@ SEQUENCE:0
 SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T080600Z
-UID:event-calendar-event-67612
-DTSTART:20260902T080000Z
-DTEND:20260902T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-H0-01
-SEQUENCE:0
-SUMMARY:ECO204P | Lecture | Development Microeconomics [ECO204P]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10704&month=09&year=2026#calendar_event_67612
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260831T105900Z
@@ -15417,17 +15410,34 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=10&year=2026#calendar_event_68747
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260826T201500Z
+DTSTAMP:20261002T112200Z
 UID:event-calendar-event-69365
-DTSTART:20261005T134500Z
-DTEND:20261005T154500Z
+DTSTART:20261005T133000Z
+DTEND:20261005T143000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - R
+ oom: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Group
+ e 6 - Room: B-K0-02
 SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées [RES101
- ]
+SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
+  1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=10&year=2026#calendar_event_69365
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T112300Z
+UID:event-calendar-event-71674
+DTSTART:20261005T144500Z
+DTEND:20261005T154500Z
+CLASS:PUBLIC
+LOCATION:Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - R
+ oom: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gro
+ upe 12 - Room: B-K0-02
+SEQUENCE:0
+SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
+  7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10744&month=10&year=2026#calendar_event_71674
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260716T162400Z
