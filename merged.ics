@@ -7655,19 +7655,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260903T165400Z
-UID:event-calendar-event-68050
-DTSTART:20260904T080000Z
-DTEND:20260904T111500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
-SEQUENCE:0
-SUMMARY:HIS103 | Lecture | Le Monde: Une Histoire Moderne et Contemporaine 
- [HIS103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10741&month=09&year=2026#calendar_event_68050
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260906T123200Z
 UID:event-calendar-event-68327
 DTSTART:20260907T080000Z
@@ -13996,19 +13983,6 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260903T165400Z
-UID:event-calendar-event-68050
-DTSTART:20260904T080000Z
-DTEND:20260904T111500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
-SEQUENCE:0
-SUMMARY:HIS103 | Lecture | Le Monde: Une Histoire Moderne et Contemporaine 
- [HIS103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10741&month=09&year=2026#calendar_event_68050
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260906T123200Z
