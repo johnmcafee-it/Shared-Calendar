@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260830T185100Z
-UID:event-calendar-event-68590
-DTSTART:20260904T123000Z
-DTEND:20260904T153000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:POL203 | Lecture | Politique et Economie [POL203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10757&month=09&year=2026#calendar_event_68590
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260902T110000Z
 UID:event-assignment-34037
 DTSTART;VALUE=DATE;VALUE=DATE:20260906
@@ -11508,18 +11496,6 @@ SEQUENCE:0
 SUMMARY:INT201 | Q&A | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260830T185100Z
-UID:event-calendar-event-68590
-DTSTART:20260904T123000Z
-DTEND:20260904T153000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:POL203 | Lecture | Politique et Economie [POL203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10757&month=09&year=2026#calendar_event_68590
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260903T085800Z
