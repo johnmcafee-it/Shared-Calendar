@@ -4908,7 +4908,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=09&year=2026#calendar_event_68157
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260924T180000Z
+DTSTAMP:20261006T200200Z
 UID:event-assignment-35042
 DTSTART:20260924T170000Z
 DTEND:20260924T170000Z
@@ -15195,18 +15195,6 @@ SUMMARY:ECO101 | Flexible session | Introduction à l'Analyse Economique [E
  CO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67556
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261001T112300Z
-UID:event-assignment-35204
-DTSTART:20261015T110000Z
-DTEND:20261015T110000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Pour chacune des questions suivantes donnez la bonne réponse [DAT1
- 04]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10738&month=10&year=2026#assignment_35204
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T103200Z
