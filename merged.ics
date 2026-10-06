@@ -1393,14 +1393,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10705&month=10&year=2026#calendar_event_67634
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T092100Z
+DTSTAMP:20261005T150900Z
 UID:event-calendar-event-68206
 DTSTART:20261022T140000Z
 DTEND:20261022T160000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-G0-01
 SEQUENCE:0
-SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
+SUMMARY:INT201 | Mid-Term exam | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=10&year=2026#calendar_event_68206
 END:VEVENT
@@ -1482,14 +1482,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=10&year=2026#calendar_event_68597
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260903T085900Z
+DTSTAMP:20261005T145600Z
 UID:event-calendar-event-68583
 DTSTART:20261026T090000Z
 DTEND:20261026T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-F0-02
 SEQUENCE:0
-SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
+SUMMARY:POL201 | Mid-Term exam | Institutions Politiques Marocaines [POL201
+ ]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=10&year=2026#calendar_event_68583
 END:VEVENT
@@ -2802,14 +2803,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=10&year=2026#calendar_event_67541
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260903T085900Z
+DTSTAMP:20261005T145600Z
 UID:event-calendar-event-68583
 DTSTART:20261026T090000Z
 DTEND:20261026T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-F0-02
 SEQUENCE:0
-SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
+SUMMARY:POL201 | Mid-Term exam | Institutions Politiques Marocaines [POL201
+ ]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=10&year=2026#calendar_event_68583
 END:VEVENT
@@ -4086,14 +4088,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10723&month=10&year=2026#calendar_event_68074
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260903T085900Z
+DTSTAMP:20261005T145600Z
 UID:event-calendar-event-68583
 DTSTART:20261026T090000Z
 DTEND:20261026T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-F0-02
 SEQUENCE:0
-SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
+SUMMARY:POL201 | Mid-Term exam | Institutions Politiques Marocaines [POL201
+ ]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=10&year=2026#calendar_event_68583
 END:VEVENT
@@ -4709,7 +4712,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=09&year=2026#calendar_event_68155
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260915T063700Z
+DTSTAMP:20261005T180400Z
 UID:event-assignment-34253
 DTSTART:20260912T123000Z
 DTEND:20260912T123000Z
@@ -5266,14 +5269,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=10&year=2026#calendar_event_68161
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260903T085900Z
+DTSTAMP:20261005T145600Z
 UID:event-calendar-event-68583
 DTSTART:20261026T090000Z
 DTEND:20261026T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-F0-02
 SEQUENCE:0
-SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
+SUMMARY:POL201 | Mid-Term exam | Institutions Politiques Marocaines [POL201
+ ]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=10&year=2026#calendar_event_68583
 END:VEVENT
@@ -6953,12 +6957,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10749&month=10&year=2026#calendar_event_67663
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260806T092400Z
+DTSTAMP:20261005T182700Z
 UID:event-calendar-event-69104
 DTSTART:20261006T170000Z
 DTEND:20261006T190000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
+LOCATION:Building B - Room: B-G0-01
 SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -8746,28 +8750,58 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=10&year=2026#calendar_event_71674
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260716T162400Z
+DTSTAMP:20261005T180600Z
+UID:event-calendar-event-71701
+DTSTART:20261006T100000Z
+DTEND:20261006T110000Z
+CLASS:PUBLIC
+LOCATION:Building B - Room: B-H0-01/Building B - Room: B-I0-01
+SEQUENCE:0
+SUMMARY:ECO101 | Office Hours | Introduction à l'Analyse Economique [ECO10
+ 1]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10740&month=10&year=2026#calendar_event_71701
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T182500Z
 UID:event-calendar-event-67555
 DTSTART:20261006T111500Z
 DTEND:20261006T120000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:ECO101 | Q&A | Introduction à l'Analyse Economique [ECO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67555
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260829T230800Z
+DTSTAMP:20261005T151400Z
 UID:event-calendar-event-67554
 DTSTART:20261006T123000Z
-DTEND:20261006T154500Z
+DTEND:20261006T140000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Groupe 1 - Room: B-I0-01 / Groupe 2 - Room: B-I0-02 / Groupe 3 - R
+ oom: B-C0-01 / Groupe 4 - Room: B-H0-02 / Groupe 5 - Room: B-F0-01
 SEQUENCE:0
-SUMMARY:ECO101 | Laboratory | Introduction à l'Analyse Economique [ECO101]
+SUMMARY:ECO101 | Laboratory | Introduction à l'Analyse Economique(Groupe 1
+ \, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5) [ECO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67554
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T151400Z
+UID:event-calendar-event-71698
+DTSTART:20261006T141500Z
+DTEND:20261006T154500Z
+CLASS:PUBLIC
+LOCATION:Groupe 6 - Room: B-I0-01 / Groupe 7 - Room: B-I0-02 / Groupe 8 - R
+ oom: B-C0-01 / Groupe 9 - Room: B-H0-02 / Groupe 10 - Room: B-F0-01
+SEQUENCE:0
+SUMMARY:ECO101 | Laboratory | Introduction à l'Analyse Economique(Groupe 6
+ \, Groupe 7\, Groupe 8\, Groupe 9\, Groupe 10) [ECO101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10740&month=10&year=2026#calendar_event_71698
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T111500Z
@@ -10153,12 +10187,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=10&year=2026#calendar_event_68348
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260904T151500Z
+DTSTAMP:20261005T182700Z
 UID:event-calendar-event-67693
 DTSTART:20261006T154500Z
 DTEND:20261006T163000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
+LOCATION:Building B - Room: B-B0-02
 SEQUENCE:0
 SUMMARY:ECO222 | Q&A | Introduction à l'Économie du Développement [ECO22
  2]
@@ -10881,10 +10915,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=10&year=2026#calendar_event_68349
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T080600Z
+DTSTAMP:20261005T110000Z
 UID:event-calendar-event-67619
 DTSTART:20261021T080000Z
-DTEND:20261021T100000Z
+DTEND:20261021T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-H0-01
 SEQUENCE:0
@@ -10906,14 +10940,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10705&month=10&year=2026#calendar_event_67634
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T092100Z
+DTSTAMP:20261005T150900Z
 UID:event-calendar-event-68206
 DTSTART:20261022T140000Z
 DTEND:20261022T160000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-G0-01
 SEQUENCE:0
-SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
+SUMMARY:INT201 | Mid-Term exam | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=10&year=2026#calendar_event_68206
 END:VEVENT
@@ -11192,6 +11226,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=11&year=2026#calendar_event_68209
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261005T110100Z
+UID:event-calendar-event-67623
+DTSTART:20261113T154500Z
+DTEND:20261113T174500Z
+CLASS:PUBLIC
+LOCATION:Building A - Room: A-H0-01
+SEQUENCE:0
+SUMMARY:ECO204P | Lecture | Development Microeconomics [ECO204P]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10704&month=11&year=2026#calendar_event_67623
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260916T142400Z
 UID:event-assignment-34494
 DTSTART:20261115T225900Z
@@ -11238,18 +11284,6 @@ SEQUENCE:0
 SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=11&year=2026#calendar_event_68210
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T080600Z
-UID:event-calendar-event-67623
-DTSTART:20261120T154500Z
-DTEND:20261120T174500Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-H0-01
-SEQUENCE:0
-SUMMARY:ECO204P | Lecture | Development Microeconomics [ECO204P]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10704&month=11&year=2026#calendar_event_67623
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260902T154500Z
@@ -12344,14 +12378,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=10&year=2026#calendar_event_68597
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260903T085900Z
+DTSTAMP:20261005T145600Z
 UID:event-calendar-event-68583
 DTSTART:20261026T090000Z
 DTEND:20261026T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-F0-02
 SEQUENCE:0
-SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
+SUMMARY:POL201 | Mid-Term exam | Institutions Politiques Marocaines [POL201
+ ]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=10&year=2026#calendar_event_68583
 END:VEVENT
@@ -13457,14 +13492,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=10&year=2026#calendar_event_67541
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260903T085900Z
+DTSTAMP:20261005T145600Z
 UID:event-calendar-event-68583
 DTSTART:20261026T090000Z
 DTEND:20261026T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-F0-02
 SEQUENCE:0
-SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
+SUMMARY:POL201 | Mid-Term exam | Institutions Politiques Marocaines [POL201
+ ]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=10&year=2026#calendar_event_68583
 END:VEVENT
@@ -14994,28 +15030,58 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=10&year=2026#calendar_event_71674
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260716T162400Z
+DTSTAMP:20261005T180600Z
+UID:event-calendar-event-71701
+DTSTART:20261006T100000Z
+DTEND:20261006T110000Z
+CLASS:PUBLIC
+LOCATION:Building B - Room: B-H0-01/Building B - Room: B-I0-01
+SEQUENCE:0
+SUMMARY:ECO101 | Office Hours | Introduction à l'Analyse Economique [ECO10
+ 1]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10740&month=10&year=2026#calendar_event_71701
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T182500Z
 UID:event-calendar-event-67555
 DTSTART:20261006T111500Z
 DTEND:20261006T120000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:ECO101 | Q&A | Introduction à l'Analyse Economique [ECO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67555
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260829T230800Z
+DTSTAMP:20261005T151400Z
 UID:event-calendar-event-67554
 DTSTART:20261006T123000Z
-DTEND:20261006T154500Z
+DTEND:20261006T140000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Groupe 1 - Room: B-I0-01 / Groupe 2 - Room: B-I0-02 / Groupe 3 - R
+ oom: B-C0-01 / Groupe 4 - Room: B-H0-02 / Groupe 5 - Room: B-F0-01
 SEQUENCE:0
-SUMMARY:ECO101 | Laboratory | Introduction à l'Analyse Economique [ECO101]
+SUMMARY:ECO101 | Laboratory | Introduction à l'Analyse Economique(Groupe 1
+ \, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5) [ECO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67554
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T151400Z
+UID:event-calendar-event-71698
+DTSTART:20261006T141500Z
+DTEND:20261006T154500Z
+CLASS:PUBLIC
+LOCATION:Groupe 6 - Room: B-I0-01 / Groupe 7 - Room: B-I0-02 / Groupe 8 - R
+ oom: B-C0-01 / Groupe 9 - Room: B-H0-02 / Groupe 10 - Room: B-F0-01
+SEQUENCE:0
+SUMMARY:ECO101 | Laboratory | Introduction à l'Analyse Economique(Groupe 6
+ \, Groupe 7\, Groupe 8\, Groupe 9\, Groupe 10) [ECO101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10740&month=10&year=2026#calendar_event_71698
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T111500Z
