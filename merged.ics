@@ -2,36 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260902T110000Z
-UID:event-assignment-34037
-DTSTART;VALUE=DATE;VALUE=DATE:20260906
-CLASS:PUBLIC
-DESCRIPTION:You are required to form your groups according to the professor
- ’s designated group structure. You should select one country from the li
- st provided in the course slides and prepare a video based on your chosen 
- country according to the instructions provided in the course slides for We
- ek 1.\n\nYour work should be developed around the two central notions disc
- ussed in class: Power and State Interest. These concepts should serve as t
- he analytical foundation of your video and guide the way you approach and 
- present your chosen country.
-SEQUENCE:0
-SUMMARY:Video Assignment  [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=09&year=2026#assignment_34037
-X-ALT-DESC;FMTTYPE=text/html:<p class="isSelectedEnd"><span>You are require
- d to </span><strong><span>form your groups according to the professor’s 
- designated group structure</span></strong><span>. You should select </span
- ><strong><span>one country from the list provided in the course slides</sp
- an></strong><span> and prepare a </span><strong><span>video</span></strong
- ><span> based on your chosen country according to the instructions provide
- d in the course slides for Week 1.</span></p>\n<p class="isSelectedEnd"><s
- pan>Your work should be developed around the two central notions discussed
-  in class: </span><span><strong>Power</strong></span><span> and </span><sp
- an><strong>State Interest</strong></span><span>. These concepts should ser
- ve as the analytical foundation of your video and guide the way you approa
- ch and present your chosen country.</span></p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260903T085800Z
 UID:event-calendar-event-68576
 DTSTART:20260907T083000Z
@@ -1356,14 +1326,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=10&year=2026#calendar_event_68582
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260904T152600Z
+DTSTAMP:20261006T231300Z
 UID:event-calendar-event-68221
 DTSTART:20261019T154500Z
 DTEND:20261019T184500Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-G0-01
 SEQUENCE:0
-SUMMARY:INT202 | Lecture | Theories of International Relations [INT202]
+SUMMARY:INT202 | Midterm exam | Theories of International Relations [INT202
+ ]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10711&month=10&year=2026#calendar_event_68221
 END:VEVENT
@@ -1380,15 +1351,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=10&year=2026#calendar_event_68349
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T080600Z
+DTSTAMP:20261006T230100Z
 UID:event-calendar-event-67634
 DTSTART:20261022T080000Z
 DTEND:20261022T100000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-G1-02
 SEQUENCE:0
-SUMMARY:ECO214 | Lecture | Théorie des Jeux: Approche Stratégique [ECO214
- ]
+SUMMARY:ECO214 | Midterm exam | Théorie des Jeux: Approche Stratégique [E
+ CO214]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10705&month=10&year=2026#calendar_event_67634
 END:VEVENT
@@ -1470,14 +1441,14 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-v
  end="903">&nbsp\;</p>\n<p><br><br></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260909T095100Z
+DTSTAMP:20261006T232100Z
 UID:event-calendar-event-68597
 DTSTART:20261023T123000Z
 DTEND:20261023T153000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-B0-01
 SEQUENCE:0
-SUMMARY:POL203 | Lecture | Politique et Economie [POL203]
+SUMMARY:POL203 | Midterm exam | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=10&year=2026#calendar_event_68597
 END:VEVENT
@@ -2865,15 +2836,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=10&year=2026#calendar_event_68394
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260716T162400Z
+DTSTAMP:20261006T230500Z
 UID:event-calendar-event-67542
 DTSTART:20261029T140000Z
 DTEND:20261029T160000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-F0-01
 SEQUENCE:0
-SUMMARY:ECO003E | Laboratory | Marché des Capitaux: Techniques et Organisa
- tion [ECO003ELM]
+SUMMARY:ECO003E | Midterm exam | Marché des Capitaux: Techniques et Organi
+ sation [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=10&year=2026#calendar_event_67542
 END:VEVENT
@@ -5257,14 +5228,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=10&year=2026#calendar_event_68393
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T092800Z
+DTSTAMP:20261006T231500Z
 UID:event-calendar-event-68161
 DTSTART:20261022T140000Z
 DTEND:20261022T160000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-A1-02
 SEQUENCE:0
-SUMMARY:INT012E | Lecture | Emerging Global Security Governance [INT012ELM]
+SUMMARY:INT012E | Midterm exam | Emerging Global Security Governance [INT01
+ 2ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=10&year=2026#calendar_event_68161
 END:VEVENT
@@ -7115,14 +7087,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=10&year=2026#calendar_event_69109
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260915T100800Z
+DTSTAMP:20261006T235000Z
 UID:event-calendar-event-67604
 DTSTART:20261022T080000Z
 DTEND:20261022T100000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-G0-01
 SEQUENCE:0
-SUMMARY:ECO203 | Lecture | Econometrics 1 [ECO203]
+SUMMARY:ECO203 | Midterm exam | Econometrics 1 [ECO203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10748&month=10&year=2026#calendar_event_67604
 END:VEVENT
@@ -7177,27 +7149,27 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10726&month=10&year=2026#calendar_event_68117
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T081200Z
+DTSTAMP:20261006T232300Z
 UID:event-calendar-event-67665
 DTSTART:20261027T080000Z
 DTEND:20261027T100000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
-SUMMARY:ECO218 | Laboratory | Comptabilité Nationale et Agrégats Macroéc
- onomiques [ECO218]
+SUMMARY:ECO218 | Midterm exam | Comptabilité Nationale et Agrégats Macro
+ économiques [ECO218]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10749&month=10&year=2026#calendar_event_67665
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T080600Z
+DTSTAMP:20261006T232500Z
 UID:event-calendar-event-67590
 DTSTART:20261028T080000Z
 DTEND:20261028T100000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-G0-01
 SEQUENCE:0
-SUMMARY:ECO202 | Laboratory | Macroéconomie 1 [ECO202]
+SUMMARY:ECO202 | Midterm exam | Macroéconomie 1 [ECO202]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10747&month=10&year=2026#calendar_event_67590
 END:VEVENT
@@ -9785,36 +9757,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260902T110000Z
-UID:event-assignment-34037
-DTSTART;VALUE=DATE;VALUE=DATE:20260906
-CLASS:PUBLIC
-DESCRIPTION:You are required to form your groups according to the professor
- ’s designated group structure. You should select one country from the li
- st provided in the course slides and prepare a video based on your chosen 
- country according to the instructions provided in the course slides for We
- ek 1.\n\nYour work should be developed around the two central notions disc
- ussed in class: Power and State Interest. These concepts should serve as t
- he analytical foundation of your video and guide the way you approach and 
- present your chosen country.
-SEQUENCE:0
-SUMMARY:Video Assignment  [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=09&year=2026#assignment_34037
-X-ALT-DESC;FMTTYPE=text/html:<p class="isSelectedEnd"><span>You are require
- d to </span><strong><span>form your groups according to the professor’s 
- designated group structure</span></strong><span>. You should select </span
- ><strong><span>one country from the list provided in the course slides</sp
- an></strong><span> and prepare a </span><strong><span>video</span></strong
- ><span> based on your chosen country according to the instructions provide
- d in the course slides for Week 1.</span></p>\n<p class="isSelectedEnd"><s
- pan>Your work should be developed around the two central notions discussed
-  in class: </span><span><strong>Power</strong></span><span> and </span><sp
- an><strong>State Interest</strong></span><span>. These concepts should ser
- ve as the analytical foundation of your video and guide the way you approa
- ch and present your chosen country.</span></p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260904T151400Z
 UID:event-calendar-event-67688
 DTSTART:20260907T123000Z
@@ -10912,27 +10854,28 @@ X-ALT-DESC;FMTTYPE=text/html:<table style="width: 72.1099%\; height: 730px\
  ble>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260904T151500Z
+DTSTAMP:20261006T233500Z
 UID:event-calendar-event-67694
 DTSTART:20261019T123000Z
 DTEND:20261019T143000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
-SUMMARY:ECO222 | Lecture | Introduction à l'Économie du Développement [E
- CO222]
+SUMMARY:ECO222 | Midterm exam | Introduction à l'Économie du Développeme
+ nt [ECO222]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10707&month=10&year=2026#calendar_event_67694
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260904T152600Z
+DTSTAMP:20261006T231300Z
 UID:event-calendar-event-68221
 DTSTART:20261019T154500Z
 DTEND:20261019T184500Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-G0-01
 SEQUENCE:0
-SUMMARY:INT202 | Lecture | Theories of International Relations [INT202]
+SUMMARY:INT202 | Midterm exam | Theories of International Relations [INT202
+ ]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10711&month=10&year=2026#calendar_event_68221
 END:VEVENT
@@ -10961,15 +10904,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10704&month=10&year=2026#calendar_event_67619
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T080600Z
+DTSTAMP:20261006T230100Z
 UID:event-calendar-event-67634
 DTSTART:20261022T080000Z
 DTEND:20261022T100000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-G1-02
 SEQUENCE:0
-SUMMARY:ECO214 | Lecture | Théorie des Jeux: Approche Stratégique [ECO214
- ]
+SUMMARY:ECO214 | Midterm exam | Théorie des Jeux: Approche Stratégique [E
+ CO214]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10705&month=10&year=2026#calendar_event_67634
 END:VEVENT
@@ -12388,26 +12331,27 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=10&year=2026#calendar_event_68379
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T092800Z
+DTSTAMP:20261006T231500Z
 UID:event-calendar-event-68161
 DTSTART:20261022T140000Z
 DTEND:20261022T160000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-A1-02
 SEQUENCE:0
-SUMMARY:INT012E | Lecture | Emerging Global Security Governance [INT012ELM]
+SUMMARY:INT012E | Midterm exam | Emerging Global Security Governance [INT01
+ 2ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=10&year=2026#calendar_event_68161
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260909T095100Z
+DTSTAMP:20261006T232100Z
 UID:event-calendar-event-68597
 DTSTART:20261023T123000Z
 DTEND:20261023T153000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-B0-01
 SEQUENCE:0
-SUMMARY:POL203 | Lecture | Politique et Economie [POL203]
+SUMMARY:POL203 | Midterm exam | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=10&year=2026#calendar_event_68597
 END:VEVENT
@@ -13588,15 +13532,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=10&year=2026#calendar_event_68394
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260716T162400Z
+DTSTAMP:20261006T230500Z
 UID:event-calendar-event-67542
 DTSTART:20261029T140000Z
 DTEND:20261029T160000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-F0-01
 SEQUENCE:0
-SUMMARY:ECO003E | Laboratory | Marché des Capitaux: Techniques et Organisa
- tion [ECO003ELM]
+SUMMARY:ECO003E | Midterm exam | Marché des Capitaux: Techniques et Organi
+ sation [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=10&year=2026#calendar_event_67542
 END:VEVENT
