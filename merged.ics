@@ -3899,15 +3899,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=10&year=2026#calendar_event_68582
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T090700Z
+DTSTAMP:20261007T212000Z
 UID:event-calendar-event-68071
 DTSTART:20261019T123000Z
 DTEND:20261019T143000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-E1-03
 SEQUENCE:0
-SUMMARY:INT001E | Lecture | Area Studies\, Geopolitics\, and Global Affairs
-  [INT001ELM]
+SUMMARY:INT001E | Midterm exam | Area Studies\, Geopolitics\, and Global Af
+ fairs [INT001ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10723&month=10&year=2026#calendar_event_68071
 END:VEVENT
@@ -7026,6 +7026,18 @@ SUMMARY:INT005E | Laboratory | Multilateral Organization and Global Challen
  ges: Threat and Opportunity [INT005ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10726&month=10&year=2026#calendar_event_68117
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T220000Z
+UID:event-calendar-event-71732
+DTSTART:20261026T144500Z
+DTEND:20261026T164500Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:ECO201 | Midterm exam | Microéconomie 1 [ECO201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10746&month=10&year=2026#calendar_event_71732
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261006T232300Z
