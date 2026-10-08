@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260907T114000Z
-UID:event-calendar-event-68343
-DTSTART:20260908T123000Z
-DTEND:20260908T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=09&year=2026#calendar_event_68343
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260908T150900Z
 UID:event-calendar-event-69093
 DTSTART:20260909T170000Z
@@ -2022,18 +2010,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114000Z
-UID:event-calendar-event-68343
-DTSTART:20260908T123000Z
-DTEND:20260908T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=09&year=2026#calendar_event_68343
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
 UID:event-calendar-event-68373
 DTSTART:20260909T133000Z
@@ -3265,30 +3241,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114000Z
-UID:event-calendar-event-68343
-DTSTART:20260908T123000Z
-DTEND:20260908T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=09&year=2026#calendar_event_68343
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260902T090400Z
-UID:event-calendar-event-69818
-DTSTART:20260908T170000Z
-DTEND:20260908T183000Z
-CLASS:PUBLIC
-LOCATION:A-C1-12
-SEQUENCE:0
-SUMMARY:Self- Study / Check with your professor [LAN008C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11215&month=09&year=2026#calendar_event_69818
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
 UID:event-calendar-event-68373
 DTSTART:20260909T133000Z
@@ -4489,18 +4441,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=12&year=2026#calendar_event_68398
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114000Z
-UID:event-calendar-event-68343
-DTSTART:20260908T123000Z
-DTEND:20260908T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=09&year=2026#calendar_event_68343
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
 UID:event-calendar-event-68373
 DTSTART:20260909T133000Z
@@ -5652,18 +5592,6 @@ SEQUENCE:0
 SUMMARY:INT012E | Q&A | Emerging Global Security Governance [INT012ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=12&year=2026#calendar_event_68168
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260806T091900Z
-UID:event-calendar-event-69100
-DTSTART:20260908T170000Z
-DTEND:20260908T190000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10746&month=09&year=2026#calendar_event_69100
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T080600Z
@@ -7457,19 +7385,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260907T220600Z
-UID:event-calendar-event-67550
-DTSTART:20260908T123000Z
-DTEND:20260908T153000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:ECO101 | Lecture | Introduction à l'Analyse Economique [ECO101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10740&month=09&year=2026#calendar_event_67550
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260911T103100Z
@@ -9380,18 +9295,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114000Z
-UID:event-calendar-event-68343
-DTSTART:20260908T123000Z
-DTEND:20260908T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=09&year=2026#calendar_event_68343
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T080600Z
 UID:event-calendar-event-67613
 DTSTART:20260909T080000Z
@@ -11094,18 +10997,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114000Z
-UID:event-calendar-event-68343
-DTSTART:20260908T123000Z
-DTEND:20260908T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=09&year=2026#calendar_event_68343
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
 UID:event-calendar-event-68373
 DTSTART:20260909T133000Z
@@ -12503,18 +12394,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114000Z
-UID:event-calendar-event-68343
-DTSTART:20260908T123000Z
-DTEND:20260908T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=09&year=2026#calendar_event_68343
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
 UID:event-calendar-event-68373
 DTSTART:20260909T133000Z
@@ -13509,19 +13388,6 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260907T220600Z
-UID:event-calendar-event-67550
-DTSTART:20260908T123000Z
-DTEND:20260908T153000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:ECO101 | Lecture | Introduction à l'Analyse Economique [ECO101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10740&month=09&year=2026#calendar_event_67550
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260911T103100Z
