@@ -2011,18 +2011,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68373
-DTSTART:20260909T133000Z
-DTEND:20260909T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68373
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
 UID:event-calendar-event-68388
 DTSTART:20260910T080000Z
 DTEND:20260910T110000Z
@@ -3242,18 +3230,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68373
-DTSTART:20260909T133000Z
-DTEND:20260909T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68373
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
 UID:event-calendar-event-68388
 DTSTART:20260910T080000Z
 DTEND:20260910T110000Z
@@ -4442,30 +4418,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68373
-DTSTART:20260909T133000Z
-DTEND:20260909T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68373
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260909T164500Z
-UID:event-calendar-event-69889
-DTSTART:20260909T170000Z
-DTEND:20260909T183000Z
-CLASS:PUBLIC
-LOCATION:A-C1-12
-SEQUENCE:0
-SUMMARY:Self-Study/ Check with your professor [LAN108P]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11216&month=09&year=2026#calendar_event_69889
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
 UID:event-calendar-event-68388
 DTSTART:20260910T080000Z
 DTEND:20260910T110000Z
@@ -5592,17 +5544,6 @@ SEQUENCE:0
 SUMMARY:INT012E | Q&A | Emerging Global Security Governance [INT012ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=12&year=2026#calendar_event_68168
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260909T170000Z
-UID:event-assignment-33501
-DTSTART:20260909T170000Z
-DTEND:20260909T170000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Activity 4 — Exploring Two Variables with R [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=09&year=2026#assignment_33501
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260906T193400Z
@@ -8374,6 +8315,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67556
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261009T164900Z
+UID:event-assignment-35547
+DTSTART:20261009T150000Z
+DTEND:20261009T150000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZZ 1 - REPRISE - Introduction à l'Analyse Economique- Requires 
+ LockDown Browser- Requires Respondus LockDown Browser [ECO101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10740&month=10&year=2026#assignment_35547
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -10953,18 +10906,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68373
-DTSTART:20260909T133000Z
-DTEND:20260909T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68373
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T092800Z
 UID:event-calendar-event-68155
 DTSTART:20260910T140000Z
@@ -12348,18 +12289,6 @@ SEQUENCE:0
 SUMMARY:POL203 | Q&A | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68373
-DTSTART:20260909T133000Z
-DTEND:20260909T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68373
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
@@ -14263,6 +14192,18 @@ SUMMARY:ECO101 | Flexible session  | Introduction à l'Analyse Economique(G
  roupe 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5) [ECO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67556
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T164900Z
+UID:event-assignment-35547
+DTSTART:20261009T150000Z
+DTEND:20261009T150000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZZ 1 - REPRISE - Introduction à l'Analyse Economique- Requires 
+ LockDown Browser- Requires Respondus LockDown Browser [ECO101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10740&month=10&year=2026#assignment_35547
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
