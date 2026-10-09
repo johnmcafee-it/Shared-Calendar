@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260908T150900Z
-UID:event-calendar-event-69093
-DTSTART:20260909T170000Z
-DTEND:20260909T190000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02 /Building A - Room: A-H0-01
-SEQUENCE:0
-SUMMARY:ECO214 | Laboratory | Théorie des Jeux: Approche Stratégique [ECO
- 214]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=09&year=2026#calendar_event_69093
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260831T105900Z
 UID:event-calendar-event-67628
 DTSTART:20260910T080000Z
@@ -5546,18 +5533,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=12&year=2026#calendar_event_68168
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T193400Z
-UID:event-calendar-event-71188
-DTSTART:20260909T170000Z
-DTEND:20260909T200000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO203 | Lecture | Econometrics 1 [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=09&year=2026#calendar_event_71188
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260909T092300Z
 UID:event-calendar-event-67598
 DTSTART:20260910T080000Z
@@ -7314,18 +7289,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T150800Z
-UID:event-calendar-event-69711
-DTSTART:20260909T183000Z
-DTEND:20260909T200000Z
-CLASS:PUBLIC
-LOCATION:A-G1-01
-SEQUENCE:0
-SUMMARY:Face to Face session [LAN002]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11196&month=09&year=2026#calendar_event_69711
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260716T160200Z
@@ -9214,19 +9177,6 @@ SEQUENCE:0
 SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260908T150900Z
-UID:event-calendar-event-69093
-DTSTART:20260909T170000Z
-DTEND:20260909T190000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02 /Building A - Room: A-H0-01
-SEQUENCE:0
-SUMMARY:ECO214 | Laboratory | Théorie des Jeux: Approche Stratégique [ECO
- 214]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=09&year=2026#calendar_event_69093
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260831T105900Z
