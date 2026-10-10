@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260831T105900Z
-UID:event-calendar-event-67628
-DTSTART:20260910T080000Z
-DTEND:20260910T100000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO214 | Lecture | Théorie des Jeux: Approche Stratégique [ECO214
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=09&year=2026#calendar_event_67628
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260909T110900Z
 UID:event-calendar-event-68200
 DTSTART:20260910T140000Z
@@ -1997,19 +1984,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68388
-DTSTART:20260910T080000Z
-DTEND:20260910T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=09&year=2026#calendar_event_68388
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260716T162400Z
 UID:event-calendar-event-67535
 DTSTART:20260910T140000Z
@@ -3216,19 +3190,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68388
-DTSTART:20260910T080000Z
-DTEND:20260910T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=09&year=2026#calendar_event_68388
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260925T144400Z
 UID:event-assignment-34252
 DTSTART:20260912T123000Z
@@ -4404,19 +4365,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=12&year=2026#calendar_event_68398
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68388
-DTSTART:20260910T080000Z
-DTEND:20260910T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=09&year=2026#calendar_event_68388
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T092800Z
 UID:event-calendar-event-68155
 DTSTART:20260910T140000Z
@@ -5531,29 +5479,6 @@ SEQUENCE:0
 SUMMARY:INT012E | Q&A | Emerging Global Security Governance [INT012ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=12&year=2026#calendar_event_68168
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260909T092300Z
-UID:event-calendar-event-67598
-DTSTART:20260910T080000Z
-DTEND:20260910T100000Z
-CLASS:PUBLIC
-LOCATION:Building B – Room: B-G0-01
-SEQUENCE:0
-SUMMARY:ECO203 | Laboratory | Econometrics 1 [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=09&year=2026#calendar_event_67598
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260910T091600Z
-UID:event-assignment-34537
-DTSTART:20260910T095500Z
-DTEND:20260910T095500Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Assessment 1 (lab 1) [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=09&year=2026#assignment_34537
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T095500Z
@@ -7258,19 +7183,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260716T160200Z
-UID:event-calendar-event-67373
-DTSTART:20260910T080000Z
-DTEND:20260910T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:DAT107 | Lecture | Introduction to Statistics For Social Sciences [
- DAT107]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10739&month=09&year=2026#calendar_event_67373
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260909T192100Z
 UID:event-calendar-event-68051
 DTSTART:20260910T140000Z
@@ -8294,6 +8206,17 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=10&year=2026#calendar_event_68749
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261010T105200Z
+UID:event-assignment-35863
+DTSTART:20261020T110000Z
+DTEND:20261020T110000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz pré-examen MIDTERM - OBLIGATOIRE [ECO101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10740&month=10&year=2026#assignment_35863
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260829T230900Z
 UID:event-calendar-event-67557
 DTSTART:20261020T123000Z
@@ -9144,19 +9067,6 @@ SEQUENCE:0
 SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260831T105900Z
-UID:event-calendar-event-67628
-DTSTART:20260910T080000Z
-DTEND:20260910T100000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO214 | Lecture | Théorie des Jeux: Approche Stratégique [ECO214
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=09&year=2026#calendar_event_67628
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T110900Z
@@ -12208,19 +12118,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68388
-DTSTART:20260910T080000Z
-DTEND:20260910T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=09&year=2026#calendar_event_68388
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260716T162400Z
 UID:event-calendar-event-67535
 DTSTART:20260910T140000Z
@@ -13192,19 +13089,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260716T160200Z
-UID:event-calendar-event-67357
-DTSTART:20260910T080000Z
-DTEND:20260910T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
-SEQUENCE:0
-SUMMARY:DAT104 | Lecture | Statistiques Descriptives et Probabilités [DAT1
- 04]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10738&month=09&year=2026#calendar_event_67357
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260909T192100Z
 UID:event-calendar-event-68051
 DTSTART:20260910T140000Z
@@ -14158,6 +14042,17 @@ SUMMARY:RES101 | Mid-Term exam | Méthodes d'Apprentissage Appliquées [RES
  101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=10&year=2026#calendar_event_68749
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T105200Z
+UID:event-assignment-35863
+DTSTART:20261020T110000Z
+DTEND:20261020T110000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz pré-examen MIDTERM - OBLIGATOIRE [ECO101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10740&month=10&year=2026#assignment_35863
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260829T230900Z
