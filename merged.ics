@@ -5545,39 +5545,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10748&month=09&year=2026#calendar_event_67598
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T080000Z
-UID:event-assignment-33815
-DTSTART:20260910T090000Z
-DTEND:20260910T090000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Activity 1 — Reading an Economic System [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=09&year=2026#assignment_33815
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260910T080000Z
-UID:event-assignment-33816
-DTSTART:20260910T090000Z
-DTEND:20260910T090000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Activity 2 — Marginal Effects [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=09&year=2026#assignment_33816
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260910T080000Z
-UID:event-assignment-33817
-DTSTART:20260910T090000Z
-DTEND:20260910T090000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Activity 3 — Elasticity [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=09&year=2026#assignment_33817
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260910T091600Z
 UID:event-assignment-34537
 DTSTART:20260910T095500Z
@@ -8278,7 +8245,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67556
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261009T164900Z
+DTSTAMP:20261010T093500Z
 UID:event-assignment-35547
 DTSTART:20261009T150000Z
 DTEND:20261009T150000Z
@@ -14144,7 +14111,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67556
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261009T164900Z
+DTSTAMP:20261010T093500Z
 UID:event-assignment-35547
 DTSTART:20261009T150000Z
 DTEND:20261009T150000Z
