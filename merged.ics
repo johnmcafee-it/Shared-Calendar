@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260909T110900Z
-UID:event-calendar-event-68200
-DTSTART:20260910T140000Z
-DTEND:20260910T170000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10710&month=09&year=2026#calendar_event_68200
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260904T085700Z
-UID:event-calendar-event-70347
-DTSTART:20260910T171500Z
-DTEND:20260910T184500Z
-CLASS:PUBLIC
-LOCATION:A-A0-01
-SEQUENCE:0
-SUMMARY:Self-Study/ Vérifiez auprès de votre professeur. [LAN014C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11223&month=09&year=2026#calendar_event_70347
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260909T095000Z
 UID:event-calendar-event-68591
 DTSTART:20260911T123000Z
@@ -1982,19 +1958,6 @@ SEQUENCE:0
 SUMMARY:POL203 | Q&A | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260716T162400Z
-UID:event-calendar-event-67535
-DTSTART:20260910T140000Z
-DTEND:20260910T170000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
- n [ECO003ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10720&month=09&year=2026#calendar_event_67535
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260903T085800Z
@@ -4363,18 +4326,6 @@ SEQUENCE:0
 SUMMARY:LAW208 | Q&A | Legal Practice Laboratory I (Public law) [LAW208]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=12&year=2026#calendar_event_68398
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T092800Z
-UID:event-calendar-event-68155
-DTSTART:20260910T140000Z
-DTEND:20260910T160000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A1-02
-SEQUENCE:0
-SUMMARY:INT012E | Lecture | Emerging Global Security Governance [INT012ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10729&month=09&year=2026#calendar_event_68155
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261005T180400Z
@@ -7183,20 +7134,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260909T192100Z
-UID:event-calendar-event-68051
-DTSTART:20260910T140000Z
-DTEND:20260910T170000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:HIS103 | Lecture | Le Monde: Une Histoire Moderne et Contemporaine 
- [HIS103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10741&month=09&year=2026#calendar_event_68051
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260910T181800Z
 UID:event-calendar-event-68052
 DTSTART:20260911T080000Z
@@ -8157,7 +8094,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67556
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T093500Z
+DTSTAMP:20261010T163500Z
 UID:event-assignment-35547
 DTSTART:20261009T150000Z
 DTEND:20261009T150000Z
@@ -9067,18 +9004,6 @@ SEQUENCE:0
 SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260909T110900Z
-UID:event-calendar-event-68200
-DTSTART:20260910T140000Z
-DTEND:20260910T170000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10710&month=09&year=2026#calendar_event_68200
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260831T105900Z
@@ -10733,30 +10658,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T092800Z
-UID:event-calendar-event-68155
-DTSTART:20260910T140000Z
-DTEND:20260910T160000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A1-02
-SEQUENCE:0
-SUMMARY:INT012E | Lecture | Emerging Global Security Governance [INT012ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10729&month=09&year=2026#calendar_event_68155
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T151000Z
-UID:event-calendar-event-69936
-DTSTART:20260910T171500Z
-DTEND:20260910T184500Z
-CLASS:PUBLIC
-LOCATION:A-G1-01
-SEQUENCE:0
-SUMMARY:Face to Face session  [LAN002C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11218&month=09&year=2026#calendar_event_69936
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260909T095000Z
 UID:event-calendar-event-68591
 DTSTART:20260911T123000Z
@@ -12118,19 +12019,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260716T162400Z
-UID:event-calendar-event-67535
-DTSTART:20260910T140000Z
-DTEND:20260910T170000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
- n [ECO003ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10720&month=09&year=2026#calendar_event_67535
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260903T085800Z
 UID:event-calendar-event-68577
 DTSTART:20260914T090000Z
@@ -13089,20 +12977,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260909T192100Z
-UID:event-calendar-event-68051
-DTSTART:20260910T140000Z
-DTEND:20260910T170000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:HIS103 | Lecture | Le Monde: Une Histoire Moderne et Contemporaine 
- [HIS103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10741&month=09&year=2026#calendar_event_68051
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260910T181800Z
 UID:event-calendar-event-68052
 DTSTART:20260911T080000Z
@@ -13995,7 +13869,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67556
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T093500Z
+DTSTAMP:20261010T163500Z
 UID:event-assignment-35547
 DTSTART:20261009T150000Z
 DTEND:20261009T150000Z
