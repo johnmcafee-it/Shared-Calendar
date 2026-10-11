@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260831T105900Z
-UID:event-calendar-event-69094
-DTSTART:20260911T154500Z
-DTEND:20260911T184500Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO214 | Lecture | Théorie des Jeux: Approche Stratégique [ECO214
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=09&year=2026#calendar_event_69094
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260903T085800Z
 UID:event-calendar-event-68577
 DTSTART:20260914T090000Z
@@ -5420,18 +5407,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=12&year=2026#calendar_event_68168
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260909T095500Z
-UID:event-calendar-event-69101
-DTSTART:20260911T154500Z
-DTEND:20260911T174500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:ECO201 | Laboratory | Microéconomie 1 [ECO201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10746&month=09&year=2026#calendar_event_69101
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260910T122200Z
 UID:event-calendar-event-67420
 DTSTART:20260914T080000Z
@@ -8838,19 +8813,6 @@ SEQUENCE:0
 SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260831T105900Z
-UID:event-calendar-event-69094
-DTSTART:20260911T154500Z
-DTEND:20260911T184500Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO214 | Lecture | Théorie des Jeux: Approche Stratégique [ECO214
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=09&year=2026#calendar_event_69094
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260904T151400Z
