@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260909T095000Z
-UID:event-calendar-event-68591
-DTSTART:20260911T123000Z
-DTEND:20260911T143000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:POL203 | Lecture | Politique et Economie [POL203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10757&month=09&year=2026#calendar_event_68591
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260831T105900Z
 UID:event-calendar-event-69094
 DTSTART:20260911T154500Z
@@ -3153,7 +3141,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260925T144400Z
+DTSTAMP:20261011T142200Z
 UID:event-assignment-34252
 DTSTART:20260912T123000Z
 DTEND:20260912T123000Z
@@ -3414,7 +3402,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=09&year=2026#calendar_event_68390
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T165700Z
+DTSTAMP:20261011T144400Z
 UID:event-assignment-35044
 DTSTART:20260924T110000Z
 DTEND:20260924T110000Z
@@ -5433,18 +5421,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T095500Z
-UID:event-calendar-event-69102
-DTSTART:20260911T123000Z
-DTEND:20260911T153000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10746&month=09&year=2026#calendar_event_69102
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260909T095500Z
 UID:event-calendar-event-69101
 DTSTART:20260911T154500Z
 DTEND:20260911T174500Z
@@ -7132,77 +7108,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260910T182500Z
-UID:event-calendar-event-71272
-DTSTART:20260911T094500Z
-DTEND:20260911T111500Z
-CLASS:PUBLIC
-DESCRIPTION:Name\n\nType\n\nTitle\n\nLocation\n\nHIS 103\n\nLaboratory\n\nG
- roupe 5\n\n([Voir la liste] (https://um6p.instructure.com/courses/10741/fi
- les/868688?wrap=1))\n\nBuilding B - Room: B-I0-01\n\nHIS 103\n\nLaboratory
- \n\nGroupe 6\n\n([Voir la liste] (https://um6p.instructure.com/courses/107
- 41/files/868689?wrap=1))\n\nBuilding B - Room: B-I0-02\n\nHIS 103\n\nLabor
- atory\n\nGroupe 7\n\n([Voir la liste] (https://um6p.instructure.com/course
- s/10741/files/868690?wrap=1))\n\nBuilding B - Room: B-H0-01\n\nHIS 103\n\n
- Laboratory\n\nGroupe 8\n\n([Voir la liste] (https://um6p.instructure.com/c
- ourses/10741/files/868691?wrap=1))\n\nBuilding B - Room: B-H0-02
-LOCATION:Groupe 5 - Room: B-I0-01 / Groupe 6 - Room: B-I0-02 / Groupe 7 - R
- oom: B-H0-01 / Groupe 8 - Room: B-H0-02
-SEQUENCE:0
-SUMMARY:HIS103 | Laboratory | Le Monde: Une Histoire Moderne et Contemporai
- ne(Groupe 5\, Groupe 6\, Groupe 7\, Groupe 8) [HIS103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10741&month=09&year=2026#calendar_event_71272
-X-ALT-DESC;FMTTYPE=text/html:<table style="border-collapse: collapse\; widt
- h: 100%\;" border="1" width="677">\n<tbody>\n<tr>\n<td style="width: 79.63
- 89px\;" width="84">\n<p><strong>Name</strong></p>\n</td>\n<td style="width
- : 139.431px\;" width="104">\n<p><strong>Type</strong></p>\n</td>\n<td styl
- e="width: 214.042px\; text-align: center\;" width="142">\n<p><strong>Title
- </strong></p>\n</td>\n<td style="width: 243px\;" width="246">\n<p><strong>
- Location</strong></p>\n</td>\n</tr>\n<tr>\n<td style="width: 79.6389px\;" 
- width="84">\n<p><strong>HIS 103</strong></p>\n</td>\n<td style="width: 139
- .431px\;" width="104">\n<p>Laboratory</p>\n</td>\n<td style="width: 214.04
- 2px\; text-align: center\;" width="142">\n<p><strong>Groupe 5</strong></p>
- \n<p><strong>(<a class="instructure_file_link instructure_scribd_file inli
- ne_disabled" title="TD_Groupe_5.docx" href="https://um6p.instructure.com/c
- ourses/10741/files/868688?wrap=1" target="_blank" data-canvas-previewable=
- "false" data-api-endpoint="https://um6p.instructure.com/api/v1/courses/107
- 41/files/868688" data-api-returntype="File">Voir la liste</a>)</strong></p
- >\n</td>\n<td style="width: 243px\;" width="246">\n<p><strong>Building B -
-  Room: B-I0-01</strong></p>\n</td>\n</tr>\n<tr>\n<td style="width: 79.6389
- px\;" width="84">\n<p><strong>HIS 103</strong></p>\n</td>\n<td style="widt
- h: 139.431px\;" width="104">\n<p>Laboratory</p>\n</td>\n<td style="width: 
- 214.042px\; text-align: center\;" width="142">\n<p><strong>Groupe 6</stron
- g></p>\n<p><strong>(<a class="instructure_file_link instructure_scribd_fil
- e inline_disabled" title="TD_Groupe_6.docx" href="https://um6p.instructure
- .com/courses/10741/files/868689?wrap=1" target="_blank" data-canvas-previe
- wable="false" data-api-endpoint="https://um6p.instructure.com/api/v1/cours
- es/10741/files/868689" data-api-returntype="File">Voir la liste</a>)</stro
- ng></p>\n</td>\n<td style="width: 243px\;" width="246">\n<p><strong>Buildi
- ng B - Room: B-I0-02</strong></p>\n</td>\n</tr>\n<tr>\n<td style="width: 7
- 9.6389px\;" width="84">\n<p><strong>HIS 103</strong></p>\n</td>\n<td style
- ="width: 139.431px\;" width="104">\n<p>Laboratory</p>\n</td>\n<td style="w
- idth: 214.042px\; text-align: center\;" width="142">\n<p><strong>Groupe 7<
- /strong></p>\n<p><strong>(<a class="instructure_file_link instructure_scri
- bd_file inline_disabled" title="TD_Groupe_7.docx" href="https://um6p.instr
- ucture.com/courses/10741/files/868690?wrap=1" target="_blank" data-canvas-
- previewable="false" data-api-endpoint="https://um6p.instructure.com/api/v1
- /courses/10741/files/868690" data-api-returntype="File">Voir la liste</a>)
- </strong></p>\n</td>\n<td style="width: 243px\;" width="246">\n<p><strong>
- Building B - Room: B-H0-01</strong></p>\n</td>\n</tr>\n<tr>\n<td style="wi
- dth: 79.6389px\;" width="84">\n<p><strong>HIS 103</strong></p>\n</td>\n<td
-  style="width: 139.431px\;" width="104">\n<p>Laboratory</p>\n</td>\n<td st
- yle="width: 214.042px\; text-align: center\;" width="142">\n<p><strong>Gro
- upe 8</strong></p>\n<p><strong>(<a class="instructure_file_link instructur
- e_scribd_file inline_disabled" title="TD_Groupe_8.docx" href="https://um6p
- .instructure.com/courses/10741/files/868691?wrap=1" target="_blank" data-c
- anvas-previewable="false" data-api-endpoint="https://um6p.instructure.com/
- api/v1/courses/10741/files/868691" data-api-returntype="File">Voir la list
- e</a>)</strong></p>\n</td>\n<td style="width: 243px\;" width="246">\n<p><s
- trong>Building B - Room: B-H0-02</strong></p>\n</td>\n</tr>\n</tbody>\n</t
- able>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260911T170800Z
@@ -10587,18 +10492,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260909T095000Z
-UID:event-calendar-event-68591
-DTSTART:20260911T123000Z
-DTEND:20260911T143000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:POL203 | Lecture | Politique et Economie [POL203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10757&month=09&year=2026#calendar_event_68591
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260924T123700Z
 UID:event-assignment-34227
 DTSTART;VALUE=DATE;VALUE=DATE:20260913
@@ -12904,77 +12797,6 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260910T182500Z
-UID:event-calendar-event-71272
-DTSTART:20260911T094500Z
-DTEND:20260911T111500Z
-CLASS:PUBLIC
-DESCRIPTION:Name\n\nType\n\nTitle\n\nLocation\n\nHIS 103\n\nLaboratory\n\nG
- roupe 5\n\n([Voir la liste] (https://um6p.instructure.com/courses/10741/fi
- les/868688?wrap=1))\n\nBuilding B - Room: B-I0-01\n\nHIS 103\n\nLaboratory
- \n\nGroupe 6\n\n([Voir la liste] (https://um6p.instructure.com/courses/107
- 41/files/868689?wrap=1))\n\nBuilding B - Room: B-I0-02\n\nHIS 103\n\nLabor
- atory\n\nGroupe 7\n\n([Voir la liste] (https://um6p.instructure.com/course
- s/10741/files/868690?wrap=1))\n\nBuilding B - Room: B-H0-01\n\nHIS 103\n\n
- Laboratory\n\nGroupe 8\n\n([Voir la liste] (https://um6p.instructure.com/c
- ourses/10741/files/868691?wrap=1))\n\nBuilding B - Room: B-H0-02
-LOCATION:Groupe 5 - Room: B-I0-01 / Groupe 6 - Room: B-I0-02 / Groupe 7 - R
- oom: B-H0-01 / Groupe 8 - Room: B-H0-02
-SEQUENCE:0
-SUMMARY:HIS103 | Laboratory | Le Monde: Une Histoire Moderne et Contemporai
- ne(Groupe 5\, Groupe 6\, Groupe 7\, Groupe 8) [HIS103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10741&month=09&year=2026#calendar_event_71272
-X-ALT-DESC;FMTTYPE=text/html:<table style="border-collapse: collapse\; widt
- h: 100%\;" border="1" width="677">\n<tbody>\n<tr>\n<td style="width: 79.63
- 89px\;" width="84">\n<p><strong>Name</strong></p>\n</td>\n<td style="width
- : 139.431px\;" width="104">\n<p><strong>Type</strong></p>\n</td>\n<td styl
- e="width: 214.042px\; text-align: center\;" width="142">\n<p><strong>Title
- </strong></p>\n</td>\n<td style="width: 243px\;" width="246">\n<p><strong>
- Location</strong></p>\n</td>\n</tr>\n<tr>\n<td style="width: 79.6389px\;" 
- width="84">\n<p><strong>HIS 103</strong></p>\n</td>\n<td style="width: 139
- .431px\;" width="104">\n<p>Laboratory</p>\n</td>\n<td style="width: 214.04
- 2px\; text-align: center\;" width="142">\n<p><strong>Groupe 5</strong></p>
- \n<p><strong>(<a class="instructure_file_link instructure_scribd_file inli
- ne_disabled" title="TD_Groupe_5.docx" href="https://um6p.instructure.com/c
- ourses/10741/files/868688?wrap=1" target="_blank" data-canvas-previewable=
- "false" data-api-endpoint="https://um6p.instructure.com/api/v1/courses/107
- 41/files/868688" data-api-returntype="File">Voir la liste</a>)</strong></p
- >\n</td>\n<td style="width: 243px\;" width="246">\n<p><strong>Building B -
-  Room: B-I0-01</strong></p>\n</td>\n</tr>\n<tr>\n<td style="width: 79.6389
- px\;" width="84">\n<p><strong>HIS 103</strong></p>\n</td>\n<td style="widt
- h: 139.431px\;" width="104">\n<p>Laboratory</p>\n</td>\n<td style="width: 
- 214.042px\; text-align: center\;" width="142">\n<p><strong>Groupe 6</stron
- g></p>\n<p><strong>(<a class="instructure_file_link instructure_scribd_fil
- e inline_disabled" title="TD_Groupe_6.docx" href="https://um6p.instructure
- .com/courses/10741/files/868689?wrap=1" target="_blank" data-canvas-previe
- wable="false" data-api-endpoint="https://um6p.instructure.com/api/v1/cours
- es/10741/files/868689" data-api-returntype="File">Voir la liste</a>)</stro
- ng></p>\n</td>\n<td style="width: 243px\;" width="246">\n<p><strong>Buildi
- ng B - Room: B-I0-02</strong></p>\n</td>\n</tr>\n<tr>\n<td style="width: 7
- 9.6389px\;" width="84">\n<p><strong>HIS 103</strong></p>\n</td>\n<td style
- ="width: 139.431px\;" width="104">\n<p>Laboratory</p>\n</td>\n<td style="w
- idth: 214.042px\; text-align: center\;" width="142">\n<p><strong>Groupe 7<
- /strong></p>\n<p><strong>(<a class="instructure_file_link instructure_scri
- bd_file inline_disabled" title="TD_Groupe_7.docx" href="https://um6p.instr
- ucture.com/courses/10741/files/868690?wrap=1" target="_blank" data-canvas-
- previewable="false" data-api-endpoint="https://um6p.instructure.com/api/v1
- /courses/10741/files/868690" data-api-returntype="File">Voir la liste</a>)
- </strong></p>\n</td>\n<td style="width: 243px\;" width="246">\n<p><strong>
- Building B - Room: B-H0-01</strong></p>\n</td>\n</tr>\n<tr>\n<td style="wi
- dth: 79.6389px\;" width="84">\n<p><strong>HIS 103</strong></p>\n</td>\n<td
-  style="width: 139.431px\;" width="104">\n<p>Laboratory</p>\n</td>\n<td st
- yle="width: 214.042px\; text-align: center\;" width="142">\n<p><strong>Gro
- upe 8</strong></p>\n<p><strong>(<a class="instructure_file_link instructur
- e_scribd_file inline_disabled" title="TD_Groupe_8.docx" href="https://um6p
- .instructure.com/courses/10741/files/868691?wrap=1" target="_blank" data-c
- anvas-previewable="false" data-api-endpoint="https://um6p.instructure.com/
- api/v1/courses/10741/files/868691" data-api-returntype="File">Voir la list
- e</a>)</strong></p>\n</td>\n<td style="width: 243px\;" width="246">\n<p><s
- trong>Building B - Room: B-H0-02</strong></p>\n</td>\n</tr>\n</tbody>\n</t
- able>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260911T170800Z
