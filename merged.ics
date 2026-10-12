@@ -3128,33 +3128,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261011T232300Z
-UID:event-assignment-34252
-DTSTART:20260912T123000Z
-DTEND:20260912T123000Z
-CLASS:PUBLIC
-DESCRIPTION:Hello everyone\n\nHere is  the first assigned activity. I woul
- d like you to open  your Files (Self-Study Activity N°1) watch the video
-  (document Capsule 1 on "Sentence Errors"  ) and do the exercises in the 
- d[] (https://um6p.instructure.com/courses/11215/files/857754?wrap=1)ocumen
- t entitled (Self-Study Activity N°1 Exercises)\n\n \n\n 
-SEQUENCE:0
-SUMMARY:Self Study Activity 1 [LAN008C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11215&month=09&year=2026#assignment_34252
-X-ALT-DESC;FMTTYPE=text/html:<p>Hello everyone</p>\n<p><span>Here is&nbsp\;
-  the first assigned activity. I would like you to open&nbsp\; your <em><st
- rong>Files </strong></em>(Self-Study Activity N°1) watch the video (docum
- ent Capsule 1 on "Sentence Errors"&nbsp\; ) and do the exercises in the d<
- a class="instructure_file_link instructure_scribd_file inline_disabled" st
- yle="font-size: 1rem\; color: #1d6adb\;" title="Link to Capsule 1.docx" hr
- ef="https://um6p.instructure.com/courses/11215/files/857754?wrap=1" target
- ="_blank" data-canvas-previewable="false" data-api-endpoint="https://um6p.
- instructure.com/api/v1/courses/11215/files/857754" data-api-returntype="Fi
- le"></a><span style="font-size: 1rem\;">ocument entitled (Self-Study Activ
- ity N°1 Exercises)</span></span></p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260903T085800Z
 UID:event-calendar-event-68577
 DTSTART:20260914T090000Z
@@ -4303,32 +4276,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=12&year=2026#calendar_event_68398
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261005T180400Z
-UID:event-assignment-34253
-DTSTART:20260912T123000Z
-DTEND:20260912T123000Z
-CLASS:PUBLIC
-DESCRIPTION:Hello everyone\n\nHere is  the first assigned activity. I woul
- d like you to open  your Files (Self-Study Activity N°1) watch the vid
- eo (document Capsule 1 on "The Architecture of the Sentence"  ) and do th
- e exercises in the d[] (https://um6p.instructure.com/courses/11215/files/8
- 57754?wrap=1)ocument entitled (Self-Study Activity N°1 Exercises)
-SEQUENCE:0
-SUMMARY:Self Study Activity 1 [LAN108P]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11216&month=09&year=2026#assignment_34253
-X-ALT-DESC;FMTTYPE=text/html:<p>Hello everyone</p>\n<p><span>Here is&nbsp\;
-  the first assigned activity. I would like you to open&nbsp\; your&nbsp\;<
- em><strong>Files&nbsp\;</strong></em>(Self-Study Activity N°1) watch the 
- video (document Capsule 1 on "The Architecture of the Sentence"&nbsp\; ) a
- nd do the exercises in the d<a class="instructure_file_link instructure_sc
- ribd_file inline_disabled" title="Link to Capsule 1.docx" href="https://um
- 6p.instructure.com/courses/11215/files/857754?wrap=1" target="_blank" data
- -canvas-previewable="false" data-api-endpoint="https://um6p.instructure.co
- m/api/v1/courses/11215/files/857754" data-api-returntype="File"></a>ocumen
- t entitled (Self-Study Activity N°1 Exercises)</span></p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260903T085800Z
 UID:event-calendar-event-68577
 DTSTART:20260914T090000Z
@@ -4499,7 +4446,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=09&year=2026#calendar_event_68157
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261006T200200Z
+DTSTAMP:20261012T074000Z
 UID:event-assignment-35042
 DTSTART:20260924T170000Z
 DTEND:20260924T170000Z
