@@ -6540,6 +6540,54 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=10&year=2026#calendar_event_69110
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261013T155400Z
+UID:event-assignment-33827
+DTSTART:20261025T223000Z
+DTEND:20261025T223000Z
+CLASS:PUBLIC
+DESCRIPTION:Devoir n°1 noté sur 5 points sur 100.\nPour connaître votre 
+ score final\, divisez la note obtenue par 6.\n\n--------------------------
+ --------------------------------------------------\n\nMénages : Ménages
+ \, y compris les entrepreneurs individuels \; SF : Sociétés financièr
+ es \; SNF : Sociétés non financières \; APU : Administrations publi
+ ques \; ISBLSM : Institutions sans but lucratif au service des ménages
+  \; RDM : Reste du monde\n\nOBS : Opérations sur biens et services\;  
+  OR : Opérations de répartition\;    OF : Opérations financières.\n
+ \n \n\n 
+SEQUENCE:0
+SUMMARY:Devoir N°1- Requires Respondus LockDown Browser [ECO218]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10749&month=10&year=2026#assignment_33827
+X-ALT-DESC;FMTTYPE=text/html:<p>Devoir n°1 noté sur <strong>5 points sur 
+ 100</strong>.<br>Pour connaître votre score final\, divisez la note obten
+ ue par 6.</p>\n<p>--------------------------------------------------------
+ --------------------</p>\n<p><strong style="color: var(--ic-brand-font-col
+ or-dark)\; font-family: inherit\; font-size: 1rem\;">Ménages</strong><spa
+ n style="color: var(--ic-brand-font-color-dark)\; font-family: inherit\; f
+ ont-size: 1rem\;">&nbsp\;: Ménages\, y compris les entrepreneurs individu
+ els&nbsp\;\; </span><strong style="color: var(--ic-brand-font-color-dark)\
+ ; font-family: inherit\; font-size: 1rem\;">SF</strong><span style="color:
+  var(--ic-brand-font-color-dark)\; font-family: inherit\; font-size: 1rem\
+ ;">&nbsp\;: Sociétés financières&nbsp\;\; </span><strong style="color: 
+ var(--ic-brand-font-color-dark)\; font-family: inherit\; font-size: 1rem\;
+ ">SNF</strong><span style="color: var(--ic-brand-font-color-dark)\; font-f
+ amily: inherit\; font-size: 1rem\;">&nbsp\;: Sociétés non financières&n
+ bsp\;\; </span><strong style="color: var(--ic-brand-font-color-dark)\; fon
+ t-family: inherit\; font-size: 1rem\;">APU</strong><span style="color: var
+ (--ic-brand-font-color-dark)\; font-family: inherit\; font-size: 1rem\;">&
+ nbsp\;: Administrations publiques&nbsp\;\; </span><strong style="color: va
+ r(--ic-brand-font-color-dark)\; font-family: inherit\; font-size: 1rem\;">
+ ISBLSM&nbsp\;</strong><span style="color: var(--ic-brand-font-color-dark)\
+ ; font-family: inherit\; font-size: 1rem\;">: Institutions sans but lucrat
+ if au service des ménages&nbsp\;\; </span><strong style="color: var(--ic-
+ brand-font-color-dark)\; font-family: inherit\; font-size: 1rem\;">RDM</st
+ rong><span style="color: var(--ic-brand-font-color-dark)\; font-family: in
+ herit\; font-size: 1rem\;">&nbsp\;: Reste du monde</span></p>\n<p><strong>
+ OBS</strong> : Opérations sur biens et services\;&nbsp\;<strong> &nbsp\;O
+ R</strong> : Opérations de répartition\;&nbsp\; &nbsp\; <strong>OF</stro
+ ng> : Opérations financières.</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260904T150200Z
 UID:event-calendar-event-67426
 DTSTART:20261026T080000Z
