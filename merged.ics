@@ -14,18 +14,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10711&month=09&year=2026#calendar_event_68216
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T095100Z
-UID:event-calendar-event-69518
-DTSTART:20260914T160000Z
-DTEND:20260914T173000Z
-CLASS:PUBLIC
-LOCATION:A-F1-01
-SEQUENCE:0
-SUMMARY:Self Study /  Vérifiez auprès de votre professeur [LAN003C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11220&month=09&year=2026#calendar_event_69518
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260924T151500Z
 UID:event-assignment-34160
 DTSTART;VALUE=DATE;VALUE=DATE:20260914
@@ -1218,12 +1206,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=10&year=2026#calendar_event_68349
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T090900Z
+DTSTAMP:20261014T152500Z
 UID:event-calendar-event-67634
 DTSTART:20261022T080000Z
 DTEND:20261022T100000Z
 CLASS:PUBLIC
-LOCATION:Groupe 1 (A-E1-01) / Groupe 2 (A-E0-01) / Groupe 3 (A-G1-03)
+LOCATION:Groupe 1 (A-E1-01) / Groupe 2 (A-H0-03) / Groupe 3 (A-G1-03)
 SEQUENCE:0
 SUMMARY:ECO214 | Midterm exam | Théorie des Jeux: Approche Stratégique(Gr
  oupe 1\, Groupe 2\, Groupe 3) [ECO214]
@@ -1953,18 +1941,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
 X-ALT-DESC;FMTTYPE=text/html:CANCELLED &nbsp\;(Annulé)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T095100Z
-UID:event-calendar-event-69518
-DTSTART:20260914T160000Z
-DTEND:20260914T173000Z
-CLASS:PUBLIC
-LOCATION:A-F1-01
-SEQUENCE:0
-SUMMARY:Self Study /  Vérifiez auprès de votre professeur [LAN003C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11220&month=09&year=2026#calendar_event_69518
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260924T151500Z
 UID:event-assignment-34160
 DTSTART;VALUE=DATE;VALUE=DATE:20260914
@@ -2532,15 +2508,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=10&year=2026#calendar_event_68379
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T091300Z
+DTSTAMP:20261014T152600Z
 UID:event-calendar-event-68393
 DTSTART:20261022T080000Z
 DTEND:20261022T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-E1-02
 SEQUENCE:0
-SUMMARY:LAW208 | Midtem exam | Legal Practice Laboratory I (Public law) [LA
- W208]
+SUMMARY:LAW208 | MidteRm exam | Legal Practice Laboratory I (Public law) [L
+ AW208]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=10&year=2026#calendar_event_68393
 END:VEVENT
@@ -3120,19 +3096,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260911T150800Z
-UID:event-calendar-event-68066
-DTSTART:20260914T123000Z
-DTEND:20260914T143000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:INT001E | Lecture | Area Studies\, Geopolitics\, and Global Affairs
-  [INT001ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10723&month=09&year=2026#calendar_event_68066
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260914T080000Z
 UID:event-calendar-event-71313
 DTSTART:20260914T153000Z
@@ -3693,23 +3656,23 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=10&year=2026#calendar_event_68379
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T091300Z
+DTSTAMP:20261014T152600Z
 UID:event-calendar-event-68393
 DTSTART:20261022T080000Z
 DTEND:20261022T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-E1-02
 SEQUENCE:0
-SUMMARY:LAW208 | Midtem exam | Legal Practice Laboratory I (Public law) [LA
- W208]
+SUMMARY:LAW208 | MidteRm exam | Legal Practice Laboratory I (Public law) [L
+ AW208]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=10&year=2026#calendar_event_68393
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T093300Z
+DTSTAMP:20261014T152600Z
 UID:event-calendar-event-68074
 DTSTART:20261022T160000Z
-DTEND:20261022T180000Z
+DTEND:20261022T190000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-B0-02
 SEQUENCE:0
@@ -4776,15 +4739,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=10&year=2026#calendar_event_68379
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T091300Z
+DTSTAMP:20261014T152600Z
 UID:event-calendar-event-68393
 DTSTART:20261022T080000Z
 DTEND:20261022T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-E1-02
 SEQUENCE:0
-SUMMARY:LAW208 | Midtem exam | Legal Practice Laboratory I (Public law) [LA
- W208]
+SUMMARY:LAW208 | MidteRm exam | Legal Practice Laboratory I (Public law) [L
+ AW208]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=10&year=2026#calendar_event_68393
 END:VEVENT
@@ -6507,12 +6470,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=10&year=2026#calendar_event_69109
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T090900Z
+DTSTAMP:20261014T152400Z
 UID:event-calendar-event-67604
 DTSTART:20261022T080000Z
 DTEND:20261022T100000Z
 CLASS:PUBLIC
-LOCATION:Groupe 1 (A-G1-02) / Groupe 2 (A-A1-02) / Groupe 3 (A-H0-03)
+LOCATION:Groupe 1 (A-G1-02) / Groupe 2 (A-E1-03) / Groupe 3 (A-F0-02)
 SEQUENCE:0
 SUMMARY:ECO203 | Midterm exam | Econometrics 1(Groupe 1\, Groupe 2\, Groupe
   3) [ECO203]
@@ -7085,49 +7048,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260913T095200Z
-UID:event-calendar-event-68743
-DTSTART:20260914T123000Z
-DTEND:20260914T133000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:RES101 | Lecture | Méthodes d'Apprentissage Appliquées [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=09&year=2026#calendar_event_68743
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260911T175400Z
-UID:event-calendar-event-69362
-DTSTART:20260914T133000Z
-DTEND:20260914T143000Z
-CLASS:PUBLIC
-LOCATION:	Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - 
- Room: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Grou
- pe 6 - Room: B-K0-02
-SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
-  1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=09&year=2026#calendar_event_69362
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260911T175400Z
-UID:event-calendar-event-71300
-DTSTART:20260914T144500Z
-DTEND:20260914T154500Z
-CLASS:PUBLIC
-LOCATION:Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - R
- oom: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gro
- upe 12 - Room: B-K0-02
-SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
-  7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=09&year=2026#calendar_event_71300
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260914T103600Z
@@ -7993,18 +7913,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=10&year=2026#calendar_event_68057
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T092300Z
+DTSTAMP:20261014T152200Z
 UID:event-calendar-event-67380
 DTSTART:20261022T080000Z
 DTEND:20261022T110000Z
 CLASS:PUBLIC
-LOCATION:Groupe 1 (B-H1-01) / Groupe 2 (B-C1-01) / Groupe 3 (B-C1-02) / Gro
- upe 4 (B-F0-01) / Groupe 5 (B-F0-02) / Groupe 6 (B-C0-01) / Groupe 7 (B-I0
- -01)
+LOCATION:Building A - Room: A-A1-02
 SEQUENCE:0
 SUMMARY:DAT107 | Mid-Term exam | Introduction to Statistics For Social Scie
- nces (Groupe 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6\, Gr
- oupe 7) [DAT107]
+ nces  [DAT107]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10739&month=10&year=2026#calendar_event_67380
 END:VEVENT
@@ -8808,19 +8725,6 @@ SEQUENCE:0
 SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260904T151400Z
-UID:event-calendar-event-67689
-DTSTART:20260914T123000Z
-DTEND:20260914T143000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:ECO222 | Lecture | Introduction à l'Économie du Développement [E
- CO222]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10707&month=09&year=2026#calendar_event_67689
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260904T152400Z
@@ -9846,25 +9750,25 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=10&year=2026#calendar_event_68349
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261013T101400Z
+DTSTAMP:20261014T151900Z
 UID:event-calendar-event-67619
 DTSTART:20261021T080000Z
 DTEND:20261021T110000Z
 CLASS:PUBLIC
 LOCATION:Groupe 1 (A-G1-02) / Groupe 2 (A-H0-02)
 SEQUENCE:0
-SUMMARY:ECO204P | Midtem exam | Development Microeconomics(Groupe 1\, Group
- e 2) [ECO204P]
+SUMMARY:ECO204P | Midterm exam | Development Microeconomics(Groupe 1\, Grou
+ pe 2) [ECO204P]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10704&month=10&year=2026#calendar_event_67619
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T090900Z
+DTSTAMP:20261014T152500Z
 UID:event-calendar-event-67634
 DTSTART:20261022T080000Z
 DTEND:20261022T100000Z
 CLASS:PUBLIC
-LOCATION:Groupe 1 (A-E1-01) / Groupe 2 (A-E0-01) / Groupe 3 (A-G1-03)
+LOCATION:Groupe 1 (A-E1-01) / Groupe 2 (A-H0-03) / Groupe 3 (A-G1-03)
 SEQUENCE:0
 SUMMARY:ECO214 | Midterm exam | Théorie des Jeux: Approche Stratégique(Gr
  oupe 1\, Groupe 2\, Groupe 3) [ECO214]
@@ -12138,15 +12042,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=10&year=2026#calendar_event_68379
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T091300Z
+DTSTAMP:20261014T152600Z
 UID:event-calendar-event-68393
 DTSTART:20261022T080000Z
 DTEND:20261022T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-E1-02
 SEQUENCE:0
-SUMMARY:LAW208 | Midtem exam | Legal Practice Laboratory I (Public law) [LA
- W208]
+SUMMARY:LAW208 | MidteRm exam | Legal Practice Laboratory I (Public law) [L
+ AW208]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=10&year=2026#calendar_event_68393
 END:VEVENT
@@ -12653,49 +12557,6 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260913T095200Z
-UID:event-calendar-event-68743
-DTSTART:20260914T123000Z
-DTEND:20260914T133000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:RES101 | Lecture | Méthodes d'Apprentissage Appliquées [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=09&year=2026#calendar_event_68743
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260911T175400Z
-UID:event-calendar-event-69362
-DTSTART:20260914T133000Z
-DTEND:20260914T143000Z
-CLASS:PUBLIC
-LOCATION:	Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - 
- Room: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Grou
- pe 6 - Room: B-K0-02
-SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
-  1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=09&year=2026#calendar_event_69362
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260911T175400Z
-UID:event-calendar-event-71300
-DTSTART:20260914T144500Z
-DTEND:20260914T154500Z
-CLASS:PUBLIC
-LOCATION:Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - R
- oom: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gro
- upe 12 - Room: B-K0-02
-SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
-  7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=09&year=2026#calendar_event_71300
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260914T103600Z
@@ -13493,15 +13354,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=10&year=2026#calendar_event_68057
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260716T160200Z
+DTSTAMP:20261014T152300Z
 UID:event-calendar-event-67364
 DTSTART:20261022T080000Z
 DTEND:20261022T110000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Groupe 1 (B-H1-01) / Groupe 2 (B-C1-01) / Groupe 3 (B-C1-02) / Gro
+ upe 4 (B-F0-01) / Groupe 5 (B-F0-02) / Groupe 6 (B-C0-01) / Groupe 7 (B-I0
+ -01)
 SEQUENCE:0
 SUMMARY:DAT104 | Mid-Term exam | Statistiques Descriptives et Probabilités
-  [DAT104]
+ (Groupe 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6\, Groupe 
+ 7) [DAT104]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10738&month=10&year=2026#calendar_event_67364
 END:VEVENT
