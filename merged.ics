@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260904T152400Z
-UID:event-calendar-event-68216
-DTSTART:20260914T154500Z
-DTEND:20260914T184500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:INT202 | Lecture | Theories of International Relations [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=09&year=2026#calendar_event_68216
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260924T151500Z
 UID:event-assignment-34160
 DTSTART;VALUE=DATE;VALUE=DATE:20260914
@@ -1926,21 +1914,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260914T080000Z
-UID:event-calendar-event-71313
-DTSTART:20260914T153000Z
-DTEND:20260914T184500Z
-CLASS:PUBLIC
-DESCRIPTION:CANCELLED  (Annulé)
-LOCATION:A-A0-01
-SEQUENCE:0
-SUMMARY:LAN007C | English | B1 | Customized Support | Jamal Bahmmad | Fall 
- 2026-27 [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 8022&month=09&year=2026#calendar_event_71313
-X-ALT-DESC;FMTTYPE=text/html:CANCELLED &nbsp\;(Annulé)
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260924T151500Z
 UID:event-assignment-34160
 DTSTART;VALUE=DATE;VALUE=DATE:20260914
@@ -3094,21 +3067,6 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260914T080000Z
-UID:event-calendar-event-71313
-DTSTART:20260914T153000Z
-DTEND:20260914T184500Z
-CLASS:PUBLIC
-DESCRIPTION:CANCELLED  (Annulé)
-LOCATION:A-A0-01
-SEQUENCE:0
-SUMMARY:LAN007C | English | B1 | Customized Support | Jamal Bahmmad | Fall 
- 2026-27 [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 8022&month=09&year=2026#calendar_event_71313
-X-ALT-DESC;FMTTYPE=text/html:CANCELLED &nbsp\;(Annulé)
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T111000Z
@@ -8727,18 +8685,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260904T152400Z
-UID:event-calendar-event-68216
-DTSTART:20260914T154500Z
-DTEND:20260914T184500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:INT202 | Lecture | Theories of International Relations [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=09&year=2026#calendar_event_68216
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260907T114000Z
 UID:event-calendar-event-68344
 DTSTART:20260915T123000Z
@@ -10354,21 +10300,6 @@ SEQUENCE:0
 SUMMARY:INT201 | Q&A | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260914T080000Z
-UID:event-calendar-event-71313
-DTSTART:20260914T153000Z
-DTEND:20260914T184500Z
-CLASS:PUBLIC
-DESCRIPTION:CANCELLED  (Annulé)
-LOCATION:A-A0-01
-SEQUENCE:0
-SUMMARY:LAN007C | English | B1 | Customized Support | Jamal Bahmmad | Fall 
- 2026-27 [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 8022&month=09&year=2026#calendar_event_71313
-X-ALT-DESC;FMTTYPE=text/html:CANCELLED &nbsp\;(Annulé)
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T114500Z
