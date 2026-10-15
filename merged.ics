@@ -1104,6 +1104,33 @@ X-ALT-DESC;FMTTYPE=text/html:<table style="width: 72.1099%\; height: 730px\
  ble>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:event-assignment-36123
+DTSTART:20261015T170000Z
+DTEND:20261015T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
+ LDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36123
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T091300Z
+UID:event-assignment-36122
+DTSTART:20261018T225900Z
+DTEND:20261018T225900Z
+CLASS:PUBLIC
+DESCRIPTION:Merci de mettre une page de garde avec noms et prénoms des con
+ tributeurs. Travail déposé en format PDF.
+SEQUENCE:0
+SUMMARY:Devoir 1 [POL203]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10757&month=10&year=2026#assignment_36122
+X-ALT-DESC;FMTTYPE=text/html:<p>Merci de mettre une page de garde avec noms
+  et prénoms des contributeurs. Travail déposé en format PDF.</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -1153,6 +1180,18 @@ SUMMARY:LAW201 | Mid-Term exam | Public International Law (Groupe 1\, Group
  e 2\, Groupe 3) [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=10&year=2026#calendar_event_68349
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T094300Z
+UID:event-calendar-event-72900
+DTSTART:20261021T111500Z
+DTEND:20261021T124500Z
+CLASS:PUBLIC
+LOCATION:A-C1-12
+SEQUENCE:0
+SUMMARY:Mid-term Exam [LAN003C]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11220&month=10&year=2026#calendar_event_72900
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261014T152500Z
@@ -1295,12 +1334,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=10&year=2026#calendar_event_68350
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T095000Z
+DTSTAMP:20261015T100100Z
 UID:event-calendar-event-72514
 DTSTART:20261028T111500Z
 DTEND:20261028T124500Z
 CLASS:PUBLIC
-LOCATION:TBD
+LOCATION:A-A1-02
 SEQUENCE:0
 SUMMARY:Mid-term Exam [LAN014C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -2341,6 +2380,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=10&year=2026#calendar_event_67540
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:event-assignment-36123
+DTSTART:20261015T170000Z
+DTEND:20261015T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
+ LDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36123
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -2391,6 +2442,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=10&year=2026#calendar_event_68349
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261015T094300Z
+UID:event-calendar-event-72900
+DTSTART:20261021T111500Z
+DTEND:20261021T124500Z
+CLASS:PUBLIC
+LOCATION:A-C1-12
+SEQUENCE:0
+SUMMARY:Mid-term Exam [LAN003C]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11220&month=10&year=2026#calendar_event_72900
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261007T125800Z
 UID:event-calendar-event-68379
 DTSTART:20261021T133000Z
@@ -2403,14 +2466,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=10&year=2026#calendar_event_68379
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T152600Z
+DTSTAMP:20261015T103700Z
 UID:event-calendar-event-68393
 DTSTART:20261022T080000Z
 DTEND:20261022T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-E1-02
 SEQUENCE:0
-SUMMARY:LAW208 | MidteRm exam | Legal Practice Laboratory I (Public law) [L
+SUMMARY:LAW208 | Midterm exam | Legal Practice Laboratory I (Public law) [L
  AW208]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=10&year=2026#calendar_event_68393
@@ -3461,6 +3524,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=10&year=2026#calendar_event_68392
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:event-assignment-36123
+DTSTART:20261015T170000Z
+DTEND:20261015T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
+ LDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36123
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -3536,14 +3611,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=10&year=2026#calendar_event_68379
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T152600Z
+DTSTAMP:20261015T103700Z
 UID:event-calendar-event-68393
 DTSTART:20261022T080000Z
 DTEND:20261022T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-E1-02
 SEQUENCE:0
-SUMMARY:LAW208 | MidteRm exam | Legal Practice Laboratory I (Public law) [L
+SUMMARY:LAW208 | Midterm exam | Legal Practice Laboratory I (Public law) [L
  AW208]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=10&year=2026#calendar_event_68393
@@ -3611,12 +3686,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=10&year=2026#calendar_event_68350
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T094900Z
+DTSTAMP:20261015T103800Z
 UID:event-calendar-event-72513
 DTSTART:20261027T143000Z
 DTEND:20261027T160000Z
 CLASS:PUBLIC
-LOCATION:TBD
+LOCATION:B-H1-01
 SEQUENCE:0
 SUMMARY:Mid-term Exam [LAN008C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -4557,6 +4632,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=10&year=2026#calendar_event_68160
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:event-assignment-36123
+DTSTART:20261015T170000Z
+DTEND:20261015T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
+ LDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36123
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -4619,25 +4706,25 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=10&year=2026#calendar_event_68379
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T152600Z
+DTSTAMP:20261015T103700Z
 UID:event-calendar-event-68393
 DTSTART:20261022T080000Z
 DTEND:20261022T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-E1-02
 SEQUENCE:0
-SUMMARY:LAW208 | MidteRm exam | Legal Practice Laboratory I (Public law) [L
+SUMMARY:LAW208 | Midterm exam | Legal Practice Laboratory I (Public law) [L
  AW208]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=10&year=2026#calendar_event_68393
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T094500Z
+DTSTAMP:20261015T095200Z
 UID:event-calendar-event-72510
 DTSTART:20261022T111500Z
 DTEND:20261022T124500Z
 CLASS:PUBLIC
-LOCATION:TBD
+LOCATION:A-G1-02 / A-G1-03
 SEQUENCE:0
 SUMMARY:Mid-term Exam [LAN108P]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -5211,19 +5298,6 @@ SEQUENCE:0
 SUMMARY:INT012E | Q&A | Emerging Global Security Governance [INT012ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=12&year=2026#calendar_event_68168
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T081200Z
-UID:event-calendar-event-67659
-DTSTART:20260915T080000Z
-DTEND:20260915T100000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO218 | Lecture | Comptabilité Nationale et Agrégats Macroécono
- miques [ECO218]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10749&month=09&year=2026#calendar_event_67659
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T080600Z
@@ -6250,6 +6324,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=10&year=2026#calendar_event_69106
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:event-assignment-36123
+DTSTART:20261015T170000Z
+DTEND:20261015T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
+ LDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36123
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -6928,19 +7014,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260914T103600Z
-UID:event-calendar-event-67553
-DTSTART:20260915T080000Z
-DTEND:20260915T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:ECO101 | Lecture | Introduction à l'Analyse Economique [ECO101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10740&month=09&year=2026#calendar_event_67553
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260914T104200Z
@@ -7687,6 +7760,18 @@ SUMMARY:QUIZZ 1 - REPRISE - Introduction à l'Analyse Economique- Requires
  LockDown Browser- Requires Respondus LockDown Browser [ECO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#assignment_35547
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:event-assignment-36123
+DTSTART:20261015T170000Z
+DTEND:20261015T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
+ LDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36123
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
@@ -9567,6 +9652,18 @@ X-ALT-DESC;FMTTYPE=text/html:<table style="width: 72.1099%\; height: 730px\
  ble>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:event-assignment-36123
+DTSTART:20261015T170000Z
+DTEND:20261015T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
+ LDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36123
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -9579,12 +9676,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=10&year=2026#assignment_35338
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T104300Z
+DTSTAMP:20261015T101300Z
 UID:event-calendar-event-67694
 DTSTART:20261019T123000Z
 DTEND:20261019T143000Z
 CLASS:PUBLIC
-LOCATION:Groupe (A-G1-02) / Groupe 2 ( A-G1-01)
+LOCATION:Groupe1 (A-G1-02) / Groupe 2 ( A-G1-01)
 SEQUENCE:0
 SUMMARY:ECO222 | Midterm exam | Introduction à l'Économie du Développeme
  nt(Groupe 1\, Groupe 2) [ECO222]
@@ -10224,19 +10321,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T114500Z
-UID:event-calendar-event-68607
-DTSTART:20260915T080000Z
-DTEND:20260915T100000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:POL212 | Lecture | Systèmes Politiques Comparés et Philosophie Po
- litique [POL212]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10770&month=09&year=2026#calendar_event_68607
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260907T114000Z
 UID:event-calendar-event-68344
 DTSTART:20260915T123000Z
@@ -10791,6 +10875,33 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=10&year=2026#calendar_event_68596
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:event-assignment-36123
+DTSTART:20261015T170000Z
+DTEND:20261015T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
+ LDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36123
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T091300Z
+UID:event-assignment-36122
+DTSTART:20261018T225900Z
+DTEND:20261018T225900Z
+CLASS:PUBLIC
+DESCRIPTION:Merci de mettre une page de garde avec noms et prénoms des con
+ tributeurs. Travail déposé en format PDF.
+SEQUENCE:0
+SUMMARY:Devoir 1 [POL203]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10757&month=10&year=2026#assignment_36122
+X-ALT-DESC;FMTTYPE=text/html:<p>Merci de mettre une page de garde avec noms
+  et prénoms des contributeurs. Travail déposé en format PDF.</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -10941,12 +11052,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=10&year=2026#calendar_event_68598
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T095200Z
+DTSTAMP:20261015T100400Z
 UID:event-calendar-event-72516
 DTSTART:20261029T110000Z
 DTEND:20261029T123000Z
 CLASS:PUBLIC
-LOCATION:TBD
+LOCATION:A-H0-02
 SEQUENCE:0
 SUMMARY:Mid-term Exam [LAN002C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -11833,6 +11944,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=10&year=2026#calendar_event_67540
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:event-assignment-36123
+DTSTART:20261015T170000Z
+DTEND:20261015T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
+ LDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36123
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -11895,14 +12018,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=10&year=2026#calendar_event_68379
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T152600Z
+DTSTAMP:20261015T103700Z
 UID:event-calendar-event-68393
 DTSTART:20261022T080000Z
 DTEND:20261022T110000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-E1-02
 SEQUENCE:0
-SUMMARY:LAW208 | MidteRm exam | Legal Practice Laboratory I (Public law) [L
+SUMMARY:LAW208 | Midterm exam | Legal Practice Laboratory I (Public law) [L
  AW208]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=10&year=2026#calendar_event_68393
@@ -12410,19 +12533,6 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260914T103600Z
-UID:event-calendar-event-67553
-DTSTART:20260915T080000Z
-DTEND:20260915T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:ECO101 | Lecture | Introduction à l'Analyse Economique [ECO101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10740&month=09&year=2026#calendar_event_67553
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260914T104200Z
@@ -13103,6 +13213,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#assignment_35547
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:event-assignment-36123
+DTSTART:20261015T170000Z
+DTEND:20261015T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
+ LDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36123
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -13207,13 +13329,13 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=10&year=2026#calendar_event_68057
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T152300Z
+DTSTAMP:20261015T102700Z
 UID:event-calendar-event-67364
 DTSTART:20261022T080000Z
 DTEND:20261022T110000Z
 CLASS:PUBLIC
 LOCATION:Groupe 1 (B-H1-01) / Groupe 2 (B-C1-01) / Groupe 3 (B-C1-02) / Gro
- upe 4 (B-F0-01) / Groupe 5 (B-F0-02) / Groupe 6 (B-C0-01) / Groupe 7 (B-I0
+ upe 4 (B-F0-01) / Groupe 5 (B-F0-02) / Groupe 6 (B-H0-01) / Groupe 7 (B-I0
  -01)
 SEQUENCE:0
 SUMMARY:DAT104 | Mid-Term exam | Statistiques Descriptives et Probabilités
