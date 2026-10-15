@@ -2,45 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260924T151500Z
-UID:event-assignment-34160
-DTSTART;VALUE=DATE;VALUE=DATE:20260914
-CLASS:PUBLIC
-DESCRIPTION:الأسبوع 7 شتنبر 2026\n\nالمهمة الصغرى 
- الأولى\n\nالتمرين الأول  :  اقرأ نص المجزو
- ءة الأولى : الصحافة والمجتمع\n\nراجع معجم 
- الصحافة والمجتمع (تجده صحبة المجزوءة)\n\n 
- التمرين الثاني : الاشتغال على تصميم المو
- ضوع : شاهد التسجيلات على منصة كانفاس\n\nPDF 
-  عالج الموضوع التالي وسلمه على نسخة  على 
- المنصة (مرقونا أو بخط اليد) \n\nالموضوع\n\nك
- يف تفهم قولهم"إن الصِّحافة سلطةٌ رابعةٌ"
- ؟\n\n \n\n 
-SEQUENCE:0
-SUMMARY:Micro-tâche 1 [LAN003C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11220&month=09&year=2026#assignment_34160
-X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center\;"><strong>الأ
- سبوع 7 شتنبر 2026</strong></p>\n<p style="text-align: center\;"><
- strong>المهمة الصغرى الأولى</strong></p>\n<p style="text
- -align: center\;"><strong>التمرين الأول&nbsp\;</strong><span s
- tyle="font-size: 14pt\;"> :&nbsp\; اقرأ نص المجزوءة الأو
- لى : الصحافة والمجتمع</span></p>\n<p style="text-align: c
- enter\;"><span style="font-size: 14pt\;">راجع معجم الصحافة 
- والمجتمع (تجده صحبة المجزوءة)</span></p>\n<p style
- ="text-align: center\;"><span style="font-size: 14pt\;">&nbsp\;<strong>ا
- لتمرين الثاني</strong> : الاشتغال على تصميم ا
- لموضوع : شاهد التسجيلات على منصة كانفاس</s
- pan></p>\n<p style="text-align: center\;"><span style="font-size: 14pt\;">
- PDF&nbsp\; عالج الموضوع التالي وسلمه على نسخة
- &nbsp\; على المنصة (مرقونا أو بخط اليد)&nbsp\;</sp
- an></p>\n<p style="text-align: center\;"><span style="font-size: 14pt\;">
- الموضوع</span></p>\n<p style="text-align: center\;"><strong><span s
- tyle="font-size: 14pt\;">كيف تفهم قولهم"إن الصِّح</spa
- n>افة سلطةٌ رابعةٌ"؟</strong></p>\n<p>&nbsp\;</p>\n<p>&nbsp
- \;</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260907T114000Z
 UID:event-calendar-event-68344
 DTSTART:20260915T123000Z
@@ -1912,45 +1873,6 @@ SEQUENCE:0
 SUMMARY:POL203 | Q&A | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260924T151500Z
-UID:event-assignment-34160
-DTSTART;VALUE=DATE;VALUE=DATE:20260914
-CLASS:PUBLIC
-DESCRIPTION:الأسبوع 7 شتنبر 2026\n\nالمهمة الصغرى 
- الأولى\n\nالتمرين الأول  :  اقرأ نص المجزو
- ءة الأولى : الصحافة والمجتمع\n\nراجع معجم 
- الصحافة والمجتمع (تجده صحبة المجزوءة)\n\n 
- التمرين الثاني : الاشتغال على تصميم المو
- ضوع : شاهد التسجيلات على منصة كانفاس\n\nPDF 
-  عالج الموضوع التالي وسلمه على نسخة  على 
- المنصة (مرقونا أو بخط اليد) \n\nالموضوع\n\nك
- يف تفهم قولهم"إن الصِّحافة سلطةٌ رابعةٌ"
- ؟\n\n \n\n 
-SEQUENCE:0
-SUMMARY:Micro-tâche 1 [LAN003C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11220&month=09&year=2026#assignment_34160
-X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center\;"><strong>الأ
- سبوع 7 شتنبر 2026</strong></p>\n<p style="text-align: center\;"><
- strong>المهمة الصغرى الأولى</strong></p>\n<p style="text
- -align: center\;"><strong>التمرين الأول&nbsp\;</strong><span s
- tyle="font-size: 14pt\;"> :&nbsp\; اقرأ نص المجزوءة الأو
- لى : الصحافة والمجتمع</span></p>\n<p style="text-align: c
- enter\;"><span style="font-size: 14pt\;">راجع معجم الصحافة 
- والمجتمع (تجده صحبة المجزوءة)</span></p>\n<p style
- ="text-align: center\;"><span style="font-size: 14pt\;">&nbsp\;<strong>ا
- لتمرين الثاني</strong> : الاشتغال على تصميم ا
- لموضوع : شاهد التسجيلات على منصة كانفاس</s
- pan></p>\n<p style="text-align: center\;"><span style="font-size: 14pt\;">
- PDF&nbsp\; عالج الموضوع التالي وسلمه على نسخة
- &nbsp\; على المنصة (مرقونا أو بخط اليد)&nbsp\;</sp
- an></p>\n<p style="text-align: center\;"><span style="font-size: 14pt\;">
- الموضوع</span></p>\n<p style="text-align: center\;"><strong><span s
- tyle="font-size: 14pt\;">كيف تفهم قولهم"إن الصِّح</spa
- n>افة سلطةٌ رابعةٌ"؟</strong></p>\n<p>&nbsp\;</p>\n<p>&nbsp
- \;</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T111000Z
