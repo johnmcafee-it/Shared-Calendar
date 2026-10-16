@@ -1903,18 +1903,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68374
-DTSTART:20260916T133000Z
-DTEND:20260916T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68374
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
 UID:event-calendar-event-68389
 DTSTART:20260917T080000Z
 DTEND:20260917T110000Z
@@ -3019,18 +3007,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68374
-DTSTART:20260916T133000Z
-DTEND:20260916T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68374
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
 UID:event-calendar-event-68389
 DTSTART:20260917T080000Z
 DTEND:20260917T110000Z
@@ -4124,18 +4100,6 @@ SEQUENCE:0
 SUMMARY:LAW208 | Q&A | Legal Practice Laboratory I (Public law) [LAW208]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=12&year=2026#calendar_event_68398
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68374
-DTSTART:20260916T133000Z
-DTEND:20260916T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68374
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T095000Z
@@ -10148,18 +10112,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68374
-DTSTART:20260916T133000Z
-DTEND:20260916T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68374
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T092800Z
 UID:event-calendar-event-68156
 DTSTART:20260917T140000Z
@@ -11389,18 +11341,6 @@ SEQUENCE:0
 SUMMARY:POL203 | Q&A | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68374
-DTSTART:20260916T133000Z
-DTEND:20260916T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68374
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
