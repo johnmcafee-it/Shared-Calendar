@@ -5204,18 +5204,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=12&year=2026#calendar_event_68168
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T080600Z
-UID:event-calendar-event-67584
-DTSTART:20260916T080000Z
-DTEND:20260916T100000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:ECO202 | Lecture | Macroéconomie 1 [ECO202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10747&month=09&year=2026#calendar_event_67584
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260904T150200Z
 UID:event-calendar-event-67421
 DTSTART:20260921T080000Z
@@ -6920,19 +6908,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260915T182800Z
-UID:event-calendar-event-68561
-DTSTART:20260916T080000Z
-DTEND:20260916T111500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:POL101 |Lecture | Introduction to Political Science [POL101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10743&month=09&year=2026#calendar_event_68561
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260915T182900Z
 UID:event-calendar-event-68053
 DTSTART:20260916T133000Z
@@ -8566,18 +8541,6 @@ SEQUENCE:0
 SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T080600Z
-UID:event-calendar-event-67614
-DTSTART:20260916T080000Z
-DTEND:20260916T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-H0-01
-SEQUENCE:0
-SUMMARY:ECO204P | Lecture | Development Microeconomics [ECO204P]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10704&month=09&year=2026#calendar_event_67614
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260831T105900Z
@@ -12361,19 +12324,6 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260915T182800Z
-UID:event-calendar-event-68561
-DTSTART:20260916T080000Z
-DTEND:20260916T111500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:POL101 |Lecture | Introduction to Political Science [POL101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10743&month=09&year=2026#calendar_event_68561
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260915T182900Z
