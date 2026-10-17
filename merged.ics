@@ -4063,18 +4063,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=12&year=2026#calendar_event_68398
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T092800Z
-UID:event-calendar-event-68156
-DTSTART:20260917T140000Z
-DTEND:20260917T160000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A1-02
-SEQUENCE:0
-SUMMARY:INT012E | Lecture | Emerging Global Security Governance [INT012ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10729&month=09&year=2026#calendar_event_68156
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260922T111200Z
 UID:event-assignment-35046
 DTSTART:20260921T130000Z
@@ -9994,18 +9982,6 @@ SEQUENCE:0
 SUMMARY:INT201 | Q&A | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T092800Z
-UID:event-calendar-event-68156
-DTSTART:20260917T140000Z
-DTEND:20260917T160000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A1-02
-SEQUENCE:0
-SUMMARY:INT012E | Lecture | Emerging Global Security Governance [INT012ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10729&month=09&year=2026#calendar_event_68156
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260917T151000Z
