@@ -1889,19 +1889,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68389
-DTSTART:20260917T080000Z
-DTEND:20260917T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=09&year=2026#calendar_event_68389
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260716T162400Z
 UID:event-calendar-event-67536
 DTSTART:20260917T140000Z
@@ -2993,19 +2980,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68389
-DTSTART:20260917T080000Z
-DTEND:20260917T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=09&year=2026#calendar_event_68389
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T090700Z
 UID:event-calendar-event-68067
 DTSTART:20260921T123000Z
@@ -4087,19 +4061,6 @@ SEQUENCE:0
 SUMMARY:LAW208 | Q&A | Legal Practice Laboratory I (Public law) [LAW208]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=12&year=2026#calendar_event_68398
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68389
-DTSTART:20260917T080000Z
-DTEND:20260917T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=09&year=2026#calendar_event_68389
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T092800Z
@@ -6845,19 +6806,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260716T160200Z
-UID:event-calendar-event-67374
-DTSTART:20260917T080000Z
-DTEND:20260917T111500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:DAT107 | Laboratory | Introduction to Statistics For Social Science
- s [DAT107]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10739&month=09&year=2026#calendar_event_67374
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260916T160600Z
@@ -11279,19 +11227,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68389
-DTSTART:20260917T080000Z
-DTEND:20260917T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=09&year=2026#calendar_event_68389
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260716T162400Z
 UID:event-calendar-event-67536
 DTSTART:20260917T140000Z
@@ -12200,20 +12135,6 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260916T085100Z
-UID:event-calendar-event-71350
-DTSTART:20260917T094500Z
-DTEND:20260917T111500Z
-CLASS:PUBLIC
-LOCATION:Groupe 6 - Room: B-I0-01 / Groupe 7 - Room: B-I0-02 / Groupe 8 - R
- oom: B-H0-01 / Groupe 9 - Room: B-H0-02 / Groupe 10 - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:DAT104 | Laboratory | Statistiques Descriptives et Probabilités(Gr
- oupe 6\, Groupe 7\, Groupe 8\, Groupe 9\, Groupe 10) [DAT104]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10738&month=09&year=2026#calendar_event_71350
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260916T160600Z
