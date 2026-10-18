@@ -7435,15 +7435,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=10&year=2026#assignment_35338
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261013T092600Z
+DTSTAMP:20261017T235300Z
 UID:event-calendar-event-68334
 DTSTART:20261019T080000Z
 DTEND:20261019T110000Z
 CLASS:PUBLIC
-LOCATION:(Groupe 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6\,
-  Groupe 7\, Groupe 8) Groupe 1 (B-H1-01) / Groupe 2 (B-C1-01) / Groupe 3 (
- B-C1-02) / Groupe 4 (B-F0-01) / Groupe 5 (B-F0-02) / Groupe 6 (B-H0-01) / 
- Groupe 7 (B-H0-02) / Groupe 8 (B-I0-01)
+LOCATION:Groupe 1 (B-H1-01) / Groupe 2 (B-C1-01) / Groupe 3 (B-C1-02) / Gro
+ upe 4 (B-F0-01) / Groupe 5 (B-F0-02) / Groupe 6 (B-H0-01) / Groupe 7 (B-H0
+ -02) / Groupe 8 (B-I0-01)
 SEQUENCE:0
 SUMMARY:LAW101 | Mid-Term exam | Introduction à l'Etude du Droit(Groupe 1\
  , Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6\, Groupe 7\, Groupe
@@ -12630,15 +12629,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=10&year=2026#assignment_35338
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261013T092600Z
+DTSTAMP:20261017T235300Z
 UID:event-calendar-event-68334
 DTSTART:20261019T080000Z
 DTEND:20261019T110000Z
 CLASS:PUBLIC
-LOCATION:(Groupe 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6\,
-  Groupe 7\, Groupe 8) Groupe 1 (B-H1-01) / Groupe 2 (B-C1-01) / Groupe 3 (
- B-C1-02) / Groupe 4 (B-F0-01) / Groupe 5 (B-F0-02) / Groupe 6 (B-H0-01) / 
- Groupe 7 (B-H0-02) / Groupe 8 (B-I0-01)
+LOCATION:Groupe 1 (B-H1-01) / Groupe 2 (B-C1-01) / Groupe 3 (B-C1-02) / Gro
+ upe 4 (B-F0-01) / Groupe 5 (B-F0-02) / Groupe 6 (B-H0-01) / Groupe 7 (B-H0
+ -02) / Groupe 8 (B-I0-01)
 SEQUENCE:0
 SUMMARY:LAW101 | Mid-Term exam | Introduction à l'Etude du Droit(Groupe 1\
  , Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6\, Groupe 7\, Groupe
