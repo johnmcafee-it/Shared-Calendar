@@ -6759,34 +6759,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260917T182700Z
-UID:event-calendar-event-68054
-DTSTART:20260918T080000Z
-DTEND:20260918T093000Z
-CLASS:PUBLIC
-LOCATION:	Groupe 1 - Room: B-I0-01 / Groupe 2 - Room: B-I0-02 / Groupe 3 - 
- Room: B-H0-01 / Groupe 4 - Room: B-H0-02
-SEQUENCE:0
-SUMMARY:HIS103 | Laboratory | Le Monde: Une Histoire Moderne et Contemporai
- ne(Groupe 1\, Groupe 2\, Groupe 3\, Groupe 4) [HIS103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10741&month=09&year=2026#calendar_event_68054
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T182800Z
-UID:event-calendar-event-71351
-DTSTART:20260918T094500Z
-DTEND:20260918T111500Z
-CLASS:PUBLIC
-LOCATION:Groupe 5 - Room: B-I0-01 / Groupe 6 - Room: B-I0-02 / Groupe 7 - R
- oom: B-H0-01 / Groupe 8 - Room: B-H0-02
-SEQUENCE:0
-SUMMARY:HIS103 | Laboratory | Le Monde: Une Histoire Moderne et Contemporai
- ne(Groupe 5\, Groupe 6\, Groupe 7\, Groupe 8 ) [HIS103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10741&month=09&year=2026#calendar_event_71351
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260920T140400Z
 UID:event-calendar-event-68329
 DTSTART:20260921T080000Z
@@ -12022,34 +11994,6 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T182700Z
-UID:event-calendar-event-68054
-DTSTART:20260918T080000Z
-DTEND:20260918T093000Z
-CLASS:PUBLIC
-LOCATION:	Groupe 1 - Room: B-I0-01 / Groupe 2 - Room: B-I0-02 / Groupe 3 - 
- Room: B-H0-01 / Groupe 4 - Room: B-H0-02
-SEQUENCE:0
-SUMMARY:HIS103 | Laboratory | Le Monde: Une Histoire Moderne et Contemporai
- ne(Groupe 1\, Groupe 2\, Groupe 3\, Groupe 4) [HIS103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10741&month=09&year=2026#calendar_event_68054
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T182800Z
-UID:event-calendar-event-71351
-DTSTART:20260918T094500Z
-DTEND:20260918T111500Z
-CLASS:PUBLIC
-LOCATION:Groupe 5 - Room: B-I0-01 / Groupe 6 - Room: B-I0-02 / Groupe 7 - R
- oom: B-H0-01 / Groupe 8 - Room: B-H0-02
-SEQUENCE:0
-SUMMARY:HIS103 | Laboratory | Le Monde: Une Histoire Moderne et Contemporai
- ne(Groupe 5\, Groupe 6\, Groupe 7\, Groupe 8 ) [HIS103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10741&month=09&year=2026#calendar_event_71351
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260920T140400Z
