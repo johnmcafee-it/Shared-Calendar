@@ -7427,13 +7427,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=10&year=2026#calendar_event_68749
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T105200Z
+DTSTAMP:20261018T171900Z
 UID:event-assignment-35863
 DTSTART:20261020T110000Z
 DTEND:20261020T110000Z
 CLASS:PUBLIC
 SEQUENCE:0
-SUMMARY:Quiz pré-examen MIDTERM - OBLIGATOIRE [ECO101]
+SUMMARY:Quiz pré-examen MIDTERM - OBLIGATOIRE- Requires Respondus LockDown
+  Browser [ECO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#assignment_35863
 END:VEVENT
@@ -12581,13 +12582,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=10&year=2026#calendar_event_68749
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T105200Z
+DTSTAMP:20261018T171900Z
 UID:event-assignment-35863
 DTSTART:20261020T110000Z
 DTEND:20261020T110000Z
 CLASS:PUBLIC
 SEQUENCE:0
-SUMMARY:Quiz pré-examen MIDTERM - OBLIGATOIRE [ECO101]
+SUMMARY:Quiz pré-examen MIDTERM - OBLIGATOIRE- Requires Respondus LockDown
+  Browser [ECO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#assignment_35863
 END:VEVENT
