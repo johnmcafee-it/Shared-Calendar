@@ -1043,18 +1043,6 @@ X-ALT-DESC;FMTTYPE=text/html:<table style="width: 72.1099%\; height: 730px\
  ble>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T100000Z
-UID:event-assignment-36123
-DTSTART:20261015T170000Z
-DTEND:20261015T170000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
- LDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_36123
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261015T091300Z
 UID:event-assignment-36122
 DTSTART:20261018T225900Z
@@ -1404,6 +1392,18 @@ SEQUENCE:0
 SUMMARY:Self-Study/ Vérifiez auprès de votre professeur. [LAN014C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11223&month=11&year=2026#calendar_event_70352
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T003100Z
+UID:event-assignment-36123
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (QUIZ TEST 19.10) - Requires Respondus LockDown Br
+ owser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36123
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260903T090100Z
@@ -2257,18 +2257,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=10&year=2026#calendar_event_67540
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T100000Z
-UID:event-assignment-36123
-DTSTART:20261015T170000Z
-DTEND:20261015T170000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
- LDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_36123
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -2527,6 +2515,18 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=11&year=2026#calendar_event_67543
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T003100Z
+UID:event-assignment-36123
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (QUIZ TEST 19.10) - Requires Respondus LockDown Br
+ owser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36123
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260903T090100Z
@@ -3340,18 +3340,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=10&year=2026#calendar_event_68392
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T100000Z
-UID:event-assignment-36123
-DTSTART:20261015T170000Z
-DTEND:20261015T170000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
- LDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_36123
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -3623,6 +3611,18 @@ SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
  ]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=11&year=2026#calendar_event_68395
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T003100Z
+UID:event-assignment-36123
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (QUIZ TEST 19.10) - Requires Respondus LockDown Br
+ owser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36123
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260903T090100Z
@@ -4375,18 +4375,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=10&year=2026#calendar_event_68160
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T100000Z
-UID:event-assignment-36123
-DTSTART:20261015T170000Z
-DTEND:20261015T170000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
- LDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_36123
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -4644,6 +4632,18 @@ SEQUENCE:0
 SUMMARY:INT012E | Lecture | Emerging Global Security Governance [INT012ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=11&year=2026#calendar_event_68163
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T003100Z
+UID:event-assignment-36123
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (QUIZ TEST 19.10) - Requires Respondus LockDown Br
+ owser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36123
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260903T090100Z
@@ -6055,18 +6055,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=10&year=2026#calendar_event_69106
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T100000Z
-UID:event-assignment-36123
-DTSTART:20261015T170000Z
-DTEND:20261015T170000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
- LDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_36123
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -6374,6 +6362,18 @@ SUMMARY:ECO218 | Lecture | Comptabilité Nationale et Agrégats Macroécono
  miques [ECO218]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10749&month=11&year=2026#calendar_event_67666
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T003100Z
+UID:event-assignment-36123
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (QUIZ TEST 19.10) - Requires Respondus LockDown Br
+ owser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36123
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260904T150200Z
@@ -7371,18 +7371,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#assignment_35547
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T100000Z
-UID:event-assignment-36123
-DTSTART:20261015T170000Z
-DTEND:20261015T170000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
- LDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_36123
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -7727,6 +7715,18 @@ SUMMARY:HIS103 | Lecture | Le Monde: Une Histoire Moderne et Contemporaine
  [HIS103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_68059
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T003100Z
+UID:event-assignment-36123
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (QUIZ TEST 19.10) - Requires Respondus LockDown Br
+ owser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36123
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T103200Z
@@ -9212,18 +9212,6 @@ X-ALT-DESC;FMTTYPE=text/html:<table style="width: 72.1099%\; height: 730px\
  ble>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T100000Z
-UID:event-assignment-36123
-DTSTART:20261015T170000Z
-DTEND:20261015T170000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
- LDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_36123
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -9512,6 +9500,18 @@ SEQUENCE:0
 SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=11&year=2026#calendar_event_68208
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T003100Z
+UID:event-assignment-36123
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (QUIZ TEST 19.10) - Requires Respondus LockDown Br
+ owser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36123
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T081200Z
@@ -10375,18 +10375,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=10&year=2026#calendar_event_68596
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T100000Z
-UID:event-assignment-36123
-DTSTART:20261015T170000Z
-DTEND:20261015T170000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
- LDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_36123
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261015T091300Z
 UID:event-assignment-36122
 DTSTART:20261018T225900Z
@@ -10660,6 +10648,18 @@ SEQUENCE:0
 SUMMARY:Face to Face session [LAN002C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11218&month=11&year=2026#calendar_event_69941
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T003100Z
+UID:event-assignment-36123
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (QUIZ TEST 19.10) - Requires Respondus LockDown Br
+ owser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36123
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260903T090100Z
@@ -11382,18 +11382,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=10&year=2026#calendar_event_67540
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T100000Z
-UID:event-assignment-36123
-DTSTART:20261015T170000Z
-DTEND:20261015T170000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
- LDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_36123
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -11628,6 +11616,18 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=11&year=2026#calendar_event_67543
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T003100Z
+UID:event-assignment-36123
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (QUIZ TEST 19.10) - Requires Respondus LockDown Br
+ owser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36123
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260903T090100Z
@@ -12526,18 +12526,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#assignment_35547
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T100000Z
-UID:event-assignment-36123
-DTSTART:20261015T170000Z
-DTEND:20261015T170000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE 15/10/2026- Requires Respondus LockDown Browser [R
- LDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_36123
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -12873,6 +12861,18 @@ SUMMARY:HIS103 | Lecture | Le Monde: Une Histoire Moderne et Contemporaine
  [HIS103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_68059
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T003100Z
+UID:event-assignment-36123
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (QUIZ TEST 19.10) - Requires Respondus LockDown Br
+ owser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36123
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T103200Z
