@@ -1394,6 +1394,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11223&month=11&year=2026#calendar_event_70352
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261019T112400Z
+UID:event-assignment-36183
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
+ pier [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36183
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261019T003100Z
 UID:event-assignment-36123
 DTSTART:20261108T170000Z
@@ -2517,6 +2529,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=11&year=2026#calendar_event_67543
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261019T112400Z
+UID:event-assignment-36183
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
+ pier [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36183
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261019T003100Z
 UID:event-assignment-36123
 DTSTART:20261108T170000Z
@@ -3613,6 +3637,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=11&year=2026#calendar_event_68395
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261019T112400Z
+UID:event-assignment-36183
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
+ pier [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36183
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261019T003100Z
 UID:event-assignment-36123
 DTSTART:20261108T170000Z
@@ -4632,6 +4668,18 @@ SEQUENCE:0
 SUMMARY:INT012E | Lecture | Emerging Global Security Governance [INT012ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=11&year=2026#calendar_event_68163
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T112400Z
+UID:event-assignment-36183
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
+ pier [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36183
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261019T003100Z
@@ -6364,6 +6412,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10749&month=11&year=2026#calendar_event_67666
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261019T112400Z
+UID:event-assignment-36183
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
+ pier [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36183
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261019T003100Z
 UID:event-assignment-36123
 DTSTART:20261108T170000Z
@@ -7715,6 +7775,18 @@ SUMMARY:HIS103 | Lecture | Le Monde: Une Histoire Moderne et Contemporaine
  [HIS103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_68059
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T112400Z
+UID:event-assignment-36183
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
+ pier [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36183
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261019T003100Z
@@ -9502,6 +9574,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=11&year=2026#calendar_event_68208
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261019T112400Z
+UID:event-assignment-36183
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
+ pier [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36183
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261019T003100Z
 UID:event-assignment-36123
 DTSTART:20261108T170000Z
@@ -10650,6 +10734,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11218&month=11&year=2026#calendar_event_69941
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261019T112400Z
+UID:event-assignment-36183
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
+ pier [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36183
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261019T003100Z
 UID:event-assignment-36123
 DTSTART:20261108T170000Z
@@ -11616,6 +11712,18 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=11&year=2026#calendar_event_67543
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T112400Z
+UID:event-assignment-36183
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
+ pier [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36183
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261019T003100Z
@@ -12861,6 +12969,18 @@ SUMMARY:HIS103 | Lecture | Le Monde: Une Histoire Moderne et Contemporaine
  [HIS103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_68059
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T112400Z
+UID:event-assignment-36183
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
+ pier [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=11&year=2026#assignment_36183
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261019T003100Z
