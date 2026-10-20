@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260927T172800Z
-UID:event-assignment-35185
-DTSTART;VALUE=DATE;VALUE=DATE:20260919
-CLASS:PUBLIC
-DESCRIPTION:Devoir sur table
-SEQUENCE:0
-SUMMARY:Micro-tâche 2 [LAN003C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11220&month=09&year=2026#assignment_35185
-X-ALT-DESC;FMTTYPE=text/html:<p>Devoir sur table</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260922T111200Z
 UID:event-assignment-35046
 DTSTART:20260921T130000Z
@@ -1863,18 +1851,6 @@ SEQUENCE:0
 SUMMARY:POL203 | Q&A | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260927T172800Z
-UID:event-assignment-35185
-DTSTART;VALUE=DATE;VALUE=DATE:20260919
-CLASS:PUBLIC
-DESCRIPTION:Devoir sur table
-SEQUENCE:0
-SUMMARY:Micro-tâche 2 [LAN003C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11220&month=09&year=2026#assignment_35185
-X-ALT-DESC;FMTTYPE=text/html:<p>Devoir sur table</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T111200Z
