@@ -2,49 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260904T152400Z
-UID:event-calendar-event-68217
-DTSTART:20260921T154500Z
-DTEND:20260921T174500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:INT202 | Laboratory | Theories of International Relations [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=09&year=2026#calendar_event_68217
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260831T100400Z
-UID:event-calendar-event-69520
-DTSTART:20260921T160000Z
-DTEND:20260921T173000Z
-CLASS:PUBLIC
-LOCATION:A-F1-01
-SEQUENCE:0
-SUMMARY:Micro-Task 1 [LAN003C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11220&month=09&year=2026#calendar_event_69520
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261001T173300Z
-UID:event-assignment-override-5668
-DTSTART:20260921T190000Z
-DTEND:20260921T190000Z
-CLASS:PUBLIC
-DESCRIPTION:Bonjour à tous\,  Merci de faire l'évaluation sur LA COHÉSI
- ON TEXTUELLE disponible sur Canevas.  \n\nMerci de répondre directement 
- sur la plateforme.  Cordialement\,
-SEQUENCE:0
-SUMMARY:Self-Study Activity No1: Cohesion Textuelle (LAN014C | French | B2 
- | Customized Support | Hafida El Amrani | Fall 2026-27) [LAN014C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11223&month=09&year=2026#assignment_34844
-X-ALT-DESC;FMTTYPE=text/html:<p>Bonjour à tous\, &nbsp\;Merci de faire l'
- évaluation sur <strong>LA COHÉSION TEXTUELLE</strong> disponible sur Can
- evas. &nbsp\;</p>\n<p>Merci de répondre directement sur la plateforme. &n
- bsp\;Cordialement\,</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260907T114100Z
 UID:event-calendar-event-68345
 DTSTART:20260922T123000Z
@@ -1840,18 +1797,6 @@ SEQUENCE:0
 SUMMARY:POL203 | Q&A | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260831T100400Z
-UID:event-calendar-event-69520
-DTSTART:20260921T160000Z
-DTEND:20260921T173000Z
-CLASS:PUBLIC
-LOCATION:A-F1-01
-SEQUENCE:0
-SUMMARY:Micro-Task 1 [LAN003C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11220&month=09&year=2026#calendar_event_69520
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T213000Z
@@ -6704,21 +6649,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T132900Z
-UID:event-calendar-event-71538
-DTSTART:20260921T144500Z
-DTEND:20260921T154500Z
-CLASS:PUBLIC
-LOCATION:Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - R
- oom: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gro
- upe 12 - Room: B-K0-02
-SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
-  7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=09&year=2026#calendar_event_71538
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260921T155800Z
 UID:event-calendar-event-71526
 DTSTART:20260922T110000Z
@@ -8231,18 +8161,6 @@ SEQUENCE:0
 SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260904T152400Z
-UID:event-calendar-event-68217
-DTSTART:20260921T154500Z
-DTEND:20260921T174500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:INT202 | Laboratory | Theories of International Relations [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=09&year=2026#calendar_event_68217
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260907T114100Z
@@ -11848,21 +11766,6 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260918T132900Z
-UID:event-calendar-event-71538
-DTSTART:20260921T144500Z
-DTEND:20260921T154500Z
-CLASS:PUBLIC
-LOCATION:Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - R
- oom: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gro
- upe 12 - Room: B-K0-02
-SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
-  7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=09&year=2026#calendar_event_71538
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260921T155800Z
