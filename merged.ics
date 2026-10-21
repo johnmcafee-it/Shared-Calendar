@@ -5067,18 +5067,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=12&year=2026#calendar_event_68168
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260904T150200Z
-UID:event-calendar-event-67421
-DTSTART:20260921T080000Z
-DTEND:20260921T100000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:DAT203 | Laboratory | Mathématiques et Optimisation [DAT203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10745&month=09&year=2026#calendar_event_67421
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260922T111200Z
 UID:event-assignment-35046
 DTSTART:20260921T130000Z
