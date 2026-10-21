@@ -9945,51 +9945,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260917T171900Z
-UID:event-assignment-34229
-DTSTART:20260920T225900Z
-DTEND:20260920T225900Z
-CLASS:PUBLIC
-DESCRIPTION:Bonjour à toutes et à tous\,\n\nVeuillez trouver ci-joint les
-  leçons ainsi que les devoirs à faire.\n\nMerci de prendre note des cons
- ignes suivantes :\n\n*\n\nAssimilation du cours : Vous êtes invités à b
- ien étudier et assimiler le contenu des leçons avant d'effectuer les exe
- rcices.\n\n*\n\nFormat des devoirs : Les exercices doivent être rédigés
-  à la main. Aucun devoir au format Word ou généré à l'aide d'outils n
- umériques ne sera accepté.\n\n*\n\nModalités d'envoi : Vos documents do
- ivent être numérisés au format PDF et déposés exclusivement sur Canva
- s.\n\nBien cordialement\,\n\n[اللازم والمتعدي.pdf] (https://
- um6p.instructure.com/courses/11218/files/855677?wrap=1)
-SEQUENCE:0
-SUMMARY:علوم اللغة : اللازم والمتعدي [LAN002C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11218&month=09&year=2026#assignment_34229
-X-ALT-DESC;FMTTYPE=text/html:<p data-path-to-node="3">Bonjour à toutes et 
- à tous\,</p>\n<p data-path-to-node="4">Veuillez trouver ci-joint les leç
- ons ainsi que les devoirs à faire.</p>\n<p data-path-to-node="5">Merci de
-  prendre note des consignes suivantes :</p>\n<ul data-path-to-node="6">\n<
- li>\n<p data-path-to-node="6\,0\,0"><strong data-path-to-node="6\,0\,0" da
- ta-index-in-node="0">Assimilation du cours :</strong> Vous êtes invités 
- à bien étudier et assimiler le contenu des leçons avant d'effectuer les
-  exercices.</p>\n</li>\n<li>\n<p data-path-to-node="6\,1\,0"><strong data-
- path-to-node="6\,1\,0" data-index-in-node="0">Format des devoirs :</strong
- > Les exercices doivent être rédigés <strong data-path-to-node="6\,1\,0
- " data-index-in-node="56">à la main</strong>. Aucun devoir au format Word
-  ou généré à l'aide d'outils numériques ne sera accepté.</p>\n</li>\
- n<li>\n<p data-path-to-node="6\,2\,0"><strong data-path-to-node="6\,2\,0" 
- data-index-in-node="0">Modalités d'envoi :</strong> Vos documents doivent
-  être numérisés au format <strong data-path-to-node="6\,2\,0" data-inde
- x-in-node="67">PDF</strong> et déposés <strong data-path-to-node="6\,2\,
- 0" data-index-in-node="82">exclusivement sur Canvas</strong>.</p>\n</li>\n
- </ul>\n<p data-path-to-node="7">Bien cordialement\,</p>\n<p data-path-to-n
- ode="7"><a class="instructure_file_link instructure_scribd_file inline_dis
- abled" title="اللازم والمتعدي.pdf" href="https://um6p.instru
- cture.com/courses/11218/files/855677?wrap=1" target="_blank" data-canvas-p
- reviewable="false" data-api-endpoint="https://um6p.instructure.com/api/v1/
- courses/11218/files/855677" data-api-returntype="File">اللازم وال
- متعدي.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260922T111200Z
 UID:event-assignment-35046
 DTSTART:20260921T130000Z
