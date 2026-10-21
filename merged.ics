@@ -1799,18 +1799,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260922T213000Z
-UID:event-calendar-event-71601
-DTSTART:20260921T180000Z
-DTEND:20260921T203000Z
-CLASS:PUBLIC
-LOCATION:
-SEQUENCE:0
-SUMMARY:English course  [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 8362&month=09&year=2026#calendar_event_71601
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T111000Z
 UID:event-calendar-event-68431
 DTSTART:20260922T090000Z
@@ -2852,18 +2840,6 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260922T213000Z
-UID:event-calendar-event-71601
-DTSTART:20260921T180000Z
-DTEND:20260921T203000Z
-CLASS:PUBLIC
-LOCATION:
-SEQUENCE:0
-SUMMARY:English course  [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 8362&month=09&year=2026#calendar_event_71601
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T111000Z
@@ -7194,7 +7170,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67556
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261020T092800Z
+DTSTAMP:20261021T222200Z
 UID:event-assignment-35547
 DTSTART:20261009T150000Z
 DTEND:20261009T150000Z
@@ -7278,7 +7254,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67557
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261020T193800Z
+DTSTAMP:20261021T222100Z
 UID:event-assignment-35587
 DTSTART:20261020T163000Z
 DTEND:20261020T163000Z
@@ -9717,18 +9693,6 @@ SEQUENCE:0
 SUMMARY:INT201 | Q&A | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260922T213000Z
-UID:event-calendar-event-71601
-DTSTART:20260921T180000Z
-DTEND:20260921T203000Z
-CLASS:PUBLIC
-LOCATION:
-SEQUENCE:0
-SUMMARY:English course  [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 8362&month=09&year=2026#calendar_event_71601
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T114500Z
@@ -12242,7 +12206,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67556
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261020T092800Z
+DTSTAMP:20261021T222200Z
 UID:event-assignment-35547
 DTSTART:20261009T150000Z
 DTEND:20261009T150000Z
@@ -12326,7 +12290,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67557
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261020T193800Z
+DTSTAMP:20261021T222100Z
 UID:event-assignment-35587
 DTSTART:20261020T163000Z
 DTEND:20261020T163000Z
