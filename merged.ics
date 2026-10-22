@@ -1068,7 +1068,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10705&month=10&year=2026#calendar_event_67634
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261021T141700Z
+DTSTAMP:20261022T121700Z
 UID:event-calendar-event-68206
 DTSTART:20261022T140000Z
 DTEND:20261022T150000Z
@@ -1338,14 +1338,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11223&month=11&year=2026#calendar_event_70352
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T112400Z
+DTSTAMP:20261022T082600Z
 UID:event-assignment-36183
 DTSTART:20261108T170000Z
 DTEND:20261108T170000Z
 CLASS:PUBLIC
 SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
- pier [RLDB103]
+SUMMARY:QUIZ OBLIGATOIRE (Midterm)  Copier- Requires Respondus LockDown Bro
+ wser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=11&year=2026#assignment_36183
 END:VEVENT
@@ -1807,18 +1807,6 @@ SEQUENCE:0
 SUMMARY:POL203 | Q&A | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T111000Z
-UID:event-calendar-event-68431
-DTSTART:20260922T090000Z
-DTEND:20260922T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-03
-SEQUENCE:0
-SUMMARY:LAW305 | Laboratory | Droit Administratif [LAW305]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10765&month=09&year=2026#calendar_event_68431
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260907T114100Z
@@ -2436,14 +2424,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=11&year=2026#calendar_event_67543
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T112400Z
+DTSTAMP:20261022T082600Z
 UID:event-assignment-36183
 DTSTART:20261108T170000Z
 DTEND:20261108T170000Z
 CLASS:PUBLIC
 SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
- pier [RLDB103]
+SUMMARY:QUIZ OBLIGATOIRE (Midterm)  Copier- Requires Respondus LockDown Bro
+ wser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=11&year=2026#assignment_36183
 END:VEVENT
@@ -2860,18 +2848,6 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T111000Z
-UID:event-calendar-event-68431
-DTSTART:20260922T090000Z
-DTEND:20260922T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-03
-SEQUENCE:0
-SUMMARY:LAW305 | Laboratory | Droit Administratif [LAW305]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10765&month=09&year=2026#calendar_event_68431
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260907T114100Z
@@ -3518,14 +3494,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=11&year=2026#calendar_event_68395
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T112400Z
+DTSTAMP:20261022T082600Z
 UID:event-assignment-36183
 DTSTART:20261108T170000Z
 DTEND:20261108T170000Z
 CLASS:PUBLIC
 SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
- pier [RLDB103]
+SUMMARY:QUIZ OBLIGATOIRE (Midterm)  Copier- Requires Respondus LockDown Bro
+ wser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=11&year=2026#assignment_36183
 END:VEVENT
@@ -3929,18 +3905,6 @@ SEQUENCE:0
 SUMMARY:LAW208 | Q&A | Legal Practice Laboratory I (Public law) [LAW208]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=12&year=2026#calendar_event_68398
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T111000Z
-UID:event-calendar-event-68431
-DTSTART:20260922T090000Z
-DTEND:20260922T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-03
-SEQUENCE:0
-SUMMARY:LAW305 | Laboratory | Droit Administratif [LAW305]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10765&month=09&year=2026#calendar_event_68431
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260907T114100Z
@@ -4356,10 +4320,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=10&year=2026#calendar_event_68393
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T095200Z
+DTSTAMP:20261022T104600Z
 UID:event-calendar-event-72510
-DTSTART:20261022T111500Z
-DTEND:20261022T124500Z
+DTSTART:20261022T121500Z
+DTEND:20261022T134500Z
 CLASS:PUBLIC
 LOCATION:A-G1-02 / A-G1-03
 SEQUENCE:0
@@ -4550,14 +4514,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=11&year=2026#calendar_event_68163
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T112400Z
+DTSTAMP:20261022T082600Z
 UID:event-assignment-36183
 DTSTART:20261108T170000Z
 DTEND:20261108T170000Z
 CLASS:PUBLIC
 SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
- pier [RLDB103]
+SUMMARY:QUIZ OBLIGATOIRE (Midterm)  Copier- Requires Respondus LockDown Bro
+ wser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=11&year=2026#assignment_36183
 END:VEVENT
@@ -4969,19 +4933,6 @@ SEQUENCE:0
 SUMMARY:INT012E | Q&A | Emerging Global Security Governance [INT012ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=12&year=2026#calendar_event_68168
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T081200Z
-UID:event-calendar-event-67660
-DTSTART:20260922T080000Z
-DTEND:20260922T100000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO218 | Laboratory | Comptabilité Nationale et Agrégats Macroéc
- onomiques [ECO218]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10749&month=09&year=2026#calendar_event_67660
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T080600Z
@@ -6073,6 +6024,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10748&month=10&year=2026#calendar_event_67604
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261022T123300Z
+UID:event-assignment-36199
+DTSTART:20261022T111000Z
+DTEND:20261022T111000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Mid-Term Exam — Econometrics I- Requires Respondus LockDown Brows
+ er [ECO203]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10748&month=10&year=2026#assignment_36199
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261014T093300Z
 UID:event-calendar-event-68116
 DTSTART:20261022T170000Z
@@ -6094,6 +6057,18 @@ SEQUENCE:0
 SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=10&year=2026#assignment_36343
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T121100Z
+UID:event-calendar-event-73312
+DTSTART:20261023T090000Z
+DTEND:20261023T103000Z
+CLASS:PUBLIC
+LOCATION:Building A - Room: A-H0-01
+SEQUENCE:0
+SUMMARY:ECO201 | QUIZ | Microéconomie 1 [ECO201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10746&month=10&year=2026#calendar_event_73312
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261020T142800Z
@@ -6280,14 +6255,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10749&month=11&year=2026#calendar_event_67666
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T112400Z
+DTSTAMP:20261022T082600Z
 UID:event-assignment-36183
 DTSTART:20261108T170000Z
 DTEND:20261108T170000Z
 CLASS:PUBLIC
 SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
- pier [RLDB103]
+SUMMARY:QUIZ OBLIGATOIRE (Midterm)  Copier- Requires Respondus LockDown Bro
+ wser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=11&year=2026#assignment_36183
 END:VEVENT
@@ -6673,19 +6648,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260921T155800Z
-UID:event-calendar-event-71526
-DTSTART:20260922T110000Z
-DTEND:20260922T120000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-D0-01/Building B - Room: B-D0-02
-SEQUENCE:0
-SUMMARY:ECO101 | Office Hours | Introduction à l'Analyse Economique [ECO10
- 1]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10740&month=09&year=2026#calendar_event_71526
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260921T210200Z
@@ -7603,14 +7565,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_68059
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T112400Z
+DTSTAMP:20261022T082600Z
 UID:event-assignment-36183
 DTSTART:20261108T170000Z
 DTEND:20261108T170000Z
 CLASS:PUBLIC
 SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
- pier [RLDB103]
+SUMMARY:QUIZ OBLIGATOIRE (Midterm)  Copier- Requires Respondus LockDown Bro
+ wser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=11&year=2026#assignment_36183
 END:VEVENT
@@ -9151,7 +9113,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10705&month=10&year=2026#calendar_event_67634
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261021T141700Z
+DTSTAMP:20261022T121700Z
 UID:event-calendar-event-68206
 DTSTART:20261022T140000Z
 DTEND:20261022T150000Z
@@ -9374,14 +9336,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=11&year=2026#calendar_event_68208
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T112400Z
+DTSTAMP:20261022T082600Z
 UID:event-assignment-36183
 DTSTART:20261108T170000Z
 DTEND:20261108T170000Z
 CLASS:PUBLIC
 SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
- pier [RLDB103]
+SUMMARY:QUIZ OBLIGATOIRE (Midterm)  Copier- Requires Respondus LockDown Bro
+ wser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=11&year=2026#assignment_36183
 END:VEVENT
@@ -9763,19 +9725,6 @@ SEQUENCE:0
 SUMMARY:INT201 | Q&A | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T114500Z
-UID:event-calendar-event-68608
-DTSTART:20260922T080000Z
-DTEND:20260922T100000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:POL212 | Laboratory | Systèmes Politiques Comparés et Philosophie
-  Politique [POL212]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10770&month=09&year=2026#calendar_event_68608
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260907T114100Z
@@ -10476,14 +10425,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11218&month=11&year=2026#calendar_event_69941
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T112400Z
+DTSTAMP:20261022T082600Z
 UID:event-assignment-36183
 DTSTART:20261108T170000Z
 DTEND:20261108T170000Z
 CLASS:PUBLIC
 SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
- pier [RLDB103]
+SUMMARY:QUIZ OBLIGATOIRE (Midterm)  Copier- Requires Respondus LockDown Bro
+ wser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=11&year=2026#assignment_36183
 END:VEVENT
@@ -10912,18 +10861,6 @@ SEQUENCE:0
 SUMMARY:POL203 | Q&A | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T111000Z
-UID:event-calendar-event-68431
-DTSTART:20260922T090000Z
-DTEND:20260922T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-03
-SEQUENCE:0
-SUMMARY:LAW305 | Laboratory | Droit Administratif [LAW305]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10765&month=09&year=2026#calendar_event_68431
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260907T114100Z
@@ -11455,14 +11392,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=11&year=2026#calendar_event_67543
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T112400Z
+DTSTAMP:20261022T082600Z
 UID:event-assignment-36183
 DTSTART:20261108T170000Z
 DTEND:20261108T170000Z
 CLASS:PUBLIC
 SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
- pier [RLDB103]
+SUMMARY:QUIZ OBLIGATOIRE (Midterm)  Copier- Requires Respondus LockDown Bro
+ wser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=11&year=2026#assignment_36183
 END:VEVENT
@@ -11820,19 +11757,6 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260921T155800Z
-UID:event-calendar-event-71526
-DTSTART:20260922T110000Z
-DTEND:20260922T120000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-D0-01/Building B - Room: B-D0-02
-SEQUENCE:0
-SUMMARY:ECO101 | Office Hours | Introduction à l'Analyse Economique [ECO10
- 1]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10740&month=09&year=2026#calendar_event_71526
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260921T210200Z
@@ -12670,14 +12594,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_68059
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T112400Z
+DTSTAMP:20261022T082600Z
 UID:event-assignment-36183
 DTSTART:20261108T170000Z
 DTEND:20261108T170000Z
 CLASS:PUBLIC
 SEQUENCE:0
-SUMMARY:QUIZ OBLIGATOIRE (Midterm) - Requires Respondus LockDown Browser Co
- pier [RLDB103]
+SUMMARY:QUIZ OBLIGATOIRE (Midterm)  Copier- Requires Respondus LockDown Bro
+ wser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=11&year=2026#assignment_36183
 END:VEVENT
