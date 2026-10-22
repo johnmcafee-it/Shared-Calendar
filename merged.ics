@@ -1158,10 +1158,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=10&year=2026#assignment_36343
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T100500Z
+DTSTAMP:20261022T182400Z
 UID:event-calendar-event-68597
-DTSTART:20261023T123000Z
-DTEND:20261023T153000Z
+DTSTART:20261023T133000Z
+DTEND:20261023T163000Z
 CLASS:PUBLIC
 LOCATION:Groupe 1 (A-G1-02) / Groupe 2 (A-G1-01)
 SEQUENCE:0
@@ -1809,18 +1809,6 @@ SEQUENCE:0
 SUMMARY:POL203 | Q&A | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260922T212900Z
-UID:event-calendar-event-71599
-DTSTART:20260922T143000Z
-DTEND:20260922T200000Z
-CLASS:PUBLIC
-LOCATION:A-A01
-SEQUENCE:0
-SUMMARY:ECO204P | Laboratory | Development Microeconomics [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 7429&month=09&year=2026#calendar_event_71599
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T213100Z
@@ -2838,30 +2826,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260922T212900Z
-UID:event-calendar-event-71599
-DTSTART:20260922T143000Z
-DTEND:20260922T200000Z
-CLASS:PUBLIC
-LOCATION:A-A01
-SEQUENCE:0
-SUMMARY:ECO204P | Laboratory | Development Microeconomics [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 7429&month=09&year=2026#calendar_event_71599
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260909T094900Z
-UID:event-calendar-event-69820
-DTSTART:20260922T170000Z
-DTEND:20260922T183000Z
-CLASS:PUBLIC
-LOCATION:A-A0-02
-SEQUENCE:0
-SUMMARY:Micro-Task 1 [LAN008C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11215&month=09&year=2026#calendar_event_69820
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T213100Z
@@ -9670,18 +9634,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260922T212900Z
-UID:event-calendar-event-71599
-DTSTART:20260922T143000Z
-DTEND:20260922T200000Z
-CLASS:PUBLIC
-LOCATION:A-A01
-SEQUENCE:0
-SUMMARY:ECO204P | Laboratory | Development Microeconomics [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 7429&month=09&year=2026#calendar_event_71599
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260922T213100Z
 UID:event-calendar-event-71602
 DTSTART:20260923T133000Z
@@ -10172,10 +10124,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=10&year=2026#assignment_36343
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T100500Z
+DTSTAMP:20261022T182400Z
 UID:event-calendar-event-68597
-DTSTART:20261023T123000Z
-DTEND:20261023T153000Z
+DTSTART:20261023T133000Z
+DTEND:20261023T163000Z
 CLASS:PUBLIC
 LOCATION:Groupe 1 (A-G1-02) / Groupe 2 (A-G1-01)
 SEQUENCE:0
