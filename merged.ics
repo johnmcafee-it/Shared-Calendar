@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260907T114100Z
-UID:event-calendar-event-68345
-DTSTART:20260922T123000Z
-DTEND:20260922T143000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=09&year=2026#calendar_event_68345
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260922T143300Z
 UID:event-calendar-event-68202
 DTSTART:20260924T140000Z
@@ -1146,6 +1134,20 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-v
  end="903">&nbsp\;</p>\n<p><br><br></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261022T153400Z
+UID:event-assignment-34033
+DTSTART:20261022T163000Z
+DTEND:20261022T163000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:INT 201 Mid Term Test - Requires Respondus LockDown Browser [INT201
+ ]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10710&month=10&year=2026#assignment_34033
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261022T031600Z
 UID:event-assignment-36343
 DTSTART;VALUE=DATE;VALUE=DATE:20261022
@@ -1167,18 +1169,6 @@ SUMMARY:POL203 | Midterm exam | Politique et Economie (Groupe 1\, Groupe 2)
   [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=10&year=2026#calendar_event_68597
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261020T110900Z
-UID:event-calendar-event-68583
-DTSTART:20261026T090000Z
-DTEND:20261026T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:POL201 | Exposés | Institutions Politiques Marocaines [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=10&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260904T152600Z
@@ -1785,6 +1775,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11223&month=12&year=2026#calendar_event_70356
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261022T124600Z
+UID:event-calendar-event-68583
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+CLASS:PUBLIC
+LOCATION:Building A - Room: A-F0-01
+SEQUENCE:0
+SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10769&month=12&year=2026#calendar_event_68583
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260909T095100Z
 UID:event-calendar-event-68603
 DTSTART:20261204T123000Z
@@ -1807,18 +1809,6 @@ SEQUENCE:0
 SUMMARY:POL203 | Q&A | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260907T114100Z
-UID:event-calendar-event-68345
-DTSTART:20260922T123000Z
-DTEND:20260922T143000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=09&year=2026#calendar_event_68345
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T212900Z
@@ -2262,18 +2252,6 @@ SEQUENCE:0
 SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=10&year=2026#assignment_36343
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261020T110900Z
-UID:event-calendar-event-68583
-DTSTART:20261026T090000Z
-DTEND:20261026T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:POL201 | Exposés | Institutions Politiques Marocaines [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=10&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261020T114700Z
@@ -2850,16 +2828,16 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114100Z
-UID:event-calendar-event-68345
-DTSTART:20260922T123000Z
-DTEND:20260922T143000Z
+DTSTAMP:20261022T124600Z
+UID:event-calendar-event-68583
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
-SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
+SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=09&year=2026#calendar_event_68345
+ _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T212900Z
@@ -3320,18 +3298,6 @@ SEQUENCE:0
 SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=10&year=2026#assignment_36343
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261020T110900Z
-UID:event-calendar-event-68583
-DTSTART:20261026T090000Z
-DTEND:20261026T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:POL201 | Exposés | Institutions Politiques Marocaines [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=10&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T090700Z
@@ -3907,16 +3873,16 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=12&year=2026#calendar_event_68398
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114100Z
-UID:event-calendar-event-68345
-DTSTART:20260922T123000Z
-DTEND:20260922T143000Z
+DTSTAMP:20261022T124600Z
+UID:event-calendar-event-68583
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
-SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
+SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=09&year=2026#calendar_event_68345
+ _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
@@ -4353,18 +4319,6 @@ SEQUENCE:0
 SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=10&year=2026#assignment_36343
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261020T110900Z
-UID:event-calendar-event-68583
-DTSTART:20261026T090000Z
-DTEND:20261026T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:POL201 | Exposés | Institutions Politiques Marocaines [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=10&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261020T114700Z
@@ -4933,6 +4887,18 @@ SEQUENCE:0
 SUMMARY:INT012E | Q&A | Emerging Global Security Governance [INT012ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=12&year=2026#calendar_event_68168
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T124600Z
+UID:event-calendar-event-68583
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+CLASS:PUBLIC
+LOCATION:Building A - Room: A-F0-01
+SEQUENCE:0
+SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T080600Z
@@ -6024,7 +5990,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10748&month=10&year=2026#calendar_event_67604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261022T123300Z
+DTSTAMP:20261022T140100Z
 UID:event-assignment-36199
 DTSTART:20261022T111000Z
 DTEND:20261022T111000Z
@@ -6059,12 +6025,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=10&year=2026#assignment_36343
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261022T121100Z
+DTSTAMP:20261022T163100Z
 UID:event-calendar-event-73312
 DTSTART:20261023T090000Z
 DTEND:20261023T103000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-H0-01
+LOCATION:Building B - Room: B-K0-01/Building B - Room: B-K0-02
 SEQUENCE:0
 SUMMARY:ECO201 | QUIZ | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -6192,18 +6158,6 @@ SEQUENCE:0
 SUMMARY:ECO202 | Midterm exam | Macroéconomie 1 [ECO202]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10747&month=10&year=2026#calendar_event_67590
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260915T100800Z
-UID:event-calendar-event-67605
-DTSTART:20261029T080000Z
-DTEND:20261029T100000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:ECO203 | Laboratory | Econometrics 1 [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=10&year=2026#calendar_event_67605
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260904T150200Z
@@ -6648,19 +6602,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260921T210200Z
-UID:event-calendar-event-67552
-DTSTART:20260922T123000Z
-DTEND:20260922T153000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:ECO101 | Lecture | Introduction à l'Analyse Economique [ECO101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10740&month=09&year=2026#calendar_event_67552
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T142400Z
@@ -8161,18 +8102,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114100Z
-UID:event-calendar-event-68345
-DTSTART:20260922T123000Z
-DTEND:20260922T143000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=09&year=2026#calendar_event_68345
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T080600Z
 UID:event-calendar-event-67615
 DTSTART:20260923T080000Z
@@ -9191,6 +9120,20 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-v
  end="903">&nbsp\;</p>\n<p><br><br></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261022T153400Z
+UID:event-assignment-34033
+DTSTART:20261022T163000Z
+DTEND:20261022T163000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:INT 201 Mid Term Test - Requires Respondus LockDown Browser [INT201
+ ]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10710&month=10&year=2026#assignment_34033
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261022T031600Z
 UID:event-assignment-36343
 DTSTART;VALUE=DATE;VALUE=DATE:20261022
@@ -9727,18 +9670,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114100Z
-UID:event-calendar-event-68345
-DTSTART:20260922T123000Z
-DTEND:20260922T143000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=09&year=2026#calendar_event_68345
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260922T212900Z
 UID:event-calendar-event-71599
 DTSTART:20260922T143000Z
@@ -10252,18 +10183,6 @@ SUMMARY:POL203 | Midterm exam | Politique et Economie (Groupe 1\, Groupe 2)
   [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=10&year=2026#calendar_event_68597
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261020T110900Z
-UID:event-calendar-event-68583
-DTSTART:20261026T090000Z
-DTEND:20261026T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:POL201 | Exposés | Institutions Politiques Marocaines [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=10&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T114500Z
@@ -10839,6 +10758,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11218&month=12&year=2026#calendar_event_70316
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261022T124600Z
+UID:event-calendar-event-68583
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+CLASS:PUBLIC
+LOCATION:Building A - Room: A-F0-01
+SEQUENCE:0
+SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10769&month=12&year=2026#calendar_event_68583
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260909T095100Z
 UID:event-calendar-event-68603
 DTSTART:20261204T123000Z
@@ -10861,18 +10792,6 @@ SEQUENCE:0
 SUMMARY:POL203 | Q&A | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260907T114100Z
-UID:event-calendar-event-68345
-DTSTART:20260922T123000Z
-DTEND:20260922T143000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=09&year=2026#calendar_event_68345
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
@@ -11242,18 +11161,6 @@ SEQUENCE:0
 SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=10&year=2026#assignment_36343
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261020T110900Z
-UID:event-calendar-event-68583
-DTSTART:20261026T090000Z
-DTEND:20261026T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:POL201 | Exposés | Institutions Politiques Marocaines [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=10&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261020T114700Z
@@ -11759,17 +11666,16 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260921T210200Z
-UID:event-calendar-event-67552
-DTSTART:20260922T123000Z
-DTEND:20260922T153000Z
+DTSTAMP:20261022T124600Z
+UID:event-calendar-event-68583
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
-SUMMARY:ECO101 | Lecture | Introduction à l'Analyse Economique [ECO101]
+SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10740&month=09&year=2026#calendar_event_67552
+ _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T142400Z
