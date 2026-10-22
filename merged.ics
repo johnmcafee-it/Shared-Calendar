@@ -1146,6 +1146,16 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-v
  end="903">&nbsp\;</p>\n<p><br><br></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261022T031600Z
+UID:event-assignment-36343
+DTSTART;VALUE=DATE;VALUE=DATE:20261022
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36343
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261014T100500Z
 UID:event-calendar-event-68597
 DTSTART:20261023T123000Z
@@ -2256,6 +2266,16 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=10&year=2026#calendar_event_67541
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261022T031600Z
+UID:event-assignment-36343
+DTSTART;VALUE=DATE;VALUE=DATE:20261022
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36343
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261020T110900Z
 UID:event-calendar-event-68583
 DTSTART:20261026T090000Z
@@ -3316,6 +3336,16 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10723&month=10&year=2026#calendar_event_68074
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261022T031600Z
+UID:event-assignment-36343
+DTSTART;VALUE=DATE;VALUE=DATE:20261022
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36343
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261020T110900Z
 UID:event-calendar-event-68583
 DTSTART:20261026T090000Z
@@ -4349,6 +4379,16 @@ SUMMARY:INT012E | Midterm exam | Emerging Global Security Governance [INT01
  2ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=10&year=2026#calendar_event_68161
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T031600Z
+UID:event-assignment-36343
+DTSTART;VALUE=DATE;VALUE=DATE:20261022
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36343
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261020T110900Z
@@ -6046,6 +6086,16 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10726&month=10&year=2026#calendar_event_68116
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261022T031600Z
+UID:event-assignment-36343
+DTSTART;VALUE=DATE;VALUE=DATE:20261022
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36343
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261020T142800Z
 UID:event-assignment-33827
 DTSTART:20261025T223000Z
@@ -7309,6 +7359,16 @@ SUMMARY:DAT107 | Mid-Term exam | Introduction to Statistics For Social Scie
  nces  [DAT107]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10739&month=10&year=2026#calendar_event_67380
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T031600Z
+UID:event-assignment-36343
+DTSTART;VALUE=DATE;VALUE=DATE:20261022
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36343
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261020T110900Z
@@ -9169,6 +9229,16 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-v
  end="903">&nbsp\;</p>\n<p><br><br></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261022T031600Z
+UID:event-assignment-36343
+DTSTART;VALUE=DATE;VALUE=DATE:20261022
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36343
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260904T151500Z
 UID:event-calendar-event-67695
 DTSTART:20261026T123000Z
@@ -10212,6 +10282,16 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=10&year=2026#calendar_event_68161
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261022T031600Z
+UID:event-assignment-36343
+DTSTART;VALUE=DATE;VALUE=DATE:20261022
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36343
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261014T100500Z
 UID:event-calendar-event-68597
 DTSTART:20261023T123000Z
@@ -11215,6 +11295,16 @@ SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
  n [ECO003ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=10&year=2026#calendar_event_67541
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T031600Z
+UID:event-assignment-36343
+DTSTART;VALUE=DATE;VALUE=DATE:20261022
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36343
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261020T110900Z
@@ -12348,6 +12438,16 @@ SUMMARY:DAT104 | Mid-Term exam | Statistiques Descriptives et Probabilités
  7) [DAT104]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10738&month=10&year=2026#calendar_event_67364
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T031600Z
+UID:event-assignment-36343
+DTSTART;VALUE=DATE;VALUE=DATE:20261022
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _7133&month=10&year=2026#assignment_36343
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261020T110900Z
