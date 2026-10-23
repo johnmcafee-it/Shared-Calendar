@@ -1811,18 +1811,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260922T213300Z
-UID:event-calendar-event-71603
-DTSTART:20260923T160000Z
-DTEND:20260923T194500Z
-CLASS:PUBLIC
-LOCATION:B-F0-01
-SEQUENCE:0
-SUMMARY:RI-International relations [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 7534&month=09&year=2026#calendar_event_71603
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
 UID:event-calendar-event-68390
 DTSTART:20260924T080000Z
@@ -2802,18 +2790,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260922T213300Z
-UID:event-calendar-event-71603
-DTSTART:20260923T160000Z
-DTEND:20260923T194500Z
-CLASS:PUBLIC
-LOCATION:B-F0-01
-SEQUENCE:0
-SUMMARY:RI-International relations [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 7534&month=09&year=2026#calendar_event_71603
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
@@ -3799,18 +3775,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260909T095000Z
-UID:event-calendar-event-69891
-DTSTART:20260923T170000Z
-DTEND:20260923T183000Z
-CLASS:PUBLIC
-LOCATION:A-A0-02
-SEQUENCE:0
-SUMMARY:Micro-Task 1 [LAN108P]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11216&month=09&year=2026#calendar_event_69891
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
@@ -4803,18 +4767,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260922T143000Z
-UID:event-calendar-event-71597
-DTSTART:20260923T170000Z
-DTEND:20260923T200000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:ECO203 | Lecture | Econometrics 1 [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=09&year=2026#calendar_event_71597
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T165400Z
@@ -6483,18 +6435,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T150800Z
-UID:event-calendar-event-69715
-DTSTART:20260923T183000Z
-DTEND:20260923T200000Z
-CLASS:PUBLIC
-LOCATION:A-G1-01
-SEQUENCE:0
-SUMMARY:Face to Face session  [LAN002]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11196&month=09&year=2026#calendar_event_69715
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260924T122900Z
@@ -9510,18 +9450,6 @@ SEQUENCE:0
 SUMMARY:INT201 | Q&A | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260922T213300Z
-UID:event-calendar-event-71603
-DTSTART:20260923T160000Z
-DTEND:20260923T194500Z
-CLASS:PUBLIC
-LOCATION:B-F0-01
-SEQUENCE:0
-SUMMARY:RI-International relations [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 7534&month=09&year=2026#calendar_event_71603
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260924T011100Z
