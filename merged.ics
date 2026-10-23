@@ -1183,10 +1183,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10711&month=10&year=2026#calendar_event_68222
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114100Z
+DTSTAMP:20261023T161400Z
 UID:event-calendar-event-68350
-DTSTART:20261027T123000Z
-DTEND:20261027T143000Z
+DTSTART:20261027T133000Z
+DTEND:20261027T153000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
@@ -1775,18 +1775,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11223&month=12&year=2026#calendar_event_70356
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261022T124600Z
-UID:event-calendar-event-68583
-DTSTART:20261204T090000Z
-DTEND:20261204T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260909T095100Z
 UID:event-calendar-event-68603
 DTSTART:20261204T123000Z
@@ -1811,28 +1799,16 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260922T213100Z
-UID:event-calendar-event-71602
-DTSTART:20260923T133000Z
-DTEND:20260923T160000Z
+DTSTAMP:20261023T144900Z
+UID:event-calendar-event-68583
+DTSTART:20261204T180000Z
+DTEND:20261204T200000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
-SUMMARY:Arabic course  [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 8022&month=09&year=2026#calendar_event_71602
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68375
-DTSTART:20260923T133000Z
-DTEND:20260923T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Laboratory | Droit Civil [LAW206F]
+SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68375
+ _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T213300Z
@@ -2254,10 +2230,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10765&month=10&year=2026#calendar_event_68436
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114100Z
+DTSTAMP:20261023T161400Z
 UID:event-calendar-event-68350
-DTSTART:20261027T123000Z
-DTEND:20261027T143000Z
+DTSTART:20261027T133000Z
+DTEND:20261027T153000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
@@ -2816,40 +2792,16 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261022T124600Z
+DTSTAMP:20261023T144900Z
 UID:event-calendar-event-68583
-DTSTART:20261204T090000Z
-DTEND:20261204T110000Z
+DTSTART:20261204T180000Z
+DTEND:20261204T200000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260922T213100Z
-UID:event-calendar-event-71602
-DTSTART:20260923T133000Z
-DTEND:20260923T160000Z
-CLASS:PUBLIC
-LOCATION:
-SEQUENCE:0
-SUMMARY:Arabic course  [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 8022&month=09&year=2026#calendar_event_71602
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68375
-DTSTART:20260923T133000Z
-DTEND:20260923T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Laboratory | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68375
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T213300Z
@@ -3289,10 +3241,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10765&month=10&year=2026#calendar_event_68436
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114100Z
+DTSTAMP:20261023T161400Z
 UID:event-calendar-event-68350
-DTSTART:20261027T123000Z
-DTEND:20261027T143000Z
+DTSTART:20261027T133000Z
+DTEND:20261027T153000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
@@ -3837,28 +3789,16 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=12&year=2026#calendar_event_68398
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261022T124600Z
+DTSTAMP:20261023T144900Z
 UID:event-calendar-event-68583
-DTSTART:20261204T090000Z
-DTEND:20261204T110000Z
+DTSTART:20261204T180000Z
+DTEND:20261204T200000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68375
-DTSTART:20260923T133000Z
-DTEND:20260923T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Laboratory | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68375
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T095000Z
@@ -4297,10 +4237,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10765&month=10&year=2026#calendar_event_68436
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114100Z
+DTSTAMP:20261023T161400Z
 UID:event-calendar-event-68350
-DTSTART:20261027T123000Z
-DTEND:20261027T143000Z
+DTSTART:20261027T133000Z
+DTEND:20261027T153000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
@@ -4853,10 +4793,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=12&year=2026#calendar_event_68168
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261022T124600Z
+DTSTAMP:20261023T144900Z
 UID:event-calendar-event-68583
-DTSTART:20261204T090000Z
-DTEND:20261204T110000Z
+DTSTART:20261204T180000Z
+DTEND:20261204T200000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
@@ -6088,14 +6028,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10749&month=10&year=2026#assignment_33825
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261006T232500Z
+DTSTAMP:20261023T160200Z
 UID:event-calendar-event-67590
 DTSTART:20261028T080000Z
 DTEND:20261028T100000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
+LOCATION:Groupe 1 (B-H0-01) / Groupe 2 (B-H1-01) / Groupe 3 (B-H0-02)
 SEQUENCE:0
-SUMMARY:ECO202 | Midterm exam | Macroéconomie 1 [ECO202]
+SUMMARY:ECO202 | Midterm exam | Macroéconomie 1(Groupe 1\, Groupe 2\, Grou
+ pe 3) [ECO202]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10747&month=10&year=2026#calendar_event_67590
 END:VEVENT
@@ -7268,12 +7209,13 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67558
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T111500Z
+DTSTAMP:20261023T161800Z
 UID:event-calendar-event-68568
 DTSTART:20261028T080000Z
 DTEND:20261028T110000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 02) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:POL101 | Lecture | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -9069,10 +9011,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10711&month=10&year=2026#calendar_event_68222
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114100Z
+DTSTAMP:20261023T161400Z
 UID:event-calendar-event-68350
-DTSTART:20261027T123000Z
-DTEND:20261027T143000Z
+DTSTART:20261027T133000Z
+DTEND:20261027T153000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
@@ -9570,30 +9512,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260922T213100Z
-UID:event-calendar-event-71602
-DTSTART:20260923T133000Z
-DTEND:20260923T160000Z
-CLASS:PUBLIC
-LOCATION:
-SEQUENCE:0
-SUMMARY:Arabic course  [INT102]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=group_
- 8022&month=09&year=2026#calendar_event_71602
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68375
-DTSTART:20260923T133000Z
-DTEND:20260923T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Laboratory | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68375
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260922T213300Z
 UID:event-calendar-event-71603
 DTSTART:20260923T160000Z
@@ -10086,10 +10004,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10770&month=10&year=2026#calendar_event_68613
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114100Z
+DTSTAMP:20261023T161400Z
 UID:event-calendar-event-68350
-DTSTART:20261027T123000Z
-DTEND:20261027T143000Z
+DTSTART:20261027T133000Z
+DTEND:20261027T153000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
@@ -10646,18 +10564,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11218&month=12&year=2026#calendar_event_70316
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261022T124600Z
-UID:event-calendar-event-68583
-DTSTART:20261204T090000Z
-DTEND:20261204T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260909T095100Z
 UID:event-calendar-event-68603
 DTSTART:20261204T123000Z
@@ -10682,16 +10588,16 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=12&year=2026#calendar_event_68604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68375
-DTSTART:20260923T133000Z
-DTEND:20260923T153000Z
+DTSTAMP:20261023T144900Z
+UID:event-calendar-event-68583
+DTSTART:20261204T180000Z
+DTEND:20261204T200000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
-SUMMARY:LAW206F | Laboratory | Droit Civil [LAW206F]
+SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68375
+ _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T105600Z
@@ -11063,10 +10969,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10765&month=10&year=2026#calendar_event_68436
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260907T114100Z
+DTSTAMP:20261023T161400Z
 UID:event-calendar-event-68350
-DTSTART:20261027T123000Z
-DTEND:20261027T143000Z
+DTSTART:20261027T133000Z
+DTEND:20261027T153000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
@@ -11554,10 +11460,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=12&year=2026#calendar_event_67548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261022T124600Z
+DTSTAMP:20261023T144900Z
 UID:event-calendar-event-68583
-DTSTART:20261204T090000Z
-DTEND:20261204T110000Z
+DTSTART:20261204T180000Z
+DTEND:20261204T200000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
@@ -12222,12 +12128,13 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67558
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T111500Z
+DTSTAMP:20261023T161800Z
 UID:event-calendar-event-68568
 DTSTART:20261028T080000Z
 DTEND:20261028T110000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 02) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:POL101 | Lecture | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
