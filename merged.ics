@@ -5917,6 +5917,36 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Devoir n°1 noté sur <strong>5 points sur
  ng> : Opérations financières.</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261024T091500Z
+UID:event-assignment-override-6247
+DTSTART;VALUE=DATE;VALUE=DATE:20261025
+CLASS:PUBLIC
+DESCRIPTION:you already have the subject: \n\nRead UNSG Guterres final spe
+ ech to the UNGA last month.\n\nSelect three points\, themes or arguments f
+ rom his speech and say why they matter to you PERSONALLY (no ChatGPT!)\, w
+ hy you think they can be achieved\, or sadly why not…\n\nThen read Presi
+ dent Trump’s speech to the UNGA and say how his remarks reflect back on 
+ your three topics: do they make them impossible\, or can they still work
+ …optimistic/pessimistic\, what is your overall assessment with the point
+ s made by Guterres but then maybe qualified by Trump?\n\nMaximum 2 sides A
+ 4 Paper. To be sent to me by 25 October on Canvas
+SEQUENCE:0
+SUMMARY:Mid Terms (INT005ELM-Multilateral Organization and Global Challenge
+ s: Threat and Opportunity) [INT005ELM]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10726&month=10&year=2026#assignment_36373
+X-ALT-DESC;FMTTYPE=text/html:<p>you already have the subject:&nbsp\;</p>\n<
+ p>Read UNSG Guterres final speech to the UNGA last month.</p>\n<p>Select t
+ hree points\, themes or arguments from his speech and say why they matter 
+ to you PERSONALLY (no ChatGPT!)\, why you think they can be achieved\, or 
+ sadly why not…</p>\n<p>Then read President Trump’s speech to the UNGA 
+ and say how his remarks reflect back on your three topics: do they make th
+ em impossible\, or can they still work…optimistic/pessimistic\, what is 
+ your overall assessment with the points made by Guterres but then maybe qu
+ alified by Trump?<br><br></p>\n<p>Maximum 2 sides A4 Paper. To be sent to 
+ me by 25 October on Canvas</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260904T150200Z
 UID:event-calendar-event-67426
 DTSTART:20261026T080000Z
