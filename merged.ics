@@ -1811,19 +1811,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68390
-DTSTART:20260924T080000Z
-DTEND:20260924T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=09&year=2026#calendar_event_68390
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260716T162400Z
 UID:event-calendar-event-67537
 DTSTART:20260924T140000Z
@@ -2792,38 +2779,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68390
-DTSTART:20260924T080000Z
-DTEND:20260924T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=09&year=2026#calendar_event_68390
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261011T144400Z
-UID:event-assignment-35044
-DTSTART:20260924T110000Z
-DTEND:20260924T110000Z
-CLASS:PUBLIC
-DESCRIPTION:Hello everyone\n\nPlease note that a second Self-Study Activity
-  has been posted in Files. You are required to watch the capsule entitled 
- "Paragraph Writing" and complete the corresponding assignment. \n\n \n\n
-  
-SEQUENCE:0
-SUMMARY:Self -Study Activity 2 [LAN008C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11215&month=09&year=2026#assignment_35044
-X-ALT-DESC;FMTTYPE=text/html:<p>Hello everyone</p>\n<p>Please note that a s
- econd Self-Study Activity has been posted in <strong>Files. </strong>You a
- re required to watch the capsule entitled "Paragraph Writing" and complete
-  the corresponding assignment.&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260925T134500Z
 UID:event-calendar-event-68579
 DTSTART:20260928T090000Z
@@ -3775,19 +3730,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68390
-DTSTART:20260924T080000Z
-DTEND:20260924T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=09&year=2026#calendar_event_68390
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T092800Z
@@ -4767,18 +4709,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260922T165400Z
-UID:event-calendar-event-67600
-DTSTART:20260924T080000Z
-DTEND:20260924T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:ECO203 | Laboratory | Econometrics 1 [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=09&year=2026#calendar_event_67600
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260904T150200Z
@@ -6465,19 +6395,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260716T160200Z
-UID:event-calendar-event-67375
-DTSTART:20260924T080000Z
-DTEND:20260924T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:DAT107 | Lecture | Introduction to Statistics For Social Sciences [
- DAT107]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10739&month=09&year=2026#calendar_event_67375
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T102200Z
@@ -9433,32 +9350,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T134000Z
-UID:event-calendar-event-68610
-DTSTART:20260924T080000Z
-DTEND:20260924T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-02
-SEQUENCE:0
-SUMMARY:POL212 | Lecture | Systèmes Politiques Comparés et Philosophie Po
- litique [POL212]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10770&month=09&year=2026#calendar_event_68610
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260923T134000Z
-UID:event-calendar-event-68611
-DTSTART:20260924T110000Z
-DTEND:20260924T114500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-02
-SEQUENCE:0
-SUMMARY:POL212 | Q&A | Systèmes Politiques Comparés et Philosophie Politi
- que [POL212]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10770&month=09&year=2026#calendar_event_68611
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260717T092800Z
 UID:event-calendar-event-68157
 DTSTART:20260924T140000Z
@@ -10460,19 +10351,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T105600Z
-UID:event-calendar-event-68390
-DTSTART:20260924T080000Z
-DTEND:20260924T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=09&year=2026#calendar_event_68390
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260716T162400Z
 UID:event-calendar-event-67537
 DTSTART:20260924T140000Z
@@ -11330,19 +11208,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260716T160200Z
-UID:event-calendar-event-67359
-DTSTART:20260924T080000Z
-DTEND:20260924T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
-SEQUENCE:0
-SUMMARY:DAT104 | Lecture | Statistiques Descriptives et Probabilités [DAT1
- 04]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10738&month=09&year=2026#calendar_event_67359
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T102200Z
