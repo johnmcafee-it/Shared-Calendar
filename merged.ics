@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260922T143300Z
-UID:event-calendar-event-68202
-DTSTART:20260924T140000Z
-DTEND:20260924T160000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:INT201 | Laboratory | Foreign Policy Analysis [INT201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10710&month=09&year=2026#calendar_event_68202
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261001T173200Z
-UID:event-assignment-34845
-DTSTART:20260924T150000Z
-DTEND:20260924T150000Z
-CLASS:PUBLIC
-DESCRIPTION:Bonjour à tous\,\n\nMerci de vous préparer pour le prochain e
- xposé.\n\nThème : Travail et avenir professionnel des jeunes\n\nOral : E
- xposé argumenté sur la question suivante : « Dans quelle mesure le choi
- x d'un métier est-il aujourd'hui guidé par la passion ou par la sécurit
- é de l'emploi ? »\n\nÉcrit : Préparez une note de préparation (plan e
- n 3 parties\, 150 mots) à apporter le jour de l'exposé.\n\nLangue : Pens
- ez à mobiliser le futur antérieur pour exprimer l'antériorité dans le 
- futur (ex. : « Quand j'aurai terminé mes études\, je… »).\n\nCordial
- ement\,
-SEQUENCE:0
-SUMMARY:Self-Study Activity N 2: Exposé argumenté [LAN014C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11223&month=09&year=2026#assignment_34845
-X-ALT-DESC;FMTTYPE=text/html:<p>Bonjour à tous\,</p>\n<p>Merci de vous pr
- éparer pour le prochain exposé.</p>\n<p>Thème : Travail et avenir profe
- ssionnel des jeunes</p>\n<p>Oral : Exposé argumenté sur la question suiv
- ante : « Dans quelle mesure le choix d'un métier est-il aujourd'hui guid
- é par la passion ou par la sécurité de l'emploi ? »</p>\n<p>Écrit : P
- réparez une note de préparation (plan en 3 parties\, 150 mots) à apport
- er le jour de l'exposé.</p>\n<p>Langue : Pensez à mobiliser le futur ant
- érieur pour exprimer l'antériorité dans le futur (ex. : « Quand j'aura
- i terminé mes études\, je… »).</p>\n<p>Cordialement\,</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260904T085800Z
 UID:event-calendar-event-70349
 DTSTART:20260924T171500Z
@@ -1809,19 +1768,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260716T162400Z
-UID:event-calendar-event-67537
-DTSTART:20260924T140000Z
-DTEND:20260924T160000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:ECO003E | Laboratory | Marché des Capitaux: Techniques et Organisa
- tion [ECO003ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10720&month=09&year=2026#calendar_event_67537
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260925T134500Z
@@ -3730,41 +3676,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260717T092800Z
-UID:event-calendar-event-68157
-DTSTART:20260924T140000Z
-DTEND:20260924T160000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A1-02
-SEQUENCE:0
-SUMMARY:INT012E | Laboratory | Emerging Global Security Governance [INT012E
- LM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10729&month=09&year=2026#calendar_event_68157
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261012T215500Z
-UID:event-assignment-35042
-DTSTART:20260924T170000Z
-DTEND:20260924T170000Z
-CLASS:PUBLIC
-DESCRIPTION:Please note that a second Self-Study Activity has been posted. 
- Go to your Files\, Open the document "SELF-STUDY ACTIVITY 2-B2+. Click on 
- the capsule's link at the top of page 1\, watch the video entitled "Buildi
- ng clear & Coherent Paragraphs" and complete the corresponding assignment.
-  
-SEQUENCE:0
-SUMMARY:Self -Study Activity 2 [LAN108P]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11216&month=09&year=2026#assignment_35042
-X-ALT-DESC;FMTTYPE=text/html:<p><span>Please note that a second Self-Study 
- Activity has been posted. Go to your <strong>Files</strong>\, Open the doc
- ument "SELF-STUDY ACTIVITY 2-B2+. Click on the capsule's link at the top o
- f page 1\, watch the video </span><span>entitled "Building clear &amp\; Co
- herent Paragraphs" and complete the corresponding assignment.&nbsp\;</span
- ></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260925T134500Z
@@ -7794,18 +7705,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260922T143300Z
-UID:event-calendar-event-68202
-DTSTART:20260924T140000Z
-DTEND:20260924T160000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:INT201 | Laboratory | Foreign Policy Analysis [INT201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10710&month=09&year=2026#calendar_event_68202
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260904T151500Z
 UID:event-calendar-event-67691
 DTSTART:20260928T123000Z
@@ -9350,19 +9249,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260717T092800Z
-UID:event-calendar-event-68157
-DTSTART:20260924T140000Z
-DTEND:20260924T160000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A1-02
-SEQUENCE:0
-SUMMARY:INT012E | Laboratory | Emerging Global Security Governance [INT012E
- LM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10729&month=09&year=2026#calendar_event_68157
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260917T151000Z
 UID:event-calendar-event-69938
 DTSTART:20260924T171500Z
@@ -10349,19 +10235,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260716T162400Z
-UID:event-calendar-event-67537
-DTSTART:20260924T140000Z
-DTEND:20260924T160000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:ECO003E | Laboratory | Marché des Capitaux: Techniques et Organisa
- tion [ECO003ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10720&month=09&year=2026#calendar_event_67537
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260925T134500Z
