@@ -6437,55 +6437,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260924T122900Z
-UID:event-assignment-34965
-DTSTART:20260923T225900Z
-DTEND:20260923T225900Z
-CLASS:PUBLIC
-DESCRIPTION:Bonjour à toutes et à tous\,\n\nVeuillez trouver ci-joint les
-  leçons ainsi que les devoirs à faire.\n\nMerci de prendre note des cons
- ignes suivantes :\n\n*\n\nAssimilation du cours : Vous êtes invités à 
- bien étudier et assimiler le contenu des leçons avant d'effectuer les ex
- ercices.\n\n*\n\nFormat des devoirs : Les exercices doivent être rédig
- és à la main. Aucun devoir au format Word ou généré à l'aide d'outi
- ls numériques ne sera accepté.\n\n*\n\nModalités d'envoi : Vos documen
- ts doivent être numérisés au format PDF et déposés exclusivement s
- ur Canvas.\n\nBien cordialement\,\n\nM. ZEKRI\n\n[الفاعل والمف
- عول به.pdf] (https://um6p.instructure.com/courses/11196/files/877627?
- wrap=1)
-SEQUENCE:0
-SUMMARY:علوم اللغة الفاعل والمفعول به  [LAN002]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11196&month=09&year=2026#assignment_34965
-X-ALT-DESC;FMTTYPE=text/html:<p data-path-to-node="3">Bonjour à toutes et 
- à tous\,</p>\n<p data-path-to-node="4">Veuillez trouver ci-joint les leç
- ons ainsi que les devoirs à faire.</p>\n<p data-path-to-node="5">Merci de
-  prendre note des consignes suivantes :</p>\n<ul data-path-to-node="6">\n<
- li>\n<p data-path-to-node="6\,0\,0"><strong data-path-to-node="6\,0\,0" da
- ta-index-in-node="0">Assimilation du cours :</strong><span>&nbsp\;</span>V
- ous êtes invités à bien étudier et assimiler le contenu des leçons av
- ant d'effectuer les exercices.</p>\n</li>\n<li>\n<p data-path-to-node="6\,
- 1\,0"><strong data-path-to-node="6\,1\,0" data-index-in-node="0">Format de
- s devoirs :</strong><span>&nbsp\;</span>Les exercices doivent être rédig
- és<span>&nbsp\;</span><span style="font-size: 18pt\;"><strong data-path-t
- o-node="6\,1\,0" data-index-in-node="56">à la main</strong></span>. Aucun
-  devoir au format Word ou généré à l'aide d'outils numériques ne sera
-  accepté.</p>\n</li>\n<li>\n<p data-path-to-node="6\,2\,0"><strong data-p
- ath-to-node="6\,2\,0" data-index-in-node="0">Modalités d'envoi :</strong>
- <span>&nbsp\;</span>Vos documents doivent être numérisés au format<span
- >&nbsp\;</span><span style="font-size: 24pt\;"><strong data-path-to-node="
- 6\,2\,0" data-index-in-node="67">PDF</strong></span><span>&nbsp\;</span>et
-  déposés<span>&nbsp\;</span><strong data-path-to-node="6\,2\,0" data-ind
- ex-in-node="82">exclusivement sur Canvas</strong>.</p>\n</li>\n</ul>\n<p d
- ata-path-to-node="7">Bien cordialement\,</p>\n<p data-path-to-node="7">M. 
- ZEKRI</p>\n<p data-path-to-node="7"><a class="instructure_file_link instru
- cture_scribd_file inline_disabled" title="الفاعل والمفعول ب
- ه.pdf" href="https://um6p.instructure.com/courses/11196/files/877627?wrap
- =1" target="_blank" data-canvas-previewable="false" data-api-endpoint="htt
- ps://um6p.instructure.com/api/v1/courses/11196/files/877627" data-api-retu
- rntype="File">الفاعل والمفعول به.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260716T160200Z
 UID:event-calendar-event-67375
 DTSTART:20260924T080000Z
@@ -9450,55 +9401,6 @@ SEQUENCE:0
 SUMMARY:INT201 | Q&A | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260924T011100Z
-UID:event-assignment-34967
-DTSTART:20260923T225900Z
-DTEND:20260923T225900Z
-CLASS:PUBLIC
-DESCRIPTION:Bonjour à toutes et à tous\,\n\nVeuillez trouver ci-joint les
-  leçons ainsi que les devoirs à faire.\n\nMerci de prendre note des cons
- ignes suivantes :\n\n*\n\nAssimilation du cours : Vous êtes invités à 
- bien étudier et assimiler le contenu des leçons avant d'effectuer les ex
- ercices.\n\n*\n\nFormat des devoirs : Les exercices doivent être rédig
- és à la main. Aucun devoir au format Word ou généré à l'aide d'outi
- ls numériques ne sera accepté.\n\n*\n\nModalités d'envoi : Vos documen
- ts doivent être numérisés au format PDF et déposés exclusivement s
- ur Canvas.\n\nBien cordialement\,\n\nM. ZEKRI\n\n[الفاعل والمف
- عول به.pdf] (https://um6p.instructure.com/courses/11218/files/877629?
- wrap=1)
-SEQUENCE:0
-SUMMARY:علوم اللغة الفاعل والمفعول به  [LAN002C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11218&month=09&year=2026#assignment_34967
-X-ALT-DESC;FMTTYPE=text/html:<p data-path-to-node="3">Bonjour à toutes et 
- à tous\,</p>\n<p data-path-to-node="4">Veuillez trouver ci-joint les leç
- ons ainsi que les devoirs à faire.</p>\n<p data-path-to-node="5">Merci de
-  prendre note des consignes suivantes :</p>\n<ul data-path-to-node="6">\n<
- li>\n<p data-path-to-node="6\,0\,0"><strong data-path-to-node="6\,0\,0" da
- ta-index-in-node="0">Assimilation du cours :</strong><span>&nbsp\;</span>V
- ous êtes invités à bien étudier et assimiler le contenu des leçons av
- ant d'effectuer les exercices.</p>\n</li>\n<li>\n<p data-path-to-node="6\,
- 1\,0"><strong data-path-to-node="6\,1\,0" data-index-in-node="0">Format de
- s devoirs :</strong><span>&nbsp\;</span>Les exercices doivent être rédig
- és<span>&nbsp\;</span><span style="font-size: 24pt\;"><strong data-path-t
- o-node="6\,1\,0" data-index-in-node="56">à la main</strong></span>. Aucun
-  devoir au format Word ou généré à l'aide d'outils numériques ne sera
-  accepté.</p>\n</li>\n<li>\n<p data-path-to-node="6\,2\,0"><strong data-p
- ath-to-node="6\,2\,0" data-index-in-node="0">Modalités d'envoi :</strong>
- <span>&nbsp\;</span>Vos documents doivent être numérisés au format<span
- >&nbsp\;</span><span style="font-size: 24pt\;"><strong data-path-to-node="
- 6\,2\,0" data-index-in-node="67">PDF</strong></span><span>&nbsp\;</span>et
-  déposés<span>&nbsp\;</span><strong data-path-to-node="6\,2\,0" data-ind
- ex-in-node="82">exclusivement sur Canvas</strong>.</p>\n</li>\n</ul>\n<p d
- ata-path-to-node="7">Bien cordialement\,</p>\n<p data-path-to-node="7">M. 
- ZEKRI</p>\n<p data-path-to-node="7"><a class="instructure_file_link instru
- cture_scribd_file inline_disabled" title="الفاعل والمفعول ب
- ه.pdf" href="https://um6p.instructure.com/courses/11218/files/877629?wrap
- =1" target="_blank" data-canvas-previewable="false" data-api-endpoint="htt
- ps://um6p.instructure.com/api/v1/courses/11218/files/877629" data-api-retu
- rntype="File">الفاعل والمفعول به.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260923T134000Z
