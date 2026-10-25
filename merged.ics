@@ -6890,10 +6890,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_71528
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261020T112200Z
+DTSTAMP:20261025T004600Z
 UID:event-calendar-event-68750
-DTSTART:20261026T123000Z
-DTEND:20261026T133000Z
+DTSTART:20261026T133000Z
+DTEND:20261026T143000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
  01) in case of a lack of available seats.
@@ -6903,10 +6903,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=10&year=2026#calendar_event_68750
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T102700Z
+DTSTAMP:20261025T004700Z
 UID:event-calendar-event-69366
-DTSTART:20261026T124000Z
-DTEND:20261026T144000Z
+DTSTART:20261026T144000Z
+DTEND:20261026T154000Z
 CLASS:PUBLIC
 LOCATION:Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - R
  oom: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Group
@@ -6918,10 +6918,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=10&year=2026#calendar_event_69366
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T102700Z
+DTSTAMP:20261025T004800Z
 UID:event-calendar-event-71705
-DTSTART:20261026T144000Z
-DTEND:20261026T154500Z
+DTSTART:20261026T154500Z
+DTEND:20261026T164500Z
 CLASS:PUBLIC
 LOCATION:Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - R
  oom: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gro
@@ -11646,10 +11646,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_71528
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261020T112200Z
+DTSTAMP:20261025T004600Z
 UID:event-calendar-event-68750
-DTSTART:20261026T123000Z
-DTEND:20261026T133000Z
+DTSTART:20261026T133000Z
+DTEND:20261026T143000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
  01) in case of a lack of available seats.
@@ -11659,10 +11659,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=10&year=2026#calendar_event_68750
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T102700Z
+DTSTAMP:20261025T004700Z
 UID:event-calendar-event-69366
-DTSTART:20261026T124000Z
-DTEND:20261026T144000Z
+DTSTART:20261026T144000Z
+DTEND:20261026T154000Z
 CLASS:PUBLIC
 LOCATION:Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - R
  oom: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Group
@@ -11674,10 +11674,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=10&year=2026#calendar_event_69366
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T102700Z
+DTSTAMP:20261025T004800Z
 UID:event-calendar-event-71705
-DTSTART:20261026T144000Z
-DTEND:20261026T154500Z
+DTSTART:20261026T154500Z
+DTEND:20261026T164500Z
 CLASS:PUBLIC
 LOCATION:Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - R
  oom: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gro
