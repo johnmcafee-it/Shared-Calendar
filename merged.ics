@@ -5852,6 +5852,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10745&month=11&year=2026#calendar_event_67427
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261026T122700Z
+UID:event-calendar-event-73496
+DTSTART:20261102T164500Z
+DTEND:20261102T194500Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10746&month=11&year=2026#calendar_event_73496
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260717T080600Z
 UID:event-calendar-event-67591
 DTSTART:20261104T080000Z
@@ -6934,6 +6946,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=10&year=2026#calendar_event_68568
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261026T152300Z
+UID:event-calendar-event-73505
+DTSTART:20261029T134500Z
+DTEND:20261029T144500Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:1ʳᵉ séance d’accompagnement (R) [STADACR001LF]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11619&month=10&year=2026#calendar_event_73505
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260716T160200Z
 UID:event-calendar-event-67381
 DTSTART:20261029T140000Z
@@ -7057,6 +7081,18 @@ SUMMARY:DAT107 | Lecture | Introduction to Statistics For Social Sciences [
  DAT107]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10739&month=11&year=2026#calendar_event_67382
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T152400Z
+UID:event-calendar-event-73506
+DTSTART:20261105T134500Z
+DTEND:20261105T144500Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:2ᵉ séance d’accompagnement (R) [STADACR001LF]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11619&month=11&year=2026#calendar_event_73506
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T090700Z
@@ -7193,6 +7229,18 @@ SUMMARY:DAT107 | Laboratory | Introduction to Statistics For Social Science
  s [DAT107]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10739&month=11&year=2026#calendar_event_67383
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T152500Z
+UID:event-calendar-event-73507
+DTSTART:20261112T134500Z
+DTEND:20261112T144500Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:3ᵉ séance d’accompagnement (R) [STADACR001LF]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11619&month=11&year=2026#calendar_event_73507
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T111500Z
@@ -11678,6 +11726,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10738&month=10&year=2026#calendar_event_67365
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261026T152300Z
+UID:event-calendar-event-73505
+DTSTART:20261029T134500Z
+DTEND:20261029T144500Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:1ʳᵉ séance d’accompagnement (R) [STADACR001LF]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11619&month=10&year=2026#calendar_event_73505
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260717T103200Z
 UID:event-calendar-event-68336
 DTSTART:20261102T080000Z
@@ -11776,6 +11836,18 @@ SUMMARY:DAT104 | Lecture | Statistiques Descriptives et Probabilités [DAT1
  04]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10738&month=11&year=2026#calendar_event_67366
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T152400Z
+UID:event-calendar-event-73506
+DTSTART:20261105T134500Z
+DTEND:20261105T144500Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:2ᵉ séance d’accompagnement (R) [STADACR001LF]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11619&month=11&year=2026#calendar_event_73506
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T090700Z
@@ -11900,6 +11972,18 @@ SUMMARY:DAT104 | Laboratory | Statistiques Descriptives et Probabilités [D
  AT104]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10738&month=11&year=2026#calendar_event_67367
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T152500Z
+UID:event-calendar-event-73507
+DTSTART:20261112T134500Z
+DTEND:20261112T144500Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:3ᵉ séance d’accompagnement (R) [STADACR001LF]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11619&month=11&year=2026#calendar_event_73507
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T111500Z
