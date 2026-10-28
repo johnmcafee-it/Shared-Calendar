@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20260925T160500Z
-UID:event-calendar-event-68218
-DTSTART:20260928T154500Z
-DTEND:20260928T184500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:INT202 | Lecture | Theories of International Relations [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=09&year=2026#calendar_event_68218
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260901T095200Z
-UID:event-calendar-event-69531
-DTSTART:20260928T160000Z
-DTEND:20260928T173000Z
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:A-F1-01
-SEQUENCE:0
-SUMMARY:Self Study /  Vérifiez auprès de votre professeur [LAN003C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11220&month=09&year=2026#calendar_event_69531
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260928T160000Z
 UID:event-assignment-35330
 DTSTART:20260928T225900Z
@@ -1130,12 +1104,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=10&year=2026#calendar_event_68598
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T101100Z
+DTSTAMP:20261028T170200Z
 UID:event-calendar-event-67635
 DTSTART:20261029T080000Z
 DTEND:20261029T100000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
+LOCATION:Building A - Room: A-G1-02/Building A - Room: A-E1-01
 SEQUENCE:0
 SUMMARY:ECO214 | Laboratory | Théorie des Jeux: Approche Stratégique [ECO
  214]
@@ -1732,20 +1706,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260901T095200Z
-UID:event-calendar-event-69531
-DTSTART:20260928T160000Z
-DTEND:20260928T173000Z
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:A-F1-01
-SEQUENCE:0
-SUMMARY:Self Study /  Vérifiez auprès de votre professeur [LAN003C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11220&month=09&year=2026#calendar_event_69531
-X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260928T160000Z
@@ -7708,18 +7668,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260925T160500Z
-UID:event-calendar-event-68218
-DTSTART:20260928T154500Z
-DTEND:20260928T184500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:INT202 | Lecture | Theories of International Relations [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=09&year=2026#calendar_event_68218
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260928T160000Z
 UID:event-assignment-35330
 DTSTART:20260928T225900Z
@@ -8762,12 +8710,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10704&month=10&year=2026#calendar_event_67620
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T101100Z
+DTSTAMP:20261028T170200Z
 UID:event-calendar-event-67635
 DTSTART:20261029T080000Z
 DTEND:20261029T100000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
+LOCATION:Building A - Room: A-G1-02/Building A - Room: A-E1-01
 SEQUENCE:0
 SUMMARY:ECO214 | Laboratory | Théorie des Jeux: Approche Stratégique [ECO
  214]
