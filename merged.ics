@@ -4598,18 +4598,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260904T150200Z
-UID:event-calendar-event-67422
-DTSTART:20260928T080000Z
-DTEND:20260928T100000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:DAT203 | Lecture | Mathématiques et Optimisation [DAT203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10745&month=09&year=2026#calendar_event_67422
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260813T144600Z
 UID:event-calendar-event-69276
 DTSTART:20260928T123000Z
@@ -6803,7 +6791,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67557
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261021T222100Z
+DTSTAMP:20261028T083000Z
 UID:event-assignment-35587
 DTSTART:20261020T163000Z
 DTEND:20261020T163000Z
@@ -6977,7 +6965,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11619&month=10&year=2026#calendar_event_73505
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260716T160200Z
+DTSTAMP:20261028T100600Z
 UID:event-calendar-event-67381
 DTSTART:20261029T140000Z
 DTEND:20261029T170000Z
@@ -11675,7 +11663,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67557
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261021T222100Z
+DTSTAMP:20261028T083000Z
 UID:event-assignment-35587
 DTSTART:20261020T163000Z
 DTEND:20261020T163000Z
