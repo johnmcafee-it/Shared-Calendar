@@ -1745,18 +1745,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68376
-DTSTART:20260930T143000Z
-DTEND:20260930T173000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68376
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68391
 DTSTART:20261001T090000Z
 DTEND:20261001T120000Z
@@ -2626,31 +2614,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68376
-DTSTART:20260930T143000Z
-DTEND:20260930T173000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68376
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68069
-DTSTART:20260930T180000Z
-DTEND:20260930T200000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:INT001E | Lecture | Area Studies\, Geopolitics\, and Global Affairs
-  [INT001ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10723&month=09&year=2026#calendar_event_68069
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68391
 DTSTART:20261001T090000Z
 DTEND:20261001T120000Z
@@ -3488,30 +3451,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68376
-DTSTART:20260930T143000Z
-DTEND:20260930T173000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68376
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-69892
-DTSTART:20260930T180000Z
-DTEND:20260930T193000Z
-CLASS:PUBLIC
-LOCATION:A-A0-02
-SEQUENCE:0
-SUMMARY:Self-Study / Check with your professor [LAN108P]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11216&month=09&year=2026#calendar_event_69892
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -6037,18 +5976,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-69717
-DTSTART:20260930T193000Z
-DTEND:20260930T210000Z
-CLASS:PUBLIC
-LOCATION:A-G1-01
-SEQUENCE:0
-SUMMARY:Face to Face session [LAN002]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11196&month=09&year=2026#calendar_event_69717
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -8953,18 +8880,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68376
-DTSTART:20260930T143000Z
-DTEND:20260930T173000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68376
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68158
 DTSTART:20261001T150000Z
 DTEND:20261001T170000Z
@@ -9853,18 +9768,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68376
-DTSTART:20260930T143000Z
-DTEND:20260930T173000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=09&year=2026#calendar_event_68376
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
