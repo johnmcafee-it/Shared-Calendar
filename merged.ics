@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-70350
-DTSTART:20261001T181500Z
-DTEND:20261001T194500Z
-CLASS:PUBLIC
-LOCATION:A-A0-01
-SEQUENCE:0
-SUMMARY:Self-Study/ Vérifiez auprès de votre professeur. [LAN014C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11223&month=10&year=2026#calendar_event_70350
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68594
 DTSTART:20261002T133000Z
 DTEND:20261002T153000Z
@@ -4235,18 +4223,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67601
-DTSTART:20261001T180000Z
-DTEND:20261001T200000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:ECO203 | Laboratory | Econometrics 1 [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=10&year=2026#calendar_event_67601
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67423
 DTSTART:20261005T090000Z
 DTEND:20261005T120000Z
@@ -5204,20 +5180,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68333
-DTSTART:20261001T180000Z
-DTEND:20261001T193000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-K0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:LAW101 | Flexible session | Introduction à l'Etude du Droit [LAW10
- 1]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10742&month=10&year=2026#calendar_event_68333
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -8057,18 +8019,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-69939
-DTSTART:20261001T181500Z
-DTEND:20261001T194500Z
-CLASS:PUBLIC
-LOCATION:A-G1-01
-SEQUENCE:0
-SUMMARY:Face to Face Session  [LAN002C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11218&month=10&year=2026#calendar_event_69939
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68594
 DTSTART:20261002T133000Z
 DTEND:20261002T153000Z
@@ -9681,20 +9631,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68333
-DTSTART:20261001T180000Z
-DTEND:20261001T193000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-K0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:LAW101 | Flexible session | Introduction à l'Etude du Droit [LAW10
- 1]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10742&month=10&year=2026#calendar_event_68333
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
