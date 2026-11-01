@@ -3039,15 +3039,45 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=11&year=2026#calendar_event_68396
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T111900Z
+DTSTAMP:20261031T230000Z
 UID:event-assignment-36092
 DTSTART:20261112T225900Z
 DTEND:20261112T225900Z
 CLASS:PUBLIC
+DESCRIPTION:This is your third Self-Study Activity.  It consists on record
+ ing yourself speaking for 2–3 minutes on one social or economic issue th
+ at interests you. You may choose a topic such as unemployment\, inflation\
+ , inequality\, migration\, education\, globalization\, AI\, tourism\, clim
+ ate change\, housing\, consumer behavior\, youth employment\, or another r
+ elevant issue.\n\nIn your recording:\n\n* Explain the issue in your own wo
+ rds.\n\n* Give one concrete example\, preferably from Morocco or another c
+ ountry.\n\n* Explain why the issue matters.\n\n* Give your personal opinio
+ n.\n\nImportant: \n\n* Do NOT write or read a script.\n\n* You may prepar
+ e up to 5 keywords only.\n\n* Do NOT use ChatGPT or other AI tools to prep
+ are your answer.\n\n* Speak naturally. Small pauses and mistakes are accep
+ table.\n\n* Record your answer in one take.\n\n* Submit an audio or video 
+ recording on Canvas.\n\nLength: 2–3 minutes
 SEQUENCE:0
 SUMMARY:Self -Study Activity 3 [LAN008C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11215&month=11&year=2026#assignment_36092
+X-ALT-DESC;FMTTYPE=text/html:<p>This is your third Self-Study Activity.&nbs
+ p\; It consists on recording yourself speaking for 2–3 minutes on one so
+ cial or economic issue that interests you. You may choose a topic such as 
+ unemployment\, inflation\, inequality\, migration\, education\, globalizat
+ ion\, AI\, tourism\, climate change\, housing\, consumer behavior\, youth 
+ employment\, or another relevant issue.</p>\n<p><strong>In your recording:
+ </strong></p>\n<ol>\n<li><em><strong>Explain the issue in your own words.<
+ /strong></em></li>\n<li><em><strong>Give one concrete example\, preferably
+  from Morocco or another country.</strong></em></li>\n<li><em><strong>Expl
+ ain why the issue matters.</strong></em></li>\n<li><em><strong>Give your p
+ ersonal opinion.</strong></em></li>\n</ol>\n<p><strong>Important:&nbsp\;</
+ strong></p>\n<ul>\n<li>Do NOT write or read a script.</li>\n<li>You may pr
+ epare up to 5 keywords only.</li>\n<li>Do NOT use ChatGPT or other AI tool
+ s to prepare your answer.</li>\n<li>Speak naturally. Small pauses and mist
+ akes are acceptable.</li>\n<li>Record your answer in one take.</li>\n<li>S
+ ubmit an audio or video recording on Canvas.</li>\n</ul>\n<p><strong>Lengt
+ h: 2–3 minutes</strong></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
