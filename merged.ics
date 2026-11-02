@@ -934,7 +934,7 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-v
  end="903">&nbsp\;</p>\n<p><br><br></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261029T170900Z
+DTSTAMP:20261102T140600Z
 UID:event-assignment-34033
 DTSTART:20261022T163000Z
 DTEND:20261022T163000Z
@@ -4762,6 +4762,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10747&month=11&year=2026#calendar_event_67591
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261102T163500Z
+UID:event-calendar-event-73557
+DTSTART:20261104T180000Z
+DTEND:20261104T200000Z
+CLASS:PUBLIC
+LOCATION:Building A - Room: A-F0-01
+SEQUENCE:0
+SUMMARY:ECO203 | Laboratory | Econometrics 1 [ECO203]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10748&month=11&year=2026#calendar_event_73557
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67606
 DTSTART:20261105T090000Z
@@ -4884,6 +4896,19 @@ SEQUENCE:0
 SUMMARY:ECO203 | Lecture | Econometrics 1 [ECO203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10748&month=11&year=2026#calendar_event_67607
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T170900Z
+UID:event-calendar-event-73558
+DTSTART:20261112T170000Z
+DTEND:20261112T190000Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:INT005E | Lecture | Multilateral Organization and Global Challenges
+ : Threat and Opportunity [INT005ELM]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10726&month=11&year=2026#calendar_event_73558
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -5752,12 +5777,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=11&year=2026#calendar_event_73538
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261102T165800Z
 UID:event-calendar-event-71529
 DTSTART:20261103T120000Z
 DTEND:20261103T130000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building B - Room: B-K0-01/ Building B - Room: B-K0-02
 SEQUENCE:0
 SUMMARY:ECO101 | Office Hours | Introduction à l'Analyse Economique [ECO10
  1]
@@ -5765,12 +5790,13 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=11&year=2026#calendar_event_71529
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261102T153000Z
 UID:event-calendar-event-67559
 DTSTART:20261103T133000Z
 DTEND:20261103T163000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:ECO101 | Lecture | Introduction à l'Analyse Economique [ECO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -7455,7 +7481,7 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-v
  end="903">&nbsp\;</p>\n<p><br><br></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261029T170900Z
+DTSTAMP:20261102T140600Z
 UID:event-assignment-34033
 DTSTART:20261022T163000Z
 DTEND:20261022T163000Z
@@ -10147,12 +10173,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=11&year=2026#calendar_event_73538
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261102T165800Z
 UID:event-calendar-event-71529
 DTSTART:20261103T120000Z
 DTEND:20261103T130000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building B - Room: B-K0-01/ Building B - Room: B-K0-02
 SEQUENCE:0
 SUMMARY:ECO101 | Office Hours | Introduction à l'Analyse Economique [ECO10
  1]
@@ -10160,12 +10186,13 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=11&year=2026#calendar_event_71529
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261102T153000Z
 UID:event-calendar-event-67559
 DTSTART:20261103T133000Z
 DTEND:20261103T163000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:ECO101 | Lecture | Introduction à l'Analyse Economique [ECO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
