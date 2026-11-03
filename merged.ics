@@ -3203,14 +3203,46 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=11&year=2026#calendar_event_68385
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T152200Z
+DTSTAMP:20261103T000000Z
 UID:event-assignment-36494
 DTSTART;VALUE=DATE;VALUE=DATE:20261126
 CLASS:PUBLIC
+DESCRIPTION:For this self-study activity\, attend one book presentation or 
+ one lecture in the Dean’s Conferences series organized by FGSES. Choose 
+ an event that interests you\, then write an individual report.  Your repo
+ rt should demonstrate your understanding of the event’s main ideas and y
+ our ability to reflect on them. \n\nYour task is then to write a 300-word
+  report using the structure below:\n\n* Introduction — What did you atte
+ nd?\n\n* Summary — What were the main ideas?\n\n* Reflection and evaluat
+ ion —\n\n* Conclusion — What is your main takeaway?\n\nAttached is a v
+ ery short guide on how to write a report\n\n[self study activity 4 how to 
+ write your rpeort B2-2.docx] (https://um6p.instructure.com/courses/11215/f
+ iles/967146?wrap=1)\n\n 
 SEQUENCE:0
 SUMMARY:Self-Study Activity N° 4 [LAN008C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11215&month=11&year=2026#assignment_36494
+X-ALT-DESC;FMTTYPE=text/html:<p data-pm-slice="1 1 []"><span>For this self-
+ study activity\, attend </span><strong><span>one book presentation or one 
+ lecture in the Dean’s Conferences series organized by FGSES</span></stro
+ ng><span>. Choose an event that interests you\, then write an individual r
+ eport.&nbsp\; </span><span>Your report should demonstrate your understandi
+ ng of the event’s main ideas and your ability to reflect on them.&nbsp\;
+ </span></p>\n<p data-pm-slice="1 1 []"><span style="font-size: 14pt\;"><st
+ rong>Your task is then to write a 300-word report using the structure belo
+ w:</strong></span></p>\n<ol>\n<li><strong> Introduction — What did you a
+ ttend?</strong></li>\n<li><strong> Summary — What were the main ideas?</
+ strong></li>\n<li><strong> Reflection and evaluation —</strong></li>\n<l
+ i><strong><strong style="font-size: 1rem\;">Conclusion — What is your ma
+ in takeaway?</strong></strong></li>\n</ol>\n<p><span style="font-size: 1re
+ m\;">Attached is a very short guide on how to write a report </span></p>\n
+ <p><a class="instructure_file_link instructure_scribd_file inline_disabled
+ " title="self study activity 4 how to write your rpeort B2-2.docx" href="h
+ ttps://um6p.instructure.com/courses/11215/files/967146?wrap=1" target="_bl
+ ank" data-canvas-previewable="false" data-api-endpoint="https://um6p.instr
+ ucture.com/api/v1/courses/11215/files/967146" data-api-returntype="File">s
+ elf study activity 4 how to write your rpeort B2-2.docx</a></p>\n<p>&nbsp\
+ ;</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -4068,14 +4100,44 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=11&year=2026#calendar_event_68166
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T153500Z
+DTSTAMP:20261103T000000Z
 UID:event-assignment-36495
 DTSTART;VALUE=DATE;VALUE=DATE:20261126
 CLASS:PUBLIC
+DESCRIPTION:For this self-study activity\, attend one book presentation or 
+ one lecture in the Dean’s Conferences series organized by FGSES. Choose 
+ an event that interests you\, then write an individual report.  Your repo
+ rt should demonstrate your understanding of the event’s main ideas and y
+ our ability to reflect on them. \n\nYour task is then to write a 350-word
+  report using the structure below:\n\n* Introduction — What did you atte
+ nd?\n\n* Summary — What were the main ideas?\n\n* Reflection and evaluat
+ ion —\n\n* Conclusion — What is your main takeaway?\n\nAttached is a v
+ ery short guide on how to write a report\n\n[self study activity 4 how to 
+ write your rpeort B2+.docx] (https://um6p.instructure.com/courses/11216/fi
+ les/967148?wrap=1)
 SEQUENCE:0
 SUMMARY:Self-Study Activity N° 4 [LAN108P]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11216&month=11&year=2026#assignment_36495
+X-ALT-DESC;FMTTYPE=text/html:<p data-pm-slice="1 1 []"><span>For this self-
+ study activity\, attend </span><strong><span>one book presentation or one 
+ lecture in the Dean’s Conferences series organized by FGSES</span></stro
+ ng><span>. Choose an event that interests you\, then write an individual r
+ eport.&nbsp\; </span><span>Your report should demonstrate your understandi
+ ng of the event’s main ideas and your ability to reflect on them.&nbsp\;
+ </span></p>\n<p data-pm-slice="1 1 []"><span><strong>Your task is then to 
+ write a 350-word report using the structure below:</strong></span></p>\n<o
+ l>\n<li><strong>Introduction — What did you attend?</strong></li>\n<li><
+ strong>Summary — What were the main ideas?</strong></li>\n<li><strong>Re
+ flection and evaluation —</strong></li>\n<li><strong>Conclusion — What
+  is your main takeaway?</strong></li>\n</ol>\n<p><span>Attached is a very 
+ short guide on how to write a report</span></p>\n<p><a class="instructure_
+ file_link instructure_scribd_file inline_disabled" title="self study activ
+ ity 4 how to write your rpeort B2+.docx" href="https://um6p.instructure.co
+ m/courses/11216/files/967148?wrap=1" target="_blank" data-canvas-previewab
+ le="false" data-api-endpoint="https://um6p.instructure.com/api/v1/courses/
+ 11216/files/967148" data-api-returntype="File">self study activity 4 how t
+ o write your rpeort B2+.docx</a></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
