@@ -4579,7 +4579,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10748&month=10&year=2026#calendar_event_67604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261022T140100Z
+DTSTAMP:20261103T143400Z
 UID:event-assignment-36199
 DTSTART:20261022T111000Z
 DTEND:20261022T111000Z
@@ -4835,12 +4835,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10747&month=11&year=2026#calendar_event_67591
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261102T163500Z
+DTSTAMP:20261103T142100Z
 UID:event-calendar-event-73557
 DTSTART:20261104T180000Z
 DTEND:20261104T200000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
+LOCATION:Building  B - Room: B-D0-01
 SEQUENCE:0
 SUMMARY:ECO203 | Laboratory | Econometrics 1 [ECO203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -5876,29 +5876,17 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=11&year=2026#calendar_event_67559
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261103T142300Z
 UID:event-calendar-event-68569
 DTSTART:20261104T090000Z
 DTEND:20261104T120000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:POL101 | Lecture | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=11&year=2026#calendar_event_68569
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68058
-DTSTART:20261104T143000Z
-DTEND:20261104T174500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
-SEQUENCE:0
-SUMMARY:HIS103 | Laboratory | Le Monde: Une Histoire Moderne et Contemporai
- ne [HIS103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10741&month=11&year=2026#calendar_event_68058
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -5936,19 +5924,6 @@ SEQUENCE:0
 SUMMARY:2ᵉ séance d’accompagnement (R) [STADACR001LF]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11619&month=11&year=2026#calendar_event_73506
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68059
-DTSTART:20261105T150000Z
-DTEND:20261105T180000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
-SEQUENCE:0
-SUMMARY:HIS103 | Lecture | Le Monde: Une Histoire Moderne et Contemporaine 
- [HIS103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10741&month=11&year=2026#calendar_event_68059
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261022T082600Z
@@ -10272,29 +10247,17 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=11&year=2026#calendar_event_67559
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261103T142300Z
 UID:event-calendar-event-68569
 DTSTART:20261104T090000Z
 DTEND:20261104T120000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:POL101 | Lecture | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=11&year=2026#calendar_event_68569
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68058
-DTSTART:20261104T143000Z
-DTEND:20261104T174500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
-SEQUENCE:0
-SUMMARY:HIS103 | Laboratory | Le Monde: Une Histoire Moderne et Contemporai
- ne [HIS103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10741&month=11&year=2026#calendar_event_68058
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -10320,19 +10283,6 @@ SEQUENCE:0
 SUMMARY:2ᵉ séance d’accompagnement (R) [STADACR001LF]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11619&month=11&year=2026#calendar_event_73506
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68059
-DTSTART:20261105T150000Z
-DTEND:20261105T180000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
-SEQUENCE:0
-SUMMARY:HIS103 | Lecture | Le Monde: Une Histoire Moderne et Contemporaine 
- [HIS103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10741&month=11&year=2026#calendar_event_68059
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261022T082600Z
