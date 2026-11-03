@@ -1249,6 +1249,17 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=11&year=2026#calendar_event_68209
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261103T101600Z
+UID:event-assignment-34847
+DTSTART:20261112T180000Z
+DTEND:20261112T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Self Study n° 4 – jeudi 12 novembre à 18 h [LAN014C]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11223&month=11&year=2026#assignment_34847
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-70353
 DTSTART:20261112T181500Z
