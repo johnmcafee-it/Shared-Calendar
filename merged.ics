@@ -1416,6 +1416,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68354
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261104T113500Z
+UID:event-calendar-event-73623
+DTSTART:20261124T180000Z
+DTEND:20261124T210000Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10713&month=11&year=2026#calendar_event_73623
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67639
 DTSTART:20261126T090000Z
@@ -2342,6 +2354,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68354
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261104T113500Z
+UID:event-calendar-event-73623
+DTSTART:20261124T180000Z
+DTEND:20261124T210000Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10713&month=11&year=2026#calendar_event_73623
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68384
 DTSTART:20261125T143000Z
@@ -3188,6 +3212,18 @@ SEQUENCE:0
 SUMMARY:Face to Face Session [LAN008C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11215&month=11&year=2026#calendar_event_69826
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T113500Z
+UID:event-calendar-event-73623
+DTSTART:20261124T180000Z
+DTEND:20261124T210000Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10713&month=11&year=2026#calendar_event_73623
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -4060,6 +4096,18 @@ SEQUENCE:0
 SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68354
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T113500Z
+UID:event-calendar-event-73623
+DTSTART:20261124T180000Z
+DTEND:20261124T210000Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10713&month=11&year=2026#calendar_event_73623
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -5278,20 +5326,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68331
-DTSTART:20261005T090000Z
-DTEND:20261005T103000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 - Room: B-I0-01 / Groupe 2 - Room: B-I0-02 / Groupe 3 - R
- oom: B-H0-01 / Groupe 4 - Room: B-H0-02
-SEQUENCE:0
-SUMMARY:LAW101 | Laboratory | Introduction à l'Etude du Droit (Groupe 1\, 
- Groupe 2\, Grroupe 3\, Groupe 4) [LAW101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10742&month=10&year=2026#calendar_event_68331
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -7896,6 +7930,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68354
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261104T113500Z
+UID:event-calendar-event-73623
+DTSTART:20261124T180000Z
+DTEND:20261124T210000Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10713&month=11&year=2026#calendar_event_73623
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67624
 DTSTART:20261125T090000Z
@@ -8703,6 +8749,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68354
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261104T113500Z
+UID:event-calendar-event-73623
+DTSTART:20261124T180000Z
+DTEND:20261124T210000Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10713&month=11&year=2026#calendar_event_73623
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68384
 DTSTART:20261125T143000Z
@@ -9487,6 +9545,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68354
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261104T113500Z
+UID:event-calendar-event-73623
+DTSTART:20261124T180000Z
+DTEND:20261124T210000Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10713&month=11&year=2026#calendar_event_73623
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68384
 DTSTART:20261125T143000Z
@@ -9656,20 +9726,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68331
-DTSTART:20261005T090000Z
-DTEND:20261005T103000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 - Room: B-I0-01 / Groupe 2 - Room: B-I0-02 / Groupe 3 - R
- oom: B-H0-01 / Groupe 4 - Room: B-H0-02
-SEQUENCE:0
-SUMMARY:LAW101 | Laboratory | Introduction à l'Etude du Droit (Groupe 1\, 
- Groupe 2\, Grroupe 3\, Groupe 4) [LAW101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10742&month=10&year=2026#calendar_event_68331
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
