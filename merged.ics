@@ -5670,12 +5670,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11196&month=11&year=2026#calendar_event_69723
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261104T151700Z
+DTSTAMP:20261105T024000Z
 UID:event-calendar-event-67382
 DTSTART:20261105T090000Z
 DTEND:20261105T120000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-D0-01
+LOCATION:Building B - Room: B-B0-01
 SEQUENCE:0
 SUMMARY:DAT107 | Lecture | Introduction to Statistics For Social Sciences [
  DAT107]
