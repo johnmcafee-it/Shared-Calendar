@@ -4078,25 +4078,13 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67588
-DTSTART:20261007T090000Z
-DTEND:20261007T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:ECO202 | Lecture | Macroéconomie 1 [ECO202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10747&month=10&year=2026#calendar_event_67588
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261008T104900Z
+DTSTAMP:20261106T105300Z
 UID:event-assignment-35748
 DTSTART:20261007T233000Z
 DTEND:20261007T233000Z
 CLASS:PUBLIC
 SEQUENCE:0
-SUMMARY:I am here [ECO203]
+SUMMARY:I am here - Oct 7th [ECO203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10748&month=10&year=2026#assignment_35748
 END:VEVENT
@@ -4262,7 +4250,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10748&month=10&year=2026#calendar_event_67604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261103T143400Z
+DTSTAMP:20261106T103600Z
 UID:event-assignment-36199
 DTSTART:20261022T111000Z
 DTEND:20261022T111000Z
@@ -4542,7 +4530,20 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10748&month=11&year=2026#calendar_event_67606
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261105T093300Z
+DTSTAMP:20261106T105400Z
+UID:event-assignment-36642
+DTSTART:20261105T090000Z
+DTEND:20261105T090000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:I am here - Nov 5th [ECO203]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10748&month=11&year=2026#assignment_36642
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T134500Z
 UID:event-assignment-36574
 DTSTART:20261105T094500Z
 DTEND:20261105T094500Z
@@ -4973,47 +4974,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68566
-DTSTART:20261007T090000Z
-DTEND:20261007T103000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 - Room: B-I0-01 / Groupe 2 - Room: B-I0-02 / Groupe 3 - R
- oom: B-H0-01 / Groupe 4 - Room: B-H0-02 / Groupe 5 - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:POL101 | Laboratory | Introduction to Political Science(Groupe 1\, 
- Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5) [POL101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10743&month=10&year=2026#calendar_event_68566
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-71711
-DTSTART:20261007T104500Z
-DTEND:20261007T121500Z
-CLASS:PUBLIC
-LOCATION:Groupe 6 - Room: B-I0-01 / Groupe 7 - Room: B-I0-02 / Groupe 8 - R
- oom: B-H0-01 / Groupe 9 - Room: B-H0-02 / Groupe 10 - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:POL101 | Laboratory | Introduction to Political Science(Groupe 6\, 
- Groupe 7\, Groupe 8\, Groupe 9\, Groupe 10) [POL101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10743&month=10&year=2026#calendar_event_71711
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68565
-DTSTART:20261007T143000Z
-DTEND:20261007T151500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10743&month=10&year=2026#calendar_event_68565
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -6276,18 +6236,6 @@ SEQUENCE:0
 SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67618
-DTSTART:20261007T090000Z
-DTEND:20261007T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-H0-01
-SEQUENCE:0
-SUMMARY:ECO204P | Lecture | Development Microeconomics [ECO204P]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10704&month=10&year=2026#calendar_event_67618
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -9285,47 +9233,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68566
-DTSTART:20261007T090000Z
-DTEND:20261007T103000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 - Room: B-I0-01 / Groupe 2 - Room: B-I0-02 / Groupe 3 - R
- oom: B-H0-01 / Groupe 4 - Room: B-H0-02 / Groupe 5 - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:POL101 | Laboratory | Introduction to Political Science(Groupe 1\, 
- Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5) [POL101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10743&month=10&year=2026#calendar_event_68566
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-71711
-DTSTART:20261007T104500Z
-DTEND:20261007T121500Z
-CLASS:PUBLIC
-LOCATION:Groupe 6 - Room: B-I0-01 / Groupe 7 - Room: B-I0-02 / Groupe 8 - R
- oom: B-H0-01 / Groupe 9 - Room: B-H0-02 / Groupe 10 - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:POL101 | Laboratory | Introduction to Political Science(Groupe 6\, 
- Groupe 7\, Groupe 8\, Groupe 9\, Groupe 10) [POL101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10743&month=10&year=2026#calendar_event_71711
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68565
-DTSTART:20261007T143000Z
-DTEND:20261007T151500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10743&month=10&year=2026#calendar_event_68565
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
