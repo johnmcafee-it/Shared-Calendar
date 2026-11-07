@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68204
-DTSTART:20261008T150000Z
-DTEND:20261008T180000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10710&month=10&year=2026#calendar_event_68204
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68205
-DTSTART:20261008T180000Z
-DTEND:20261008T184500Z
-CLASS:PUBLIC
-LOCATION:Building A - Room:A-F0-01
-SEQUENCE:0
-SUMMARY:INT201 | Q&A | Foreign Policy Analysis [INT201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10710&month=10&year=2026#calendar_event_68205
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-70351
 DTSTART:20261008T181500Z
 DTEND:20261008T194500Z
@@ -1608,32 +1584,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11916&month=12&year=2026#calendar_event_73544
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67539
-DTSTART:20261008T150000Z
-DTEND:20261008T170000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
- n [ECO003ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10720&month=10&year=2026#calendar_event_67539
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67540
-DTSTART:20261008T180000Z
-DTEND:20261008T184500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:ECO003E | Q&A | Marché des Capitaux: Techniques et Organisation [E
- CO003ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10720&month=10&year=2026#calendar_event_67540
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -3120,30 +3070,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68159
-DTSTART:20261008T150000Z
-DTEND:20261008T180000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A1-02
-SEQUENCE:0
-SUMMARY:INT012E | Lecture | Emerging Global Security Governance [INT012ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10729&month=10&year=2026#calendar_event_68159
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68160
-DTSTART:20261008T180000Z
-DTEND:20261008T184500Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A1-02
-SEQUENCE:0
-SUMMARY:INT012E | Q&A | Emerging Global Security Governance [INT012ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10729&month=10&year=2026#calendar_event_68160
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
@@ -6018,30 +5944,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68204
-DTSTART:20261008T150000Z
-DTEND:20261008T180000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10710&month=10&year=2026#calendar_event_68204
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68205
-DTSTART:20261008T180000Z
-DTEND:20261008T184500Z
-CLASS:PUBLIC
-LOCATION:Building A - Room:A-F0-01
-SEQUENCE:0
-SUMMARY:INT201 | Q&A | Foreign Policy Analysis [INT201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10710&month=10&year=2026#calendar_event_68205
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260927T212900Z
 UID:event-assignment-34036
 DTSTART:20261011T225900Z
@@ -7365,30 +7267,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68159
-DTSTART:20261008T150000Z
-DTEND:20261008T180000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A1-02
-SEQUENCE:0
-SUMMARY:INT012E | Lecture | Emerging Global Security Governance [INT012ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10729&month=10&year=2026#calendar_event_68159
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68160
-DTSTART:20261008T180000Z
-DTEND:20261008T184500Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A1-02
-SEQUENCE:0
-SUMMARY:INT012E | Q&A | Emerging Global Security Governance [INT012ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10729&month=10&year=2026#calendar_event_68160
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-69940
 DTSTART:20261008T181500Z
 DTEND:20261008T194500Z
@@ -8264,32 +8142,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67539
-DTSTART:20261008T150000Z
-DTEND:20261008T170000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
- n [ECO003ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10720&month=10&year=2026#calendar_event_67539
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67540
-DTSTART:20261008T180000Z
-DTEND:20261008T184500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:ECO003E | Q&A | Marché des Capitaux: Techniques et Organisation [E
- CO003ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10720&month=10&year=2026#calendar_event_67540
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
