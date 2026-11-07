@@ -3,43 +3,6 @@ VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67632
-DTSTART:20261008T090000Z
-DTEND:20261008T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO214 | Lecture | Théorie des Jeux: Approche Stratégique [ECO214
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=10&year=2026#calendar_event_67632
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68220
-DTSTART:20261008T110000Z
-DTEND:20261008T114500Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-H0-01
-SEQUENCE:0
-SUMMARY:INT202 | Q&A | Theories of International Relations [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=10&year=2026#calendar_event_68220
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67633
-DTSTART:20261008T120000Z
-DTEND:20261008T124500Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO214 | Q&A | Théorie des Jeux: Approche Stratégique [ECO214]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=10&year=2026#calendar_event_67633
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68204
 DTSTART:20261008T150000Z
 DTEND:20261008T180000Z
@@ -1646,19 +1609,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68392
-DTSTART:20261008T090000Z
-DTEND:20261008T120000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=10&year=2026#calendar_event_68392
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67539
 DTSTART:20261008T150000Z
 DTEND:20261008T170000Z
@@ -2390,19 +2340,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68392
-DTSTART:20261008T090000Z
-DTEND:20261008T120000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=10&year=2026#calendar_event_68392
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
@@ -3183,19 +3120,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68392
-DTSTART:20261008T090000Z
-DTEND:20261008T120000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=10&year=2026#calendar_event_68392
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -3992,30 +3916,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67602
-DTSTART:20261008T090000Z
-DTEND:20261008T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:ECO203 | Lecture | Econometrics 1 [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=10&year=2026#calendar_event_67602
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67603
-DTSTART:20261008T120000Z
-DTEND:20261008T124500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:ECO203 | Q&A | Econometrics 1 [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=10&year=2026#calendar_event_67603
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -4879,19 +4779,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67378
-DTSTART:20261008T090000Z
-DTEND:20261008T121500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:DAT107 | Laboratory | Introduction to Statistics For Social Science
- s [DAT107]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10739&month=10&year=2026#calendar_event_67378
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -6129,43 +6016,6 @@ SEQUENCE:0
 SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67632
-DTSTART:20261008T090000Z
-DTEND:20261008T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO214 | Lecture | Théorie des Jeux: Approche Stratégique [ECO214
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=10&year=2026#calendar_event_67632
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68220
-DTSTART:20261008T110000Z
-DTEND:20261008T114500Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-H0-01
-SEQUENCE:0
-SUMMARY:INT202 | Q&A | Theories of International Relations [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=10&year=2026#calendar_event_68220
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67633
-DTSTART:20261008T120000Z
-DTEND:20261008T124500Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO214 | Q&A | Théorie des Jeux: Approche Stratégique [ECO214]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=10&year=2026#calendar_event_67633
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -8417,19 +8267,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68392
-DTSTART:20261008T090000Z
-DTEND:20261008T120000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW208 | Lecture | Legal Practice Laboratory I (Public law) [LAW208
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=10&year=2026#calendar_event_68392
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67539
 DTSTART:20261008T150000Z
 DTEND:20261008T170000Z
@@ -9078,34 +8915,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67363
-DTSTART:20261008T090000Z
-DTEND:20261008T103000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 - Room: B-I0-01 / Groupe 2 - Room: B-I0-02 / Groupe 3 - R
- oom: B-H0-01 / Groupe 4 - Room: B-H0-02 / Groupe 5 - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:DAT104 | Laboratory | Statistiques Descriptives et Probabilités(Gr
- oupe 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5) [DAT104]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10738&month=10&year=2026#calendar_event_67363
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-71720
-DTSTART:20261008T104500Z
-DTEND:20261008T121500Z
-CLASS:PUBLIC
-LOCATION:Groupe 6 - Room: B-I0-01 / Groupe 7 - Room: B-I0-02 / Groupe 8 - R
- oom: B-H0-01 / Groupe 9 - Room: B-H0-02 / Groupe 10 - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:DAT104 | Laboratory | Statistiques Descriptives et Probabilités(Gr
- oupe 6\, Groupe 7\, Groupe 8\, Groupe 9\, Groupe 10) [DAT104]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10738&month=10&year=2026#calendar_event_71720
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
