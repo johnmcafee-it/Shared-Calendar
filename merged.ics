@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68596
-DTSTART:20261009T164500Z
-DTEND:20261009T173000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:POL203 | Q&A | Politique et Economie [POL203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10757&month=10&year=2026#calendar_event_68596
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260927T212900Z
 UID:event-assignment-34036
 DTSTART:20261011T225900Z
@@ -3820,18 +3808,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-69106
-DTSTART:20261009T164500Z
-DTEND:20261009T173000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO201 | Q&A | Microéconomie 1 [ECO201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10746&month=10&year=2026#calendar_event_69106
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -7176,18 +7152,6 @@ SEQUENCE:0
 SUMMARY:INT201 | Q&A | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68596
-DTSTART:20261009T164500Z
-DTEND:20261009T173000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:POL203 | Q&A | Politique et Economie [POL203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10757&month=10&year=2026#calendar_event_68596
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261015T091300Z
