@@ -776,7 +776,7 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-v
  end="903">&nbsp\;</p>\n<p><br><br></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261105T181200Z
+DTSTAMP:20261109T183400Z
 UID:event-assignment-34033
 DTSTART:20261022T163000Z
 DTEND:20261022T163000Z
@@ -6658,7 +6658,7 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-v
  end="903">&nbsp\;</p>\n<p><br><br></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261105T181200Z
+DTSTAMP:20261109T183400Z
 UID:event-assignment-34033
 DTSTART:20261022T163000Z
 DTEND:20261022T163000Z
