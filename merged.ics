@@ -1369,6 +1369,24 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=11&year=2026#calendar_event_68602
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261110T162400Z
+UID:event-assignment-34846
+DTSTART:20261130T083000Z
+DTEND:20261130T083000Z
+CLASS:PUBLIC
+DESCRIPTION:Bonjour à tous\,\n\nPetit rappel : une évaluation portera sur
+  le compte rendu d'une conférence ou d'un podcast.\n\nMerci de ne pas l'o
+ ublier et de vous y préparer.\n\nCordialement\,
+SEQUENCE:0
+SUMMARY:Sel-Study Activity N 3: Book Presentation or Podcast [LAN014C]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11223&month=11&year=2026#assignment_34846
+X-ALT-DESC;FMTTYPE=text/html:<p>Bonjour à tous\,</p>\n<p>Petit rappel : un
+ e évaluation portera sur le compte rendu d'une conférence ou d'un podcas
+ t.</p>\n<p>Merci de ne pas l'oublier et de vous y préparer.</p>\n<p>Cordi
+ alement\,</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68588
 DTSTART:20261130T100000Z
@@ -4403,6 +4421,19 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10726&month=11&year=2026#calendar_event_73558
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261110T153300Z
+UID:event-assignment-36754
+DTSTART;VALUE=DATE;VALUE=DATE:20261112
+CLASS:PUBLIC
+DESCRIPTION:Merci de mettre une page de garde avec noms des contributeurs.
+SEQUENCE:0
+SUMMARY:Devoir1 [ECO202]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10747&month=11&year=2026#assignment_36754
+X-ALT-DESC;FMTTYPE=text/html:<p>Merci de mettre une page de garde avec noms
+  des contributeurs.</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261109T110000Z
 UID:event-calendar-event-67668
 DTSTART:20261113T090000Z
@@ -5346,16 +5377,32 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=11&year=2026#calendar_event_73644
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261110T135200Z
 UID:event-calendar-event-68570
 DTSTART:20261111T090000Z
-DTEND:20261111T121500Z
+DTEND:20261111T103000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Groupe 1 - Room: B-I0-01 / Groupe 2 - Room: B-I0-02 / Groupe 3 - R
+ oom: B-H0-01 / Groupe 4 - Room: B-H0-02 / Groupe 5 - Room: B-F0-01
 SEQUENCE:0
-SUMMARY:POL101 | Laboratory | Introduction to Political Science [POL101]
+SUMMARY:POL101 | Laboratory | Introduction to Political Science(Groupe 1\, 
+ Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5) [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=11&year=2026#calendar_event_68570
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T135300Z
+UID:event-calendar-event-73691
+DTSTART:20261111T104500Z
+DTEND:20261111T121500Z
+CLASS:PUBLIC
+LOCATION:Groupe 6 - Room: B-I0-01 / Groupe 7 - Room: B-I0-02 / Groupe 8 - R
+ oom: B-H0-01 / Groupe 9 - Room: B-H0-02 / Groupe 10 - Room: B-F0-01
+SEQUENCE:0
+SUMMARY:POL101 | Laboratory | Introduction to Political Science(Groupe 6\, 
+ Groupe 7\, Groupe 8\, Groupe 9\, Groupe 10) [POL101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10743&month=11&year=2026#calendar_event_73691
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261105T113600Z
@@ -5572,10 +5619,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261109T153900Z
+DTSTAMP:20261110T151400Z
 UID:event-calendar-event-67561
 DTSTART:20261120T133000Z
-DTEND:20261120T160000Z
+DTEND:20261120T163000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-J0-01
 SEQUENCE:0
@@ -9243,16 +9290,32 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=11&year=2026#calendar_event_73644
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261110T135200Z
 UID:event-calendar-event-68570
 DTSTART:20261111T090000Z
-DTEND:20261111T121500Z
+DTEND:20261111T103000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Groupe 1 - Room: B-I0-01 / Groupe 2 - Room: B-I0-02 / Groupe 3 - R
+ oom: B-H0-01 / Groupe 4 - Room: B-H0-02 / Groupe 5 - Room: B-F0-01
 SEQUENCE:0
-SUMMARY:POL101 | Laboratory | Introduction to Political Science [POL101]
+SUMMARY:POL101 | Laboratory | Introduction to Political Science(Groupe 1\, 
+ Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5) [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=11&year=2026#calendar_event_68570
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T135300Z
+UID:event-calendar-event-73691
+DTSTART:20261111T104500Z
+DTEND:20261111T121500Z
+CLASS:PUBLIC
+LOCATION:Groupe 6 - Room: B-I0-01 / Groupe 7 - Room: B-I0-02 / Groupe 8 - R
+ oom: B-H0-01 / Groupe 9 - Room: B-H0-02 / Groupe 10 - Room: B-F0-01
+SEQUENCE:0
+SUMMARY:POL101 | Laboratory | Introduction to Political Science(Groupe 6\, 
+ Groupe 7\, Groupe 8\, Groupe 9\, Groupe 10) [POL101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10743&month=11&year=2026#calendar_event_73691
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261105T113600Z
@@ -9482,10 +9545,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261109T153900Z
+DTSTAMP:20261110T151400Z
 UID:event-calendar-event-67561
 DTSTART:20261120T133000Z
-DTEND:20261120T160000Z
+DTEND:20261120T163000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-J0-01
 SEQUENCE:0
