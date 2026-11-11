@@ -8122,17 +8122,32 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_73640
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261111T093800Z
 UID:event-calendar-event-67367
 DTSTART:20261112T090000Z
-DTEND:20261112T121500Z
+DTEND:20261112T103000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Groupe 1 - Room: B-I0-01 / Groupe 2 - Room: B-I0-02 / Groupe 3 - R
+ oom: B-H0-01 / Groupe 4 - Room: B-H0-02 / Groupe 5 - Room: B-F0-01
 SEQUENCE:0
-SUMMARY:DAT104 | Laboratory | Statistiques Descriptives et Probabilités [D
- AT104]
+SUMMARY:DAT104 | Laboratory | Statistiques Descriptives et Probabilités(Gr
+ oupe 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5) [DAT104]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10738&month=11&year=2026#calendar_event_67367
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T093800Z
+UID:event-calendar-event-73695
+DTSTART:20261112T104500Z
+DTEND:20261112T121500Z
+CLASS:PUBLIC
+LOCATION:Groupe 6 - Room: B-I0-01 / Groupe 7 - Room: B-I0-02 / Groupe 8 - R
+ oom: B-H0-01 / Groupe 9 - Room: B-H0-02 / Groupe 10 - Room: B-F0-01
+SEQUENCE:0
+SUMMARY:DAT104 | Laboratory | Statistiques Descriptives et Probabilités(Gr
+ oupe 6\, Groupe 7\, Groupe 8\, Groupe 9\, Groupe 10) [DAT104]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10738&month=11&year=2026#calendar_event_73695
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261026T152500Z
