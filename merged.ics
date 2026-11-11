@@ -449,12 +449,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68352
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261111T165600Z
 UID:event-calendar-event-67637
 DTSTART:20261112T090000Z
 DTEND:20261112T110000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-02
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:ECO214 | Lecture | Théorie des Jeux: Approche Stratégique [ECO214
  ]
@@ -462,24 +462,24 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10705&month=11&year=2026#calendar_event_67637
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261029T153900Z
+DTSTAMP:20261111T164600Z
 UID:event-calendar-event-73540
 DTSTART:20261112T140000Z
 DTEND:20261112T150000Z
 CLASS:PUBLIC
-LOCATION:A-F0-01
+LOCATION:A-H0-01
 SEQUENCE:0
 SUMMARY:IELTS Workshop - Reading [IELTS2627]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11916&month=11&year=2026#calendar_event_73540
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261111T165800Z
 UID:event-calendar-event-68209
 DTSTART:20261112T150000Z
 DTEND:20261112T170000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -3803,12 +3803,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10748&month=11&year=2026#calendar_event_67607
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261102T170900Z
+DTSTAMP:20261111T170200Z
 UID:event-calendar-event-73558
 DTSTART:20261112T170000Z
 DTEND:20261112T190000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building B - Room: B-F0-02
 SEQUENCE:0
 SUMMARY:INT005E | Lecture | Multilateral Organization and Global Challenges
  : Threat and Opportunity [INT005ELM]
@@ -5727,12 +5727,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10704&month=11&year=2026#calendar_event_67622
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261111T165600Z
 UID:event-calendar-event-67637
 DTSTART:20261112T090000Z
 DTEND:20261112T110000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-02
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:ECO214 | Lecture | Théorie des Jeux: Approche Stratégique [ECO214
  ]
@@ -5740,12 +5740,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10705&month=11&year=2026#calendar_event_67637
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261111T165800Z
 UID:event-calendar-event-68209
 DTSTART:20261112T150000Z
 DTEND:20261112T170000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
