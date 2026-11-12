@@ -974,6 +974,58 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11916&month=12&year=2026#calendar_event_73544
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261112T070000Z
+UID:event-assignment-36831
+DTSTART:20261205T233000Z
+DTEND:20261205T233000Z
+CLASS:PUBLIC
+DESCRIPTION:Chères étudiantes\, chers étudiants\,\n\nLe devoir maison co
+ nsiste à créer votre propre jeu stratégique.\nCe jeu peut être :\n\n*
+  à actions simultanées et/ou séquentielles\,\n\n* répété ou non.\n\n
+ Organisation :\n\n* L'étudiant n°1 de chaque groupe devra remettre un fi
+ chier en ligne (les autres étudiants du groupe ne doivent pas déposer de
+  devoir). \n\n* Format attendu : un fichier PDF par groupe (à envoyer p
+ ar CANVAS\, selon les consignes habituelles).\n\n \n\nÉvaluation (20 poi
+ nts)\n\nLe devoir sera évalué selon les critères suivants :\n\n* Origin
+ alité et pertinence stratégique du jeu proposé (/5)\n\n* Qualité des r
+ ègles du jeu\, clarté des instructions et complétude des explications e
+ t de la représentation (/5)\n\n* Mobilisation des connaissances théoriqu
+ es (/5)\n\n* Expérimentation du jeu et description de cette expérimentat
+ ion. Analyse comparative entre hypothèses et observations (/5)\n\nImporta
+ nt :\n\nLe devoir sera analysé par un logiciel anti-plagiat et un détect
+ eur d’usage de l’IA. Tout contenu plagié ou généré par IA supérie
+ ur à 16 % du document entraînera un entretien avec l’enseignant de l
+ a matière qui se réservera le droit de questionner les auteurs du devoir
+ .
+SEQUENCE:0
+SUMMARY:Devoir maison [ECO214]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10705&month=12&year=2026#assignment_36831
+X-ALT-DESC;FMTTYPE=text/html:<p>Chères étudiantes\, chers étudiants\,</p
+ >\n<p>Le devoir maison consiste à&nbsp\;<strong>créer votre propre jeu s
+ tratégique</strong>.<br>Ce jeu peut être :</p>\n<ul>\n<li>à actions sim
+ ultanées et/ou séquentielles\,</li>\n<li>répété ou non.</li>\n</ul>\n
+ <p><strong>Organisation :</strong></p>\n<ul>\n<li><strong>L'étudiant n°1
+  de chaque groupe devra remettre un fichier en ligne</strong><strong> </st
+ rong><strong>(les autres étudiants du groupe ne doivent pas déposer de d
+ evoir)</strong><strong>.</strong>&nbsp\;</li>\n<li>Format attendu :&nbsp\;
+ <strong>un fichier <u>PDF</u> par groupe </strong>(à envoyer par CANVAS\,
+  selon les consignes habituelles).</li>\n</ul>\n<p>&nbsp\;</p>\n<p><strong
+ >Évaluation (20 points)</strong></p>\n<p>Le devoir sera évalué selon le
+ s critères suivants :</p>\n<ol>\n<li>Originalité et pertinence stratégi
+ que du jeu proposé (<strong>/5</strong>)</li>\n<li>Qualité des règles d
+ u jeu\, clarté des instructions et complétude des explications et de la 
+ représentation (<strong>/5</strong>)</li>\n<li>Mobilisation des connaissa
+ nces théoriques (<strong>/5</strong>)</li>\n<li>Expérimentation du jeu e
+ t description de cette expérimentation. Analyse comparative entre hypoth
+ èses et observations (<strong>/5</strong>)</li>\n</ol>\n<p><strong>Import
+ ant :</strong></p>\n<p>Le devoir sera analysé par un logiciel anti-plagia
+ t et un détecteur d’usage de l’IA. Tout contenu plagié ou généré 
+ par IA supérieur à&nbsp\;<strong>16 %</strong>&nbsp\;du document entraî
+ nera un entretien avec l’enseignant de la matière qui se réservera le 
+ droit de questionner les auteurs du devoir.</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261007T162200Z
 UID:event-assignment-35338
 DTSTART:20261018T225900Z
@@ -6068,6 +6120,58 @@ SEQUENCE:0
 SUMMARY:INT201 | Q&A | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=12&year=2026#calendar_event_68213
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T070000Z
+UID:event-assignment-36831
+DTSTART:20261205T233000Z
+DTEND:20261205T233000Z
+CLASS:PUBLIC
+DESCRIPTION:Chères étudiantes\, chers étudiants\,\n\nLe devoir maison co
+ nsiste à créer votre propre jeu stratégique.\nCe jeu peut être :\n\n*
+  à actions simultanées et/ou séquentielles\,\n\n* répété ou non.\n\n
+ Organisation :\n\n* L'étudiant n°1 de chaque groupe devra remettre un fi
+ chier en ligne (les autres étudiants du groupe ne doivent pas déposer de
+  devoir). \n\n* Format attendu : un fichier PDF par groupe (à envoyer p
+ ar CANVAS\, selon les consignes habituelles).\n\n \n\nÉvaluation (20 poi
+ nts)\n\nLe devoir sera évalué selon les critères suivants :\n\n* Origin
+ alité et pertinence stratégique du jeu proposé (/5)\n\n* Qualité des r
+ ègles du jeu\, clarté des instructions et complétude des explications e
+ t de la représentation (/5)\n\n* Mobilisation des connaissances théoriqu
+ es (/5)\n\n* Expérimentation du jeu et description de cette expérimentat
+ ion. Analyse comparative entre hypothèses et observations (/5)\n\nImporta
+ nt :\n\nLe devoir sera analysé par un logiciel anti-plagiat et un détect
+ eur d’usage de l’IA. Tout contenu plagié ou généré par IA supérie
+ ur à 16 % du document entraînera un entretien avec l’enseignant de l
+ a matière qui se réservera le droit de questionner les auteurs du devoir
+ .
+SEQUENCE:0
+SUMMARY:Devoir maison [ECO214]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10705&month=12&year=2026#assignment_36831
+X-ALT-DESC;FMTTYPE=text/html:<p>Chères étudiantes\, chers étudiants\,</p
+ >\n<p>Le devoir maison consiste à&nbsp\;<strong>créer votre propre jeu s
+ tratégique</strong>.<br>Ce jeu peut être :</p>\n<ul>\n<li>à actions sim
+ ultanées et/ou séquentielles\,</li>\n<li>répété ou non.</li>\n</ul>\n
+ <p><strong>Organisation :</strong></p>\n<ul>\n<li><strong>L'étudiant n°1
+  de chaque groupe devra remettre un fichier en ligne</strong><strong> </st
+ rong><strong>(les autres étudiants du groupe ne doivent pas déposer de d
+ evoir)</strong><strong>.</strong>&nbsp\;</li>\n<li>Format attendu :&nbsp\;
+ <strong>un fichier <u>PDF</u> par groupe </strong>(à envoyer par CANVAS\,
+  selon les consignes habituelles).</li>\n</ul>\n<p>&nbsp\;</p>\n<p><strong
+ >Évaluation (20 points)</strong></p>\n<p>Le devoir sera évalué selon le
+ s critères suivants :</p>\n<ol>\n<li>Originalité et pertinence stratégi
+ que du jeu proposé (<strong>/5</strong>)</li>\n<li>Qualité des règles d
+ u jeu\, clarté des instructions et complétude des explications et de la 
+ représentation (<strong>/5</strong>)</li>\n<li>Mobilisation des connaissa
+ nces théoriques (<strong>/5</strong>)</li>\n<li>Expérimentation du jeu e
+ t description de cette expérimentation. Analyse comparative entre hypoth
+ èses et observations (<strong>/5</strong>)</li>\n</ol>\n<p><strong>Import
+ ant :</strong></p>\n<p>Le devoir sera analysé par un logiciel anti-plagia
+ t et un détecteur d’usage de l’IA. Tout contenu plagié ou généré 
+ par IA supérieur à&nbsp\;<strong>16 %</strong>&nbsp\;du document entraî
+ nera un entretien avec l’enseignant de la matière qui se réservera le 
+ droit de questionner les auteurs du devoir.</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261015T091300Z
