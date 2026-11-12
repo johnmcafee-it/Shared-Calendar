@@ -3855,6 +3855,19 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10748&month=11&year=2026#calendar_event_67607
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261112T115600Z
+UID:event-assignment-36841
+DTSTART:20261112T110000Z
+DTEND:20261112T110000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:I am here - Nov 12th [ECO203]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10748&month=11&year=2026#assignment_36841
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261111T170200Z
 UID:event-calendar-event-73558
 DTSTART:20261112T170000Z
@@ -3881,12 +3894,12 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Merci de mettre une page de garde avec noms
   des contributeurs.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261109T110000Z
+DTSTAMP:20261112T101800Z
 UID:event-calendar-event-67668
 DTSTART:20261113T090000Z
 DTEND:20261113T120000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
+LOCATION:Building B - Room: B-K0-01
 SEQUENCE:0
 SUMMARY:ECO218 | Lecture | Comptabilité Nationale et Agrégats Macroécono
  miques [ECO218]
@@ -6688,10 +6701,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=11&year=2026#calendar_event_68586
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261112T171400Z
 UID:event-calendar-event-68616
 DTSTART:20261117T090000Z
-DTEND:20261117T110000Z
+DTEND:20261117T120000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-B0-01
 SEQUENCE:0
