@@ -486,15 +486,30 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=11&year=2026#calendar_event_68209
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261103T101600Z
+DTSTAMP:20261112T180000Z
 UID:event-assignment-34847
 DTSTART:20261112T180000Z
 DTEND:20261112T180000Z
 CLASS:PUBLIC
+DESCRIPTION:Chers étudiants\,\n\nJe vous informe que le Self Study n° 4 a
+ ura lieu le jeudi 12 novembre à 18 h\, en salle A-A0-01.\n\nIl portera su
+ r le contenu des semaines 9 et 10\, disponible sur Canvas\, dans la rubriq
+ ue Files. Je vous invite à revoir attentivement ces documents pour bien v
+ ous préparer.\n\nMerci d’arriver quelques minutes à l’avance.\n\nBon
+  travail à toutes et à tous\,\n\nHafida El Amrani
 SEQUENCE:0
 SUMMARY:Self Study n° 4 – jeudi 12 novembre à 18 h [LAN014C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11223&month=11&year=2026#assignment_34847
+X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr">Chers étudiants\,</p>\n<p dir="l
+ tr">Je vous informe que le <strong>Self Study n° 4</strong> aura lieu le 
+ <strong>jeudi 12 novembre à 18 h</strong>\, en <strong>salle A-A0-01</str
+ ong>.</p>\n<p dir="ltr">Il portera sur le <strong>contenu des semaines 9 e
+ t 10</strong>\, disponible sur Canvas\, dans la rubrique <strong>Files</st
+ rong>. Je vous invite à revoir attentivement ces documents pour bien vous
+  préparer.</p>\n<p dir="ltr">Merci d’arriver quelques minutes à l’av
+ ance.</p>\n<p dir="ltr">Bon travail à toutes et à tous\,</p>\n<p dir="lt
+ r">Hafida El Amrani</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
