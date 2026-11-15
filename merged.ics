@@ -3378,6 +3378,19 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10745&month=10&year=2026#calendar_event_67425
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261115T154800Z
+UID:event-assignment-36925
+DTSTART:20261019T090000Z
+DTEND:20261019T090000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Examen Mi-parcours [DAT203]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10745&month=10&year=2026#assignment_36925
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68113
 DTSTART:20261019T133000Z
@@ -3512,7 +3525,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=10&year=2026#calendar_event_73312
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T091500Z
+DTSTAMP:20261115T145800Z
 UID:event-assignment-override-6247
 DTSTART;VALUE=DATE;VALUE=DATE:20261025
 CLASS:PUBLIC
@@ -4020,6 +4033,17 @@ SUMMARY:INT005E | Laboratory | Multilateral Organization and Global Challen
  ges: Threat and Opportunity [INT005ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10726&month=11&year=2026#calendar_event_68121
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T154800Z
+UID:event-assignment-36926
+DTSTART:20261122T230000Z
+DTEND:20261122T230000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Devoir Libre [DAT203]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10745&month=11&year=2026#assignment_36926
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -5028,17 +5052,61 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11619&month=11&year=2026#assignment_34455
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261113T172100Z
+DTSTAMP:20261115T180000Z
 UID:event-calendar-event-68338
 DTSTART:20261116T104500Z
 DTEND:20261116T121500Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:	Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0
+ -01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:LAW101 | Flexible session | Introduction à l'Etude du Droit [LAW10
  1]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10742&month=11&year=2026#calendar_event_68338
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T175900Z
+UID:event-calendar-event-73780
+DTSTART:20261116T133000Z
+DTEND:20261116T143000Z
+CLASS:PUBLIC
+LOCATION:	Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0
+ -01) in case of a lack of available seats.
+SEQUENCE:0
+SUMMARY:RES101 | Lecture | Méthodes d'Apprentissage Appliquées [RES101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10744&month=11&year=2026#calendar_event_73780
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T171000Z
+UID:event-calendar-event-73781
+DTSTART:20261116T144000Z
+DTEND:20261116T153000Z
+CLASS:PUBLIC
+LOCATION:	Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - 
+ Room: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Grou
+ pe 6 - Room: B-K0-02
+SEQUENCE:0
+SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées(Groupe 
+ 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10744&month=11&year=2026#calendar_event_73781
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T171000Z
+UID:event-calendar-event-73782
+DTSTART:20261116T154500Z
+DTEND:20261116T164500Z
+CLASS:PUBLIC
+LOCATION:	Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - 
+ Room: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gr
+ oupe 12 - Room: B-K0-02
+SEQUENCE:0
+SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
+  7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10744&month=11&year=2026#calendar_event_73782
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -8391,17 +8459,61 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11608&month=11&year=2026#assignment_34500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261113T172100Z
+DTSTAMP:20261115T180000Z
 UID:event-calendar-event-68338
 DTSTART:20261116T104500Z
 DTEND:20261116T121500Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:	Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0
+ -01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:LAW101 | Flexible session | Introduction à l'Etude du Droit [LAW10
  1]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10742&month=11&year=2026#calendar_event_68338
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T175900Z
+UID:event-calendar-event-73780
+DTSTART:20261116T133000Z
+DTEND:20261116T143000Z
+CLASS:PUBLIC
+LOCATION:	Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0
+ -01) in case of a lack of available seats.
+SEQUENCE:0
+SUMMARY:RES101 | Lecture | Méthodes d'Apprentissage Appliquées [RES101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10744&month=11&year=2026#calendar_event_73780
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T171000Z
+UID:event-calendar-event-73781
+DTSTART:20261116T144000Z
+DTEND:20261116T153000Z
+CLASS:PUBLIC
+LOCATION:	Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - 
+ Room: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Grou
+ pe 6 - Room: B-K0-02
+SEQUENCE:0
+SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées(Groupe 
+ 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10744&month=11&year=2026#calendar_event_73781
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T171000Z
+UID:event-calendar-event-73782
+DTSTART:20261116T154500Z
+DTEND:20261116T164500Z
+CLASS:PUBLIC
+LOCATION:	Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - 
+ Room: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gr
+ oupe 12 - Room: B-K0-02
+SEQUENCE:0
+SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
+  7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10744&month=11&year=2026#calendar_event_73782
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
