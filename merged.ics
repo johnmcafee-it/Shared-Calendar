@@ -1494,18 +1494,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68383
-DTSTART:20261117T180000Z
-DTEND:20261117T210000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=11&year=2026#calendar_event_68383
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68397
 DTSTART:20261119T090000Z
 DTEND:20261119T120000Z
@@ -1723,6 +1711,18 @@ SEQUENCE:0
 SUMMARY:LAW201 | Q&A | Public International Law [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=12&year=2026#calendar_event_68356
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261116T185700Z
+UID:event-calendar-event-68383
+DTSTART:20261201T180000Z
+DTEND:20261201T210000Z
+CLASS:PUBLIC
+LOCATION:Building A - Room: A-E1-01
+SEQUENCE:0
+SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10715&month=12&year=2026#calendar_event_68383
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -2245,18 +2245,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68353
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68383
-DTSTART:20261117T180000Z
-DTEND:20261117T210000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=11&year=2026#calendar_event_68383
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261116T101200Z
 UID:event-calendar-event-69825
 DTSTART:20261117T180000Z
@@ -2529,6 +2517,18 @@ SEQUENCE:0
 SUMMARY:Face to Face Session [LAN008C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11215&month=12&year=2026#calendar_event_69827
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261116T185700Z
+UID:event-calendar-event-68383
+DTSTART:20261201T180000Z
+DTEND:20261201T210000Z
+CLASS:PUBLIC
+LOCATION:Building A - Room: A-E1-01
+SEQUENCE:0
+SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10715&month=12&year=2026#calendar_event_68383
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -3035,18 +3035,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68383
-DTSTART:20261117T180000Z
-DTEND:20261117T210000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=11&year=2026#calendar_event_68383
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68397
 DTSTART:20261119T090000Z
 DTEND:20261119T120000Z
@@ -3278,6 +3266,18 @@ SEQUENCE:0
 SUMMARY:LAW201 | Q&A | Public International Law [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=12&year=2026#calendar_event_68356
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261116T185700Z
+UID:event-calendar-event-68383
+DTSTART:20261201T180000Z
+DTEND:20261201T210000Z
+CLASS:PUBLIC
+LOCATION:Building A - Room: A-E1-01
+SEQUENCE:0
+SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10715&month=12&year=2026#calendar_event_68383
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -5108,12 +5108,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=11&year=2026#calendar_event_73642
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261116T181900Z
 UID:event-calendar-event-71531
 DTSTART:20261117T120000Z
 DTEND:20261117T130000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building B - Room: B-K0-01/Building B - Room: B-K0-02
 SEQUENCE:0
 SUMMARY:ECO101 | Office Hours | Introduction à l'Analyse Economique [ECO10
  1]
@@ -6808,18 +6808,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68383
-DTSTART:20261117T180000Z
-DTEND:20261117T210000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=11&year=2026#calendar_event_68383
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68165
 DTSTART:20261119T150000Z
 DTEND:20261119T180000Z
@@ -7037,6 +7025,18 @@ SEQUENCE:0
 SUMMARY:LAW201 | Q&A | Public International Law [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=12&year=2026#calendar_event_68356
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261116T185700Z
+UID:event-calendar-event-68383
+DTSTART:20261201T180000Z
+DTEND:20261201T210000Z
+CLASS:PUBLIC
+LOCATION:Building A - Room: A-E1-01
+SEQUENCE:0
+SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10715&month=12&year=2026#calendar_event_68383
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -7505,18 +7505,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68383
-DTSTART:20261117T180000Z
-DTEND:20261117T210000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=11&year=2026#calendar_event_68383
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68397
 DTSTART:20261119T090000Z
 DTEND:20261119T120000Z
@@ -7710,6 +7698,18 @@ SEQUENCE:0
 SUMMARY:LAW201 | Q&A | Public International Law [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=12&year=2026#calendar_event_68356
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261116T185700Z
+UID:event-calendar-event-68383
+DTSTART:20261201T180000Z
+DTEND:20261201T210000Z
+CLASS:PUBLIC
+LOCATION:Building A - Room: A-E1-01
+SEQUENCE:0
+SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10715&month=12&year=2026#calendar_event_68383
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -8514,12 +8514,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=11&year=2026#calendar_event_73642
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261116T181900Z
 UID:event-calendar-event-71531
 DTSTART:20261117T120000Z
 DTEND:20261117T130000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building B - Room: B-K0-01/Building B - Room: B-K0-02
 SEQUENCE:0
 SUMMARY:ECO101 | Office Hours | Introduction à l'Analyse Economique [ECO10
  1]
