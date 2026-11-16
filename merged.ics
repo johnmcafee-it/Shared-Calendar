@@ -2257,14 +2257,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=11&year=2026#calendar_event_68383
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261116T101200Z
 UID:event-calendar-event-69825
 DTSTART:20261117T180000Z
 DTEND:20261117T193000Z
 CLASS:PUBLIC
 LOCATION:A-A0-02
 SEQUENCE:0
-SUMMARY:Micro-Task 2 [LAN008C]
+SUMMARY:Self- Study / Check with your professor [LAN008C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11215&month=11&year=2026#calendar_event_69825
 END:VEVENT
@@ -4326,7 +4326,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67557
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T083000Z
+DTSTAMP:20261116T111000Z
 UID:event-assignment-35587
 DTSTART:20261020T163000Z
 DTEND:20261020T163000Z
@@ -5078,9 +5078,9 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=11&year=2026#calendar_event_68752
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261116T004100Z
+DTSTAMP:20261116T095800Z
 UID:event-calendar-event-69368
-DTSTART:20261116T143000Z
+DTSTART:20261116T144000Z
 DTEND:20261116T154000Z
 CLASS:PUBLIC
 LOCATION:Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - R
@@ -5159,18 +5159,6 @@ SUMMARY:ECO101 | Flexible session | Introduction à l'Analyse Economique [E
  CO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=11&year=2026#calendar_event_67561
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68339
-DTSTART:20261123T090000Z
-DTEND:20261123T120000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
-SEQUENCE:0
-SUMMARY:LAW101 | Lecture | Introduction à l'Etude du Droit [LAW101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10742&month=11&year=2026#calendar_event_68339
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -5447,6 +5435,18 @@ SUMMARY:DAT107 | Laboratory | Introduction to Statistics For Social Science
  s [DAT107]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10739&month=12&year=2026#calendar_event_67386
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261116T101500Z
+UID:event-calendar-event-68339
+DTSTART:20261203T150000Z
+DTEND:20261203T180000Z
+CLASS:PUBLIC
+LOCATION:Building B - Room: B-J0-01
+SEQUENCE:0
+SUMMARY:LAW101 | Lecture | Introduction à l'Etude du Droit [LAW101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10742&month=12&year=2026#calendar_event_68339
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -7833,7 +7833,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=10&year=2026#calendar_event_67557
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T083000Z
+DTSTAMP:20261116T111000Z
 UID:event-assignment-35587
 DTSTART:20261020T163000Z
 DTEND:20261020T163000Z
@@ -8484,9 +8484,9 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=11&year=2026#calendar_event_68752
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261116T004100Z
+DTSTAMP:20261116T095800Z
 UID:event-calendar-event-69368
-DTSTART:20261116T143000Z
+DTSTART:20261116T144000Z
 DTEND:20261116T154000Z
 CLASS:PUBLIC
 LOCATION:Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - R
@@ -8577,18 +8577,6 @@ SUMMARY:ECO101 | Flexible session | Introduction à l'Analyse Economique [E
  CO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=11&year=2026#calendar_event_67561
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68339
-DTSTART:20261123T090000Z
-DTEND:20261123T120000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
-SEQUENCE:0
-SUMMARY:LAW101 | Lecture | Introduction à l'Etude du Droit [LAW101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10742&month=11&year=2026#calendar_event_68339
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -8841,6 +8829,18 @@ SUMMARY:DAT104 | Laboratory | Statistiques Descriptives et Probabilités [D
  AT104]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10738&month=12&year=2026#calendar_event_67371
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261116T101500Z
+UID:event-calendar-event-68339
+DTSTART:20261203T150000Z
+DTEND:20261203T180000Z
+CLASS:PUBLIC
+LOCATION:Building B - Room: B-J0-01
+SEQUENCE:0
+SUMMARY:LAW101 | Lecture | Introduction à l'Etude du Droit [LAW101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10742&month=12&year=2026#calendar_event_68339
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
