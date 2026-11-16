@@ -4804,36 +4804,35 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10742&month=11&year=2026#calendar_event_73643
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68752
+DTSTAMP:20261116T004200Z
+UID:event-calendar-event-73787
 DTSTART:20261109T133000Z
 DTEND:20261109T143000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
+LOCATION:
 SEQUENCE:0
 SUMMARY:RES101 | Lecture | Méthodes d'Apprentissage Appliquées [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=11&year=2026#calendar_event_68752
+ _10744&month=11&year=2026#calendar_event_73787
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261105T173100Z
-UID:event-calendar-event-69368
-DTSTART:20261109T143000Z
+DTSTAMP:20261116T004400Z
+UID:event-calendar-event-73788
+DTSTART:20261109T144000Z
 DTEND:20261109T154000Z
 CLASS:PUBLIC
 LOCATION:Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - R
  oom: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Group
  e 6 - Room: B-K0-02
 SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées(Groupe 
- 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
+SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées [RES101
+ ]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=11&year=2026#calendar_event_69368
+ _10744&month=11&year=2026#calendar_event_73788
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261105T113800Z
-UID:event-calendar-event-73642
+DTSTAMP:20261116T004400Z
+UID:event-calendar-event-73789
 DTSTART:20261109T154500Z
 DTEND:20261109T164500Z
 CLASS:PUBLIC
@@ -4844,7 +4843,7 @@ SEQUENCE:0
 SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
   7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=11&year=2026#calendar_event_73642
+ _10744&month=11&year=2026#calendar_event_73789
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T161600Z
@@ -5066,47 +5065,47 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10742&month=11&year=2026#calendar_event_68338
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261115T175900Z
-UID:event-calendar-event-73780
+DTSTAMP:20261116T004100Z
+UID:event-calendar-event-68752
 DTSTART:20261116T133000Z
 DTEND:20261116T143000Z
 CLASS:PUBLIC
-LOCATION:	Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0
- -01) in case of a lack of available seats.
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:RES101 | Lecture | Méthodes d'Apprentissage Appliquées [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=11&year=2026#calendar_event_73780
+ _10744&month=11&year=2026#calendar_event_68752
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261115T171000Z
-UID:event-calendar-event-73781
-DTSTART:20261116T144000Z
-DTEND:20261116T153000Z
+DTSTAMP:20261116T004100Z
+UID:event-calendar-event-69368
+DTSTART:20261116T143000Z
+DTEND:20261116T154000Z
 CLASS:PUBLIC
-LOCATION:	Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - 
- Room: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Grou
- pe 6 - Room: B-K0-02
+LOCATION:Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - R
+ oom: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Group
+ e 6 - Room: B-K0-02
 SEQUENCE:0
 SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées(Groupe 
  1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=11&year=2026#calendar_event_73781
+ _10744&month=11&year=2026#calendar_event_69368
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261115T171000Z
-UID:event-calendar-event-73782
+DTSTAMP:20261116T004100Z
+UID:event-calendar-event-73642
 DTSTART:20261116T154500Z
 DTEND:20261116T164500Z
 CLASS:PUBLIC
-LOCATION:	Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - 
- Room: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gr
- oupe 12 - Room: B-K0-02
+LOCATION:Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - R
+ oom: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gro
+ upe 12 - Room: B-K0-02
 SEQUENCE:0
 SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
   7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=11&year=2026#calendar_event_73782
+ _10744&month=11&year=2026#calendar_event_73642
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -8195,36 +8194,35 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10742&month=11&year=2026#calendar_event_73643
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68752
+DTSTAMP:20261116T004200Z
+UID:event-calendar-event-73787
 DTSTART:20261109T133000Z
 DTEND:20261109T143000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
+LOCATION:
 SEQUENCE:0
 SUMMARY:RES101 | Lecture | Méthodes d'Apprentissage Appliquées [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=11&year=2026#calendar_event_68752
+ _10744&month=11&year=2026#calendar_event_73787
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261105T173100Z
-UID:event-calendar-event-69368
-DTSTART:20261109T143000Z
+DTSTAMP:20261116T004400Z
+UID:event-calendar-event-73788
+DTSTART:20261109T144000Z
 DTEND:20261109T154000Z
 CLASS:PUBLIC
 LOCATION:Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - R
  oom: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Group
  e 6 - Room: B-K0-02
 SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées(Groupe 
- 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
+SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées [RES101
+ ]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=11&year=2026#calendar_event_69368
+ _10744&month=11&year=2026#calendar_event_73788
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261105T113800Z
-UID:event-calendar-event-73642
+DTSTAMP:20261116T004400Z
+UID:event-calendar-event-73789
 DTSTART:20261109T154500Z
 DTEND:20261109T164500Z
 CLASS:PUBLIC
@@ -8235,7 +8233,7 @@ SEQUENCE:0
 SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
   7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=11&year=2026#calendar_event_73642
+ _10744&month=11&year=2026#calendar_event_73789
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T161600Z
@@ -8473,47 +8471,47 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10742&month=11&year=2026#calendar_event_68338
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261115T175900Z
-UID:event-calendar-event-73780
+DTSTAMP:20261116T004100Z
+UID:event-calendar-event-68752
 DTSTART:20261116T133000Z
 DTEND:20261116T143000Z
 CLASS:PUBLIC
-LOCATION:	Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0
- -01) in case of a lack of available seats.
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:RES101 | Lecture | Méthodes d'Apprentissage Appliquées [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=11&year=2026#calendar_event_73780
+ _10744&month=11&year=2026#calendar_event_68752
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261115T171000Z
-UID:event-calendar-event-73781
-DTSTART:20261116T144000Z
-DTEND:20261116T153000Z
+DTSTAMP:20261116T004100Z
+UID:event-calendar-event-69368
+DTSTART:20261116T143000Z
+DTEND:20261116T154000Z
 CLASS:PUBLIC
-LOCATION:	Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - 
- Room: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Grou
- pe 6 - Room: B-K0-02
+LOCATION:Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - R
+ oom: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Group
+ e 6 - Room: B-K0-02
 SEQUENCE:0
 SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées(Groupe 
  1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=11&year=2026#calendar_event_73781
+ _10744&month=11&year=2026#calendar_event_69368
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261115T171000Z
-UID:event-calendar-event-73782
+DTSTAMP:20261116T004100Z
+UID:event-calendar-event-73642
 DTSTART:20261116T154500Z
 DTEND:20261116T164500Z
 CLASS:PUBLIC
-LOCATION:	Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - 
- Room: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gr
- oupe 12 - Room: B-K0-02
+LOCATION:Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - R
+ oom: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gro
+ upe 12 - Room: B-K0-02
 SEQUENCE:0
 SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
   7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=11&year=2026#calendar_event_73782
+ _10744&month=11&year=2026#calendar_event_73642
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
