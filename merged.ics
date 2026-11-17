@@ -609,12 +609,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11916&month=11&year=2026#calendar_event_73541
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261117T152600Z
 UID:event-calendar-event-68210
 DTSTART:20261119T150000Z
 DTEND:20261119T170000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -2367,7 +2367,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=11&year=2026#calendar_event_68385
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261103T000000Z
+DTSTAMP:20261117T161900Z
 UID:event-assignment-36494
 DTSTART;VALUE=DATE;VALUE=DATE:20261126
 CLASS:PUBLIC
@@ -5971,12 +5971,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68353
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261117T152600Z
 UID:event-calendar-event-68210
 DTSTART:20261119T150000Z
 DTEND:20261119T170000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -6794,12 +6794,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=11&year=2026#calendar_event_68586
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261112T171400Z
+DTSTAMP:20261117T175200Z
 UID:event-calendar-event-68616
 DTSTART:20261117T090000Z
 DTEND:20261117T120000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
+LOCATION:Building B - Room: B-B0-02
 SEQUENCE:0
 SUMMARY:POL212 | Lecture | Systèmes Politiques Comparés et Philosophie Po
  litique [POL212]
