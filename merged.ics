@@ -2319,18 +2319,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68354
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-69826
-DTSTART:20261124T180000Z
-DTEND:20261124T193000Z
-CLASS:PUBLIC
-LOCATION:A-A0-02
-SEQUENCE:0
-SUMMARY:Face to Face Session [LAN008C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11215&month=11&year=2026#calendar_event_69826
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261104T113500Z
 UID:event-calendar-event-73623
 DTSTART:20261124T180000Z
@@ -2341,6 +2329,18 @@ SEQUENCE:0
 SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_73623
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T093800Z
+UID:event-calendar-event-69826
+DTSTART:20261124T180000Z
+DTEND:20261124T193000Z
+CLASS:PUBLIC
+LOCATION:A-A0-02
+SEQUENCE:0
+SUMMARY:Self-Study / Check with your professor [LAN008C]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11215&month=11&year=2026#calendar_event_69826
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -2507,18 +2507,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=12&year=2026#calendar_event_68356
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-69827
-DTSTART:20261201T180000Z
-DTEND:20261201T193000Z
-CLASS:PUBLIC
-LOCATION:A-A0-02
-SEQUENCE:0
-SUMMARY:Face to Face Session [LAN008C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11215&month=12&year=2026#calendar_event_69827
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261116T185700Z
 UID:event-calendar-event-68383
 DTSTART:20261201T180000Z
@@ -2529,6 +2517,18 @@ SEQUENCE:0
 SUMMARY:LAW206F | Lecture | Droit Civil [LAW206F]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=12&year=2026#calendar_event_68383
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T093800Z
+UID:event-calendar-event-69827
+DTSTART:20261201T180000Z
+DTEND:20261201T193000Z
+CLASS:PUBLIC
+LOCATION:A-A0-02
+SEQUENCE:0
+SUMMARY:Self-Study / Check with your professor [LAN008C]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11215&month=12&year=2026#calendar_event_69827
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -3131,14 +3131,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=11&year=2026#calendar_event_68385
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261117T093900Z
 UID:event-calendar-event-69897
 DTSTART:20261125T180000Z
 DTEND:20261125T193000Z
 CLASS:PUBLIC
 LOCATION:A-A0-02
 SEQUENCE:0
-SUMMARY:Face to Face Session [LAN108P]
+SUMMARY:Self-Study / Check with your professor [LAN108P]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11216&month=11&year=2026#calendar_event_69897
 END:VEVENT
@@ -3292,14 +3292,14 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=12&year=2026#calendar_event_68386
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261117T093900Z
 UID:event-calendar-event-69898
 DTSTART:20261202T180000Z
 DTEND:20261202T193000Z
 CLASS:PUBLIC
 LOCATION:A-A0-02
 SEQUENCE:0
-SUMMARY:Face to Face Session [LAN108P]
+SUMMARY:Self-Study / Check with your professor [LAN108P]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11216&month=12&year=2026#calendar_event_69898
 END:VEVENT
@@ -4035,15 +4035,27 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10726&month=11&year=2026#calendar_event_68121
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261115T154800Z
+DTSTAMP:20261117T120000Z
 UID:event-assignment-36926
 DTSTART:20261122T230000Z
 DTEND:20261122T230000Z
 CLASS:PUBLIC
+DESCRIPTION:[DL_L3_Nov_2026.pdf] (https://um6p.instructure.com/courses/1074
+ 5/files/979674?wrap=1)\n\nSe répartir en groupes de 4 étudiants\, discut
+ er collectivement du sujet\, puis rédiger une réponse commune au devoir 
+ libre.
 SEQUENCE:0
 SUMMARY:Devoir Libre [DAT203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10745&month=11&year=2026#assignment_36926
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="DL_L3_Nov_2026.pdf" href="https://um6
+ p.instructure.com/courses/10745/files/979674?wrap=1" target="_blank" data-
+ canvas-previewable="false" data-api-endpoint="https://um6p.instructure.com
+ /api/v1/courses/10745/files/979674" data-api-returntype="File">DL_L3_Nov_2
+ 026.pdf</a></p>\n<p><span>Se répartir en groupes de 4 étudiants\, discut
+ er collectivement du sujet\, puis rédiger une réponse commune au devoir 
+ libre.</span></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
