@@ -3,19 +3,6 @@ VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68582
-DTSTART:20261019T093000Z
-DTEND:20261019T123000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-A1-02) / Groupe 2 (A-E1-03)
-SEQUENCE:0
-SUMMARY:POL201 |  Mid-Term exam| Institutions Politiques Marocaines(Groupe 
- 1\, Groupe 2) [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=10&year=2026#calendar_event_68582
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68221
 DTSTART:20261019T164500Z
 DTEND:20261019T194500Z
@@ -1027,19 +1014,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Chères étudiantes\, chers étudiants\,</p
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68582
-DTSTART:20261019T093000Z
-DTEND:20261019T123000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-A1-02) / Groupe 2 (A-E1-03)
-SEQUENCE:0
-SUMMARY:POL201 |  Mid-Term exam| Institutions Politiques Marocaines(Groupe 
- 1\, Groupe 2) [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=10&year=2026#calendar_event_68582
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68435
 DTSTART:20261020T100000Z
 DTEND:20261020T120000Z
@@ -1736,19 +1710,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68582
-DTSTART:20261019T093000Z
-DTEND:20261019T123000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-A1-02) / Groupe 2 (A-E1-03)
-SEQUENCE:0
-SUMMARY:POL201 |  Mid-Term exam| Institutions Politiques Marocaines(Groupe 
- 1\, Groupe 2) [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=10&year=2026#calendar_event_68582
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68071
 DTSTART:20261019T133000Z
 DTEND:20261019T163000Z
@@ -2091,7 +2052,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=11&year=2026#calendar_event_68396
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261031T230000Z
+DTSTAMP:20261118T115500Z
 UID:event-assignment-36092
 DTSTART:20261112T225900Z
 DTEND:20261112T225900Z
@@ -2517,19 +2478,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68582
-DTSTART:20261019T093000Z
-DTEND:20261019T123000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-A1-02) / Groupe 2 (A-E1-03)
-SEQUENCE:0
-SUMMARY:POL201 |  Mid-Term exam| Institutions Politiques Marocaines(Groupe 
- 1\, Groupe 2) [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=10&year=2026#calendar_event_68582
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68435
 DTSTART:20261020T100000Z
 DTEND:20261020T120000Z
@@ -2870,7 +2818,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=11&year=2026#calendar_event_68164
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261101T230000Z
+DTSTAMP:20261118T120300Z
 UID:event-assignment-36093
 DTSTART:20261113T225900Z
 DTEND:20261113T225900Z
@@ -3290,33 +3238,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67425
-DTSTART:20261019T090000Z
-DTEND:20261019T120000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-H0-02) / Groupe 2 (A-H0-03) / Groupe 3 (A-G1-01) / Gro
- upe 4 (A-F0-02) / Groupe 5 (A-C1-12)
-SEQUENCE:0
-SUMMARY:DAT203 | Mid-Term exam | Mathématiques et Optimisation(Groupe 1\, 
- Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5) [DAT203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10745&month=10&year=2026#calendar_event_67425
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261115T154800Z
-UID:event-assignment-36925
-DTSTART:20261019T090000Z
-DTEND:20261019T090000Z
-CLASS:PUBLIC
-DESCRIPTION:
-SEQUENCE:0
-SUMMARY:Examen Mi-parcours [DAT203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10745&month=10&year=2026#assignment_36925
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68113
 DTSTART:20261019T133000Z
 DTEND:20261019T153000Z
@@ -3696,7 +3617,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T134500Z
+DTSTAMP:20261118T121700Z
 UID:event-assignment-36574
 DTSTART:20261105T094500Z
 DTEND:20261105T094500Z
@@ -4189,22 +4110,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68334
-DTSTART:20261019T090000Z
-DTEND:20261019T120000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (B-H1-01) / Groupe 2 (B-C1-01) / Groupe 3 (B-C1-02) / Gro
- upe 4 (B-F0-01) / Groupe 5 (B-F0-02) / Groupe 6 (B-H0-01) / Groupe 7 (B-H0
- -02) / Groupe 8 (B-I0-01)
-SEQUENCE:0
-SUMMARY:LAW101 | Mid-Term exam | Introduction à l'Etude du Droit(Groupe 1\
- , Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6\, Groupe 7\, Groupe
-  8) [LAW101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10742&month=10&year=2026#calendar_event_68334
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -6182,19 +6087,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Chères étudiantes\, chers étudiants\,</p
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68582
-DTSTART:20261019T093000Z
-DTEND:20261019T123000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-A1-02) / Groupe 2 (A-E1-03)
-SEQUENCE:0
-SUMMARY:POL201 |  Mid-Term exam| Institutions Politiques Marocaines(Groupe 
- 1\, Groupe 2) [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=10&year=2026#calendar_event_68582
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68612
 DTSTART:20261020T090000Z
 DTEND:20261020T120000Z
@@ -7010,19 +6902,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68582
-DTSTART:20261019T093000Z
-DTEND:20261019T123000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-A1-02) / Groupe 2 (A-E1-03)
-SEQUENCE:0
-SUMMARY:POL201 |  Mid-Term exam| Institutions Politiques Marocaines(Groupe 
- 1\, Groupe 2) [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=10&year=2026#calendar_event_68582
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68435
 DTSTART:20261020T100000Z
 DTEND:20261020T120000Z
@@ -7633,22 +7512,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68334
-DTSTART:20261019T090000Z
-DTEND:20261019T120000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (B-H1-01) / Groupe 2 (B-C1-01) / Groupe 3 (B-C1-02) / Gro
- upe 4 (B-F0-01) / Groupe 5 (B-F0-02) / Groupe 6 (B-H0-01) / Groupe 7 (B-H0
- -02) / Groupe 8 (B-I0-01)
-SEQUENCE:0
-SUMMARY:LAW101 | Mid-Term exam | Introduction à l'Etude du Droit(Groupe 1\
- , Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6\, Groupe 7\, Groupe
-  8) [LAW101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10742&month=10&year=2026#calendar_event_68334
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
