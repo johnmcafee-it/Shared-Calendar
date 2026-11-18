@@ -3,19 +3,6 @@ VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68221
-DTSTART:20261019T164500Z
-DTEND:20261019T194500Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-G1-03) / Groupe 2 (A-G1-02) / Groupe 3 (A-F0-02)
-SEQUENCE:0
-SUMMARY:INT202 | Midterm exam | Theories of International Relations(Groupe 
- 1\, Groupe 2\, Groupe 3) [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=10&year=2026#calendar_event_68221
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68349
 DTSTART:20261020T133000Z
 DTEND:20261020T153000Z
@@ -1710,19 +1697,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68071
-DTSTART:20261019T133000Z
-DTEND:20261019T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:INT001E | Midterm exam | Area Studies\, Geopolitics\, and Global Af
- fairs [INT001ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10723&month=10&year=2026#calendar_event_68071
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68435
 DTSTART:20261020T100000Z
 DTEND:20261020T120000Z
@@ -3238,31 +3212,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68113
-DTSTART:20261019T133000Z
-DTEND:20261019T153000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-K0-01
-SEQUENCE:0
-SUMMARY:INT005E | Lecture | Multilateral Organization and Global Challenges
- : Threat and Opportunity [INT005ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10726&month=10&year=2026#calendar_event_68113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-69107
-DTSTART:20261019T164500Z
-DTEND:20261019T184500Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO201 | Laboratory | Microéconomie 1 [ECO201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10746&month=10&year=2026#calendar_event_69107
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67664
 DTSTART:20261020T090000Z
 DTEND:20261020T120000Z
@@ -4110,22 +4059,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68749
-DTSTART:20261019T133000Z
-DTEND:20261019T163000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (B-H1-01) / Groupe 2 (B-C1-01) / Groupe 3 (B-C1-02) / Gro
- upe 4 (B-F0-01) / Groupe 5 (B-F0-02) / Groupe 6 (B-H0-01) / Groupe 7 (B-H0
- -02) / Groupe 8 (B-I0-01)
-SEQUENCE:0
-SUMMARY:RES101 | Mid-Term exam | Méthodes d'Apprentissage Appliquées(Grou
- pe 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6\, Groupe 7\, G
- roupe 8) [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=10&year=2026#calendar_event_68749
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261020T110000Z
@@ -5302,32 +5235,6 @@ SEQUENCE:0
 SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67694
-DTSTART:20261019T133000Z
-DTEND:20261019T153000Z
-CLASS:PUBLIC
-LOCATION:Groupe1 (A-G1-02) / Groupe 2 ( A-G1-01)
-SEQUENCE:0
-SUMMARY:ECO222 | Midterm exam | Introduction à l'Économie du Développeme
- nt(Groupe 1\, Groupe 2) [ECO222]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10707&month=10&year=2026#calendar_event_67694
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68221
-DTSTART:20261019T164500Z
-DTEND:20261019T194500Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-G1-03) / Groupe 2 (A-G1-02) / Groupe 3 (A-F0-02)
-SEQUENCE:0
-SUMMARY:INT202 | Midterm exam | Theories of International Relations(Groupe 
- 1\, Groupe 2\, Groupe 3) [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=10&year=2026#calendar_event_68221
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -6585,6 +6492,19 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68353
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261118T155400Z
+UID:event-calendar-event-73805
+DTSTART:20261119T090000Z
+DTEND:20261119T120000Z
+CLASS:PUBLIC
+LOCATION:Building B - Room: B-B0-02
+SEQUENCE:0
+SUMMARY:Event POL212 | Lecture | Systèmes Politiques Comparés et Philosop
+ hie Politique [POL212]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10770&month=11&year=2026#calendar_event_73805
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68165
 DTSTART:20261119T150000Z
@@ -7512,22 +7432,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68749
-DTSTART:20261019T133000Z
-DTEND:20261019T163000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (B-H1-01) / Groupe 2 (B-C1-01) / Groupe 3 (B-C1-02) / Gro
- upe 4 (B-F0-01) / Groupe 5 (B-F0-02) / Groupe 6 (B-H0-01) / Groupe 7 (B-H0
- -02) / Groupe 8 (B-I0-01)
-SEQUENCE:0
-SUMMARY:RES101 | Mid-Term exam | Méthodes d'Apprentissage Appliquées(Grou
- pe 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6\, Groupe 7\, G
- roupe 8) [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=10&year=2026#calendar_event_68749
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261020T110000Z
