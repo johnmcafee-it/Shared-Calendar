@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20261015T091300Z
-UID:event-assignment-36122
-DTSTART:20261018T225900Z
-DTEND:20261018T225900Z
-CLASS:PUBLIC
-DESCRIPTION:Merci de mettre une page de garde avec noms et prénoms des con
- tributeurs. Travail déposé en format PDF.
-SEQUENCE:0
-SUMMARY:Devoir 1 [POL203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10757&month=10&year=2026#assignment_36122
-X-ALT-DESC;FMTTYPE=text/html:<p>Merci de mettre une page de garde avec noms
-  et prénoms des contributeurs. Travail déposé en format PDF.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261007T162200Z
-UID:event-assignment-35338
-DTSTART:20261018T225900Z
-DTEND:20261018T225900Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Quiz test 29/09 2026-2027 Copier Copier- Requires Respondus LockDow
- n Browser [RLDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_35338
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68582
 DTSTART:20261019T093000Z
@@ -1053,18 +1026,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Chères étudiantes\, chers étudiants\,</p
  droit de questionner les auteurs du devoir.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261007T162200Z
-UID:event-assignment-35338
-DTSTART:20261018T225900Z
-DTEND:20261018T225900Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Quiz test 29/09 2026-2027 Copier Copier- Requires Respondus LockDow
- n Browser [RLDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_35338
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68582
 DTSTART:20261019T093000Z
@@ -1772,18 +1733,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261007T162200Z
-UID:event-assignment-35338
-DTSTART:20261018T225900Z
-DTEND:20261018T225900Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Quiz test 29/09 2026-2027 Copier Copier- Requires Respondus LockDow
- n Browser [RLDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_35338
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -2567,18 +2516,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261007T162200Z
-UID:event-assignment-35338
-DTSTART:20261018T225900Z
-DTEND:20261018T225900Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Quiz test 29/09 2026-2027 Copier Copier- Requires Respondus LockDow
- n Browser [RLDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_35338
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68582
 DTSTART:20261019T093000Z
@@ -3350,18 +3287,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261007T162200Z
-UID:event-assignment-35338
-DTSTART:20261018T225900Z
-DTEND:20261018T225900Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Quiz test 29/09 2026-2027 Copier Copier- Requires Respondus LockDow
- n Browser [RLDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_35338
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -4264,18 +4189,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261007T162200Z
-UID:event-assignment-35338
-DTSTART:20261018T225900Z
-DTEND:20261018T225900Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Quiz test 29/09 2026-2027 Copier Copier- Requires Respondus LockDow
- n Browser [RLDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_35338
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -5486,18 +5399,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261007T162200Z
-UID:event-assignment-35338
-DTSTART:20261018T225900Z
-DTEND:20261018T225900Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Quiz test 29/09 2026-2027 Copier Copier- Requires Respondus LockDow
- n Browser [RLDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_35338
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67694
 DTSTART:20261019T133000Z
@@ -6278,33 +6179,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Chères étudiantes\, chers étudiants\,</p
  par IA supérieur à&nbsp\;<strong>16 %</strong>&nbsp\;du document entraî
  nera un entretien avec l’enseignant de la matière qui se réservera le 
  droit de questionner les auteurs du devoir.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261015T091300Z
-UID:event-assignment-36122
-DTSTART:20261018T225900Z
-DTEND:20261018T225900Z
-CLASS:PUBLIC
-DESCRIPTION:Merci de mettre une page de garde avec noms et prénoms des con
- tributeurs. Travail déposé en format PDF.
-SEQUENCE:0
-SUMMARY:Devoir 1 [POL203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10757&month=10&year=2026#assignment_36122
-X-ALT-DESC;FMTTYPE=text/html:<p>Merci de mettre une page de garde avec noms
-  et prénoms des contributeurs. Travail déposé en format PDF.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261007T162200Z
-UID:event-assignment-35338
-DTSTART:20261018T225900Z
-DTEND:20261018T225900Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Quiz test 29/09 2026-2027 Copier Copier- Requires Respondus LockDow
- n Browser [RLDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_35338
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -7135,18 +7009,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261007T162200Z
-UID:event-assignment-35338
-DTSTART:20261018T225900Z
-DTEND:20261018T225900Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Quiz test 29/09 2026-2027 Copier Copier- Requires Respondus LockDow
- n Browser [RLDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_35338
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68582
 DTSTART:20261019T093000Z
@@ -7771,18 +7633,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261007T162200Z
-UID:event-assignment-35338
-DTSTART:20261018T225900Z
-DTEND:20261018T225900Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Quiz test 29/09 2026-2027 Copier Copier- Requires Respondus LockDow
- n Browser [RLDB103]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _7133&month=10&year=2026#assignment_35338
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
