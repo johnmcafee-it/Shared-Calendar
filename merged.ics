@@ -8169,14 +8169,16 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10738&month=11&year=2026#calendar_event_67368
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261118T211600Z
 UID:event-calendar-event-67369
 DTSTART:20261119T104500Z
 DTEND:20261119T113000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Groupe 1: Building B - Room: B-K0-01 / Groupe 2: Building B - Room
+ : B-K0-02 / Groupe 3 : Building B - Room: B-K1-01 / Groupe 4 : Building B 
+ - Room: B-K1-02
 SEQUENCE:0
-SUMMARY:DAT104 | Q&A | Statistiques Descriptives et Probabilités [DAT104]
+SUMMARY:DAT104 | Quiz | Statistiques Descriptives et Probabilités [DAT104]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10738&month=11&year=2026#calendar_event_67369
 END:VEVENT
