@@ -3077,18 +3077,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-69109
-DTSTART:20261021T180000Z
-DTEND:20261021T200000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
-SEQUENCE:0
-SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10746&month=10&year=2026#calendar_event_69109
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67604
 DTSTART:20261022T090000Z
 DTEND:20261022T110000Z
@@ -3618,6 +3606,19 @@ SEQUENCE:0
 SUMMARY:ECO203 | Lecture | Econometrics 1 [ECO203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10748&month=11&year=2026#calendar_event_67608
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261120T181800Z
+UID:event-assignment-37045
+DTSTART:20261119T110000Z
+DTEND:20261119T110000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:I am here - Nov 19th [ECO203]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10748&month=11&year=2026#assignment_37045
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
