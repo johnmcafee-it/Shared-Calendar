@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68206
-DTSTART:20261022T150000Z
-DTEND:20261022T160000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-E1-01) / Groupe 2 (A-G1-02)
-SEQUENCE:0
-SUMMARY:INT201 | Mid-Term exam | Foreign Policy Analysis(Groupe 1\, Groupe 
- 2) [INT201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10710&month=10&year=2026#calendar_event_68206
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261109T183400Z
-UID:event-assignment-34033
-DTSTART:20261022T163000Z
-DTEND:20261022T163000Z
-CLASS:PUBLIC
-DESCRIPTION:
-SEQUENCE:0
-SUMMARY:INT 201 Mid Term Test - Requires Respondus LockDown Browser [INT201
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10710&month=10&year=2026#assignment_34033
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261022T031600Z
 UID:event-assignment-36343
 DTSTART;VALUE=DATE;VALUE=DATE:20261022
@@ -908,19 +881,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Chères étudiantes\, chers étudiants\,</p
  droit de questionner les auteurs du devoir.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67541
-DTSTART:20261022T150000Z
-DTEND:20261022T170000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
- n [ECO003ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10720&month=10&year=2026#calendar_event_67541
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261022T031600Z
 UID:event-assignment-36343
 DTSTART;VALUE=DATE;VALUE=DATE:20261022
@@ -1540,19 +1500,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68074
-DTSTART:20261022T170000Z
-DTEND:20261022T200000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-02
-SEQUENCE:0
-SUMMARY:INT001E | Lecture | Area Studies\, Geopolitics\, and Global Affairs
-  [INT001ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10723&month=10&year=2026#calendar_event_68074
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261022T031600Z
@@ -2247,19 +2194,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68161
-DTSTART:20261022T150000Z
-DTEND:20261022T170000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A1-02
-SEQUENCE:0
-SUMMARY:INT012E | Midterm exam | Emerging Global Security Governance [INT01
- 2ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10729&month=10&year=2026#calendar_event_68161
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261022T031600Z
 UID:event-assignment-36343
 DTSTART;VALUE=DATE;VALUE=DATE:20261022
@@ -2945,19 +2879,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68116
-DTSTART:20261022T180000Z
-DTEND:20261022T200000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-K0-02
-SEQUENCE:0
-SUMMARY:INT005E | Lecture | Multilateral Organization and Global Challenges
- : Threat and Opportunity [INT005ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10726&month=10&year=2026#calendar_event_68116
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261022T031600Z
 UID:event-assignment-36343
 DTSTART;VALUE=DATE;VALUE=DATE:20261022
@@ -3596,18 +3517,6 @@ SEQUENCE:0
 SUMMARY:ECO202 | Q&A | Macroéconomie 1 [ECO202]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10747&month=11&year=2026#calendar_event_67595
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67609
-DTSTART:20261126T090000Z
-DTEND:20261126T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:ECO203 | Laboratory | Econometrics 1 [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=11&year=2026#calendar_event_67609
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -4849,33 +4758,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68206
-DTSTART:20261022T150000Z
-DTEND:20261022T160000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-E1-01) / Groupe 2 (A-G1-02)
-SEQUENCE:0
-SUMMARY:INT201 | Mid-Term exam | Foreign Policy Analysis(Groupe 1\, Groupe 
- 2) [INT201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10710&month=10&year=2026#calendar_event_68206
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261109T183400Z
-UID:event-assignment-34033
-DTSTART:20261022T163000Z
-DTEND:20261022T163000Z
-CLASS:PUBLIC
-DESCRIPTION:
-SEQUENCE:0
-SUMMARY:INT 201 Mid Term Test - Requires Respondus LockDown Browser [INT201
- ]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10710&month=10&year=2026#assignment_34033
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261022T031600Z
 UID:event-assignment-36343
 DTSTART;VALUE=DATE;VALUE=DATE:20261022
@@ -5499,19 +5381,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Chères étudiantes\, chers étudiants\,</p
  par IA supérieur à&nbsp\;<strong>16 %</strong>&nbsp\;du document entraî
  nera un entretien avec l’enseignant de la matière qui se réservera le 
  droit de questionner les auteurs du devoir.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68161
-DTSTART:20261022T150000Z
-DTEND:20261022T170000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A1-02
-SEQUENCE:0
-SUMMARY:INT012E | Midterm exam | Emerging Global Security Governance [INT01
- 2ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10729&month=10&year=2026#calendar_event_68161
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261022T031600Z
@@ -6300,19 +6169,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67541
-DTSTART:20261022T150000Z
-DTEND:20261022T170000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-F0-01
-SEQUENCE:0
-SUMMARY:ECO003E | Lecture | Marché des Capitaux: Techniques et Organisatio
- n [ECO003ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10720&month=10&year=2026#calendar_event_67541
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261022T031600Z
