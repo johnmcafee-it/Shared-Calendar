@@ -3,32 +3,6 @@ VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67634
-DTSTART:20261022T090000Z
-DTEND:20261022T110000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-E1-01) / Groupe 2 (A-H0-03) / Groupe 3 (A-G1-03)
-SEQUENCE:0
-SUMMARY:ECO214 | Midterm exam | Théorie des Jeux: Approche Stratégique(Gr
- oupe 1\, Groupe 2\, Groupe 3) [ECO214]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=10&year=2026#calendar_event_67634
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261120T112900Z
-UID:event-assignment-37043
-DTSTART:20261022T120000Z
-DTEND:20261022T120000Z
-CLASS:PUBLIC
-DESCRIPTION:
-SEQUENCE:0
-SUMMARY:Midterm [ECO214]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=10&year=2026#assignment_37043
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68206
 DTSTART:20261022T150000Z
 DTEND:20261022T160000Z
@@ -39,71 +13,6 @@ SUMMARY:INT201 | Mid-Term exam | Foreign Policy Analysis(Groupe 1\, Groupe
  2) [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=10&year=2026#calendar_event_68206
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261020T124500Z
-UID:event-assignment-34035
-DTSTART:20261022T150000Z
-DTEND:20261022T150000Z
-CLASS:PUBLIC
-DESCRIPTION:Points\n\n100\n\nThe Mid-Term Test will count 30% towards your 
- final mark.\n\nDate: Tuesday\, 22 October (during your scheduled class tim
- e)\nContent: The test will cover material from Lectures 1 to 5.\nFormat: T
- he test will consist of multiple-choice questions\, completed online via C
- anvas using Respondus LockDown Browser.\nDuration: You will have 1 hour to
-  complete the test.\n\nAcademic Integrity\n------------------\n\nAll stude
- nts are expected to adhere to the highest standards of academic honesty.\n
- \n*\n\nAny instance of academic misconduct—including cheating\, plagiari
- sm\, or the use of AI tools—will result in:\n\n*\n\nA grade of zero (0) 
- on the test.\n\n*\n\nA formal report submitted to the school’s disciplin
- ary committee.\n\n 
-SEQUENCE:0
-SUMMARY:Mid-Term Test  - 22 October\, 3pm [INT201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10710&month=10&year=2026#assignment_34035
-X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-v
- ersion">\n<table style="width: 40.3485%\; height: 121px\;">\n<tbody>\n<tr 
- style="height: 20px\;">\n<td style="width: 77.7409%\; height: 20px\;" widt
- h="468"></td>\n<td style="width: 22.093%\; height: 20px\;" width="133"></t
- d>\n</tr>\n<tr style="height: 20px\;">\n<td style="width: 77.7409%\; heigh
- t: 20px\;" width="468"></td>\n<td style="width: 22.093%\; height: 20px\;" 
- width="133"></td>\n</tr>\n<tr style="height: 20px\;">\n<td style="width: 7
- 7.7409%\; height: 20px\;" width="468"></td>\n<td style="width: 22.093%\; h
- eight: 20px\;" width="133"></td>\n</tr>\n<tr style="height: 20px\;">\n<td 
- style="width: 77.7409%\; height: 20px\;" width="468"></td>\n<td style="wid
- th: 22.093%\; height: 20px\;" width="133"></td>\n</tr>\n<tr style="height:
-  20px\;">\n<td style="width: 77.7409%\; height: 20px\;" width="468"></td>\
- n<td style="width: 22.093%\; height: 20px\;" width="133"></td>\n</tr>\n<tr
-  style="height: 21px\;">\n<td style="width: 77.7409%\; height: 21px\;" wid
- th="468"></td>\n<td style="width: 22.093%\; height: 21px\;" width="133"></
- td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class="control-group">\n<div 
- class="control-label">Points</div>\n<div class="controls"><span class="val
- ue points_possible">100</span></div>\n</div>\n<p><strong>The Mid-Term Test
-  will count 30% towards your final mark.</strong></p>\n<p data-start="148"
-  data-end="491"><strong data-start="148" data-end="157">Date:</strong> Tue
- sday\, 22 October (during your scheduled class time)<br data-start="220" d
- ata-end="223"><strong data-start="223" data-end="235">Content:</strong> Th
- e test will cover material from <strong data-start="270" data-end="289">Le
- ctures 1 to 5</strong>.<br data-start="290" data-end="293"><strong data-st
- art="293" data-end="304">Format:</strong> The test will consist of <strong
-  data-start="330" data-end="359">multiple-choice questions</strong>\, comp
- leted online via Canvas using <strong data-start="395" data-end="425">Resp
- ondus LockDown Browser</strong>.<br data-start="426" data-end="429"><stron
- g data-start="429" data-end="442" data-is-only-node="">Duration:</strong> 
- You will have <strong data-start="457" data-end="467">1 hour</strong> to c
- omplete the test.</p>\n<h3 data-start="493" data-end="517">Academic Integr
- ity</h3>\n<p data-start="518" data-end="601">All students are expected to 
- adhere to the highest standards of academic honesty.</p>\n<ul data-start="
- 602" data-end="831">\n<li data-start="602" data-end="831">\n<p data-start=
- "604" data-end="716">Any instance of academic misconduct—including <stro
- ng data-start="650" data-end="698">cheating\, plagiarism\, or the use of A
- I tools</strong>—will result in:</p>\n<ul data-start="719" data-end="831
- ">\n<li data-start="719" data-end="759">\n<p data-start="721" data-end="75
- 9">A grade of <strong data-start="732" data-end="744">zero (0)</strong> on
-  the test.</p>\n</li>\n<li data-start="762" data-end="831">\n<p data-start
- ="764" data-end="831">A formal report submitted to the school’s discipli
- nary committee.</p>\n</li>\n</ul>\n</li>\n</ul>\n<p data-start="833" data-
- end="903">&nbsp\;</p>\n<p><br><br></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T183400Z
@@ -128,6 +37,17 @@ SEQUENCE:0
 SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=10&year=2026#assignment_36343
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261121T144200Z
+UID:event-assignment-37047
+DTSTART:20261023T133000Z
+DTEND:20261023T133000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Examen MP [POL203]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10757&month=10&year=2026#assignment_37047
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -989,19 +909,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Chères étudiantes\, chers étudiants\,</p
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68393
-DTSTART:20261022T090000Z
-DTEND:20261022T120000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-02
-SEQUENCE:0
-SUMMARY:LAW208 | Midterm exam | Legal Practice Laboratory I (Public law) [L
- AW208]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=10&year=2026#calendar_event_68393
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67541
 DTSTART:20261022T150000Z
 DTEND:20261022T170000Z
@@ -1633,19 +1540,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68393
-DTSTART:20261022T090000Z
-DTEND:20261022T120000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-02
-SEQUENCE:0
-SUMMARY:LAW208 | Midterm exam | Legal Practice Laboratory I (Public law) [L
- AW208]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=10&year=2026#calendar_event_68393
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -2354,31 +2248,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68393
-DTSTART:20261022T090000Z
-DTEND:20261022T120000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-02
-SEQUENCE:0
-SUMMARY:LAW208 | Midterm exam | Legal Practice Laboratory I (Public law) [L
- AW208]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=10&year=2026#calendar_event_68393
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-72510
-DTSTART:20261022T131500Z
-DTEND:20261022T144500Z
-CLASS:PUBLIC
-LOCATION:A-G1-02 / A-G1-03
-SEQUENCE:0
-SUMMARY:Mid-term Exam [LAN108P]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11216&month=10&year=2026#calendar_event_72510
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68161
 DTSTART:20261022T150000Z
 DTEND:20261022T170000Z
@@ -3077,31 +2946,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67604
-DTSTART:20261022T090000Z
-DTEND:20261022T110000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-G1-02) / Groupe 2 (A-E1-03) / Groupe 3 (A-F0-02)
-SEQUENCE:0
-SUMMARY:ECO203 | Midterm exam | Econometrics 1(Groupe 1\, Groupe 2\, Groupe
-  3) [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=10&year=2026#calendar_event_67604
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261106T103600Z
-UID:event-assignment-36199
-DTSTART:20261022T111000Z
-DTEND:20261022T111000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Mid-Term Exam — Econometrics I- Requires Respondus LockDown Brows
- er [ECO203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10748&month=10&year=2026#assignment_36199
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68116
 DTSTART:20261022T180000Z
 DTEND:20261022T200000Z
@@ -3307,6 +3151,17 @@ SUMMARY:ECO202 | Midterm exam | Macroéconomie 1(Groupe 1\, Groupe 2\, Grou
  pe 3) [ECO202]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10747&month=10&year=2026#calendar_event_67590
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261121T135700Z
+UID:event-assignment-37046
+DTSTART:20261028T090000Z
+DTEND:20261028T090000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Examen MP [ECO202]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10747&month=10&year=2026#assignment_37046
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -3532,7 +3387,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10726&month=11&year=2026#calendar_event_73558
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261110T153300Z
+DTSTAMP:20261121T081400Z
 UID:event-assignment-36754
 DTSTART;VALUE=DATE;VALUE=DATE:20261112
 CLASS:PUBLIC
@@ -3900,19 +3755,6 @@ SEQUENCE:0
 SUMMARY:ECO201 | Lecture | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67380
-DTSTART:20261022T090000Z
-DTEND:20261022T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A1-02
-SEQUENCE:0
-SUMMARY:DAT107 | Mid-Term exam | Introduction to Statistics For Social Scie
- nces  [DAT107]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10739&month=10&year=2026#calendar_event_67380
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261022T031600Z
@@ -5008,32 +4850,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67634
-DTSTART:20261022T090000Z
-DTEND:20261022T110000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-E1-01) / Groupe 2 (A-H0-03) / Groupe 3 (A-G1-03)
-SEQUENCE:0
-SUMMARY:ECO214 | Midterm exam | Théorie des Jeux: Approche Stratégique(Gr
- oupe 1\, Groupe 2\, Groupe 3) [ECO214]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=10&year=2026#calendar_event_67634
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261120T112900Z
-UID:event-assignment-37043
-DTSTART:20261022T120000Z
-DTEND:20261022T120000Z
-CLASS:PUBLIC
-DESCRIPTION:
-SEQUENCE:0
-SUMMARY:Midterm [ECO214]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=10&year=2026#assignment_37043
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68206
 DTSTART:20261022T150000Z
 DTEND:20261022T160000Z
@@ -5044,71 +4860,6 @@ SUMMARY:INT201 | Mid-Term exam | Foreign Policy Analysis(Groupe 1\, Groupe
  2) [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=10&year=2026#calendar_event_68206
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261020T124500Z
-UID:event-assignment-34035
-DTSTART:20261022T150000Z
-DTEND:20261022T150000Z
-CLASS:PUBLIC
-DESCRIPTION:Points\n\n100\n\nThe Mid-Term Test will count 30% towards your 
- final mark.\n\nDate: Tuesday\, 22 October (during your scheduled class tim
- e)\nContent: The test will cover material from Lectures 1 to 5.\nFormat: T
- he test will consist of multiple-choice questions\, completed online via C
- anvas using Respondus LockDown Browser.\nDuration: You will have 1 hour to
-  complete the test.\n\nAcademic Integrity\n------------------\n\nAll stude
- nts are expected to adhere to the highest standards of academic honesty.\n
- \n*\n\nAny instance of academic misconduct—including cheating\, plagiari
- sm\, or the use of AI tools—will result in:\n\n*\n\nA grade of zero (0) 
- on the test.\n\n*\n\nA formal report submitted to the school’s disciplin
- ary committee.\n\n 
-SEQUENCE:0
-SUMMARY:Mid-Term Test  - 22 October\, 3pm [INT201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10710&month=10&year=2026#assignment_34035
-X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-v
- ersion">\n<table style="width: 40.3485%\; height: 121px\;">\n<tbody>\n<tr 
- style="height: 20px\;">\n<td style="width: 77.7409%\; height: 20px\;" widt
- h="468"></td>\n<td style="width: 22.093%\; height: 20px\;" width="133"></t
- d>\n</tr>\n<tr style="height: 20px\;">\n<td style="width: 77.7409%\; heigh
- t: 20px\;" width="468"></td>\n<td style="width: 22.093%\; height: 20px\;" 
- width="133"></td>\n</tr>\n<tr style="height: 20px\;">\n<td style="width: 7
- 7.7409%\; height: 20px\;" width="468"></td>\n<td style="width: 22.093%\; h
- eight: 20px\;" width="133"></td>\n</tr>\n<tr style="height: 20px\;">\n<td 
- style="width: 77.7409%\; height: 20px\;" width="468"></td>\n<td style="wid
- th: 22.093%\; height: 20px\;" width="133"></td>\n</tr>\n<tr style="height:
-  20px\;">\n<td style="width: 77.7409%\; height: 20px\;" width="468"></td>\
- n<td style="width: 22.093%\; height: 20px\;" width="133"></td>\n</tr>\n<tr
-  style="height: 21px\;">\n<td style="width: 77.7409%\; height: 21px\;" wid
- th="468"></td>\n<td style="width: 22.093%\; height: 21px\;" width="133"></
- td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class="control-group">\n<div 
- class="control-label">Points</div>\n<div class="controls"><span class="val
- ue points_possible">100</span></div>\n</div>\n<p><strong>The Mid-Term Test
-  will count 30% towards your final mark.</strong></p>\n<p data-start="148"
-  data-end="491"><strong data-start="148" data-end="157">Date:</strong> Tue
- sday\, 22 October (during your scheduled class time)<br data-start="220" d
- ata-end="223"><strong data-start="223" data-end="235">Content:</strong> Th
- e test will cover material from <strong data-start="270" data-end="289">Le
- ctures 1 to 5</strong>.<br data-start="290" data-end="293"><strong data-st
- art="293" data-end="304">Format:</strong> The test will consist of <strong
-  data-start="330" data-end="359">multiple-choice questions</strong>\, comp
- leted online via Canvas using <strong data-start="395" data-end="425">Resp
- ondus LockDown Browser</strong>.<br data-start="426" data-end="429"><stron
- g data-start="429" data-end="442" data-is-only-node="">Duration:</strong> 
- You will have <strong data-start="457" data-end="467">1 hour</strong> to c
- omplete the test.</p>\n<h3 data-start="493" data-end="517">Academic Integr
- ity</h3>\n<p data-start="518" data-end="601">All students are expected to 
- adhere to the highest standards of academic honesty.</p>\n<ul data-start="
- 602" data-end="831">\n<li data-start="602" data-end="831">\n<p data-start=
- "604" data-end="716">Any instance of academic misconduct—including <stro
- ng data-start="650" data-end="698">cheating\, plagiarism\, or the use of A
- I tools</strong>—will result in:</p>\n<ul data-start="719" data-end="831
- ">\n<li data-start="719" data-end="759">\n<p data-start="721" data-end="75
- 9">A grade of <strong data-start="732" data-end="744">zero (0)</strong> on
-  the test.</p>\n</li>\n<li data-start="762" data-end="831">\n<p data-start
- ="764" data-end="831">A formal report submitted to the school’s discipli
- nary committee.</p>\n</li>\n</ul>\n</li>\n</ul>\n<p data-start="833" data-
- end="903">&nbsp\;</p>\n<p><br><br></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T183400Z
@@ -5771,6 +5522,17 @@ SEQUENCE:0
 SUMMARY:New quiz test- Requires Respondus LockDown Browser [RLDB103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _7133&month=10&year=2026#assignment_36343
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261121T144200Z
+UID:event-assignment-37047
+DTSTART:20261023T133000Z
+DTEND:20261023T133000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Examen MP [POL203]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10757&month=10&year=2026#assignment_37047
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -6541,19 +6303,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68393
-DTSTART:20261022T090000Z
-DTEND:20261022T120000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-02
-SEQUENCE:0
-SUMMARY:LAW208 | Midterm exam | Legal Practice Laboratory I (Public law) [L
- AW208]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10762&month=10&year=2026#calendar_event_68393
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67541
 DTSTART:20261022T150000Z
 DTEND:20261022T170000Z
@@ -7114,22 +6863,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67364
-DTSTART:20261022T090000Z
-DTEND:20261022T120000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (B-H1-01) / Groupe 2 (B-C1-01) / Groupe 3 (B-C1-02) / Gro
- upe 4 (B-F0-01) / Groupe 5 (B-F0-02) / Groupe 6 (B-H0-01) / Groupe 7 (B-I0
- -01)
-SEQUENCE:0
-SUMMARY:DAT104 | Mid-Term exam | Statistiques Descriptives et Probabilités
- (Groupe 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6\, Groupe 
- 7) [DAT104]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10738&month=10&year=2026#calendar_event_67364
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261022T031600Z
