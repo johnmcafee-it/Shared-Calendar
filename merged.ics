@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
-DTSTAMP:20261121T144200Z
-UID:event-assignment-37047
-DTSTART:20261023T133000Z
-DTEND:20261023T133000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Examen MP [POL203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10757&month=10&year=2026#assignment_37047
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68597
 DTSTART:20261023T143000Z
@@ -2839,18 +2828,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-73312
-DTSTART:20261023T100000Z
-DTEND:20261023T113000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-K0-01/Building B - Room: B-K0-02
-SEQUENCE:0
-SUMMARY:ECO201 | QUIZ | Microéconomie 1 [ECO201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10746&month=10&year=2026#calendar_event_73312
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261115T145800Z
 UID:event-assignment-override-6247
 DTSTART;VALUE=DATE;VALUE=DATE:20261025
@@ -5311,17 +5288,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Chères étudiantes\, chers étudiants\,</p
  par IA supérieur à&nbsp\;<strong>16 %</strong>&nbsp\;du document entraî
  nera un entretien avec l’enseignant de la matière qui se réservera le 
  droit de questionner les auteurs du devoir.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261121T144200Z
-UID:event-assignment-37047
-DTSTART:20261023T133000Z
-DTEND:20261023T133000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Examen MP [POL203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10757&month=10&year=2026#assignment_37047
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
