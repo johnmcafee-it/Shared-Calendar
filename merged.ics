@@ -3,19 +3,6 @@ VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68597
-DTSTART:20261023T143000Z
-DTEND:20261023T173000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-G1-02) / Groupe 2 (A-G1-01)
-SEQUENCE:0
-SUMMARY:POL203 | Midterm exam | Politique et Economie (Groupe 1\, Groupe 2)
-  [POL203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10757&month=10&year=2026#calendar_event_68597
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68222
 DTSTART:20261026T164500Z
 DTEND:20261026T184500Z
@@ -5288,19 +5275,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Chères étudiantes\, chers étudiants\,</p
  par IA supérieur à&nbsp\;<strong>16 %</strong>&nbsp\;du document entraî
  nera un entretien avec l’enseignant de la matière qui se réservera le 
  droit de questionner les auteurs du devoir.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68597
-DTSTART:20261023T143000Z
-DTEND:20261023T173000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-G1-02) / Groupe 2 (A-G1-01)
-SEQUENCE:0
-SUMMARY:POL203 | Midterm exam | Politique et Economie (Groupe 1\, Groupe 2)
-  [POL203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10757&month=10&year=2026#calendar_event_68597
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
