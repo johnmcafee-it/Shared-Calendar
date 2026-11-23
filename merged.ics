@@ -451,12 +451,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=11&year=2026#calendar_event_68587
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261120T150800Z
+DTSTAMP:20261123T115900Z
 UID:event-calendar-event-68226
 DTSTART:20261123T164500Z
 DTEND:20261123T184500Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: 	B-G0-01
+LOCATION:Building B - Room: B-B0-01 I Building B - Room: B-B0-02
 SEQUENCE:0
 SUMMARY:INT202 | Laboratory | Theories of International Relations [INT202]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -524,12 +524,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10705&month=11&year=2026#calendar_event_67641
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261029T154000Z
+DTSTAMP:20261123T115300Z
 UID:event-calendar-event-73542
 DTSTART:20261126T140000Z
 DTEND:20261126T150000Z
 CLASS:PUBLIC
-LOCATION:A-F0-01
+LOCATION:A-H0-01
 SEQUENCE:0
 SUMMARY:IELTS Workshop : Writing 2 [IELTS2627]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -627,12 +627,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=11&year=2026#calendar_event_68589
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261123T120000Z
 UID:event-calendar-event-68225
 DTSTART:20261130T164500Z
-DTEND:20261130T184500Z
+DTEND:20261130T194500Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
+LOCATION:Building B - Room: B-G0-01
 SEQUENCE:0
 SUMMARY:INT202 | Lecture | Theories of International Relations [INT202]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -1715,7 +1715,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10762&month=11&year=2026#calendar_event_68396
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261118T115500Z
+DTSTAMP:20261123T094500Z
 UID:event-assignment-36092
 DTSTART:20261112T225900Z
 DTEND:20261112T225900Z
@@ -2396,7 +2396,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=11&year=2026#calendar_event_68164
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261118T120300Z
+DTSTAMP:20261123T105800Z
 UID:event-assignment-36093
 DTSTART:20261113T225900Z
 DTEND:20261113T225900Z
@@ -4662,6 +4662,132 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261123T112100Z
+UID:event-assignment-37075
+DTSTART;VALUE=DATE;VALUE=DATE:20261206
+CLASS:PUBLIC
+DESCRIPTION:Bonjour à toutes et à tous\,\n\nVous trouverez ci-joint l'exe
+ rcice de compréhension écrite (pages 3 et 4) à réaliser et à rendre a
+ u plus tard le 6 décembre 2026.\n\nVeuillez respecter impérativement les
+  consignes suivantes :\n\n*\n\nFormat des devoirs : L'exercice doit être 
+ rédigé à la main. Aucun devoir au format Word ou généré à l'aide d'
+ outils numériques ne sera accepté.\n\n*\n\nModalités d'envoi : Les copi
+ es doivent être numérisées en un seul fichier PDF et déposées exclusi
+ vement sur Canvas.\n\nCordialement\,\n\nM. Zekri\n\n[نظرة على ال
+ مستقبل الوحدة كاملة 2026 2027-1.pdf] (https://um6p.instru
+ cture.com/courses/11196/files/982074?wrap=1)
+SEQUENCE:0
+SUMMARY:COMPREHENSION ECRITE التعليم والرقمنة  [LAN002]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11196&month=12&year=2026#assignment_37075
+X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr" data-path-to-node="2"><span>Bonjo
+ ur à toutes et à tous\,</span></p>\n<p dir="ltr" data-path-to-node="3"><
+ span>Vous trouverez ci-joint l'exercice de compréhension écrite (pages 3
+  et 4) à réaliser et à rendre au plus tard le 6 décembre 2026.</span><
+ /p>\n<p dir="ltr" data-path-to-node="4"><span>Veuillez respecter impérati
+ vement les consignes suivantes :</span></p>\n<ul dir="ltr" data-path-to-no
+ de="5">\n<li>\n<p dir="ltr" data-path-to-node="5\,0\,0"><strong data-path-
+ to-node="5\,0\,0" data-index-in-node="0">Format des devoirs :</strong><spa
+ n> L'exercice doit être rédigé à la main.</span><span> Aucun devoir au
+  format Word ou généré à l'aide d'outils numériques ne sera accepté.
+ </span></p>\n</li>\n<li>\n<p dir="ltr" data-path-to-node="5\,1\,0"><strong
+  data-path-to-node="5\,1\,0" data-index-in-node="0">Modalités d'envoi :</
+ strong><span> Les copies doivent être numérisées en un seul fichier PDF
+  et déposées exclusivement sur Canvas.</span></p>\n</li>\n</ul>\n<p dir=
+ "ltr" data-path-to-node="6"><span>Cordialement\,</span></p>\n<p dir="ltr" 
+ data-path-to-node="7"><span>M.</span><span> Zekri</span></p>\n<p dir="ltr"
+  data-path-to-node="1\,4"><a id="982074" class="instructure_file_link inst
+ ructure_scribd_file inline_disabled" title="Link" href="https://um6p.instr
+ ucture.com/courses/11196/files/982074?wrap=1" target="_blank" data-canvas-
+ previewable="true" data-api-endpoint="https://um6p.instructure.com/api/v1/
+ courses/11196/files/982074" data-api-returntype="File">نظرة على ا
+ لمستقبل الوحدة كاملة 2026 2027-1.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T112600Z
+UID:event-assignment-37076
+DTSTART;VALUE=DATE;VALUE=DATE:20261206
+CLASS:PUBLIC
+DESCRIPTION:Bonjour à toutes et à tous\,\n\nVous trouverez ci-joint les e
+ xercices de langue (pages 6\, 8\,  et 4) à réaliser et à rendre au plu
+ s tard le 6 décembre 2026.\n\nVeuillez respecter impérativement les cons
+ ignes suivantes :\n\n*\n\nFormat des devoirs : Les exercices doivent être
+  rédigés à la main. Aucun devoir au format Word ou généré à l'aide 
+ d'outils numériques ne sera accepté.\n\n*\n\nModalités d'envoi : Les co
+ pies doivent être numérisées en un seul fichier PDF et déposées exclu
+ sivement sur Canvas.\n\nCordialement\,\n\nM. Zekri\n\n[نظرة على ا
+ لمستقبل الوحدة كاملة 2026 2027-1.pdf] (https://um6p.inst
+ ructure.com/courses/11196/files/982074?wrap=1)
+SEQUENCE:0
+SUMMARY:Outils de langue التصريف والضمائر  [LAN002]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11196&month=12&year=2026#assignment_37076
+X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr" data-path-to-node="2"><span>Bonjo
+ ur à toutes et à tous\,</span></p>\n<p dir="ltr" data-path-to-node="3"><
+ span>Vous trouverez ci-joint les exercices de langue (pages 6\, 8\,&nbsp\;
+  et 4) à réaliser et à rendre au plus tard le 6 décembre 2026.</span><
+ /p>\n<p dir="ltr" data-path-to-node="4"><span>Veuillez respecter impérati
+ vement les consignes suivantes :</span></p>\n<ul dir="ltr" data-path-to-no
+ de="5">\n<li>\n<p dir="ltr" data-path-to-node="5\,0\,0"><strong data-path-
+ to-node="5\,0\,0" data-index-in-node="0">Format des devoirs :</strong><spa
+ n> Les exercices doivent être rédigés à la main.</span><span> Aucun de
+ voir au format Word ou généré à l'aide d'outils numériques ne sera ac
+ cepté.</span></p>\n</li>\n<li>\n<p dir="ltr" data-path-to-node="5\,1\,0">
+ <strong data-path-to-node="5\,1\,0" data-index-in-node="0">Modalités d'en
+ voi :</strong><span> Les copies doivent être numérisées en un seul fich
+ ier PDF et déposées exclusivement sur Canvas.</span></p>\n</li>\n</ul>\n
+ <p dir="ltr" data-path-to-node="6"><span>Cordialement\,</span></p>\n<p dir
+ ="ltr" data-path-to-node="7"><span>M.</span><span> Zekri</span></p>\n<p di
+ r="ltr" data-path-to-node="1\,4"><a id="982074" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://um6
+ p.instructure.com/courses/11196/files/982074?wrap=1" target="_blank" data-
+ canvas-previewable="true" data-api-endpoint="https://um6p.instructure.com/
+ api/v1/courses/11196/files/982074" data-api-returntype="File">نظرة ع
+ لى المستقبل الوحدة كاملة 2026 2027-1.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T111700Z
+UID:event-assignment-37072
+DTSTART;VALUE=DATE;VALUE=DATE:20261206
+CLASS:PUBLIC
+DESCRIPTION:Bonjour à toutes et à tous\,\n\nVous trouverez ci-joint l'exe
+ rcice de production écrite (page 10) à réaliser et à rendre au plus ta
+ rd le 6 décembre 2026.\n\nVeuillez respecter impérativement les consigne
+ s suivantes :\n\n*\n\nFormat des devoirs : L'exercice doit être rédigé 
+ à la main. Aucun devoir au format Word ou généré à l'aide d'outils nu
+ mériques ne sera accepté.\n\n*\n\nModalités d'envoi : Les copies doiven
+ t être numérisées en un seul fichier PDF et déposées exclusivement su
+ r Canvas.\n\nCordialement\,\n\nM. Zekri\n\n[نظرة على المستقب
+ ل الوحدة كاملة 2026 2027-1.pdf] (https://um6p.instructure.com/
+ courses/11196/files/982074?wrap=1)
+SEQUENCE:0
+SUMMARY:PRODUCTION ECRITE صفحة من مذكرة شخصية  [LAN002]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11196&month=12&year=2026#assignment_37072
+X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr" data-path-to-node="2"><span>Bonjo
+ ur à toutes et à tous\,</span></p>\n<p dir="ltr" data-path-to-node="3"><
+ span>Vous trouverez ci-joint l'exercice de production écrite (page 10) à
+  réaliser et à rendre au plus tard le 6 décembre 2026.</span></p>\n<p d
+ ir="ltr" data-path-to-node="4"><span>Veuillez respecter impérativement le
+ s consignes suivantes :</span></p>\n<ul dir="ltr" data-path-to-node="5">\n
+ <li>\n<p dir="ltr" data-path-to-node="5\,0\,0"><strong data-path-to-node="
+ 5\,0\,0" data-index-in-node="0">Format des devoirs :</strong><span> L'exer
+ cice doit être rédigé à la main.</span><span> Aucun devoir au format W
+ ord ou généré à l'aide d'outils numériques ne sera accepté.</span></
+ p>\n</li>\n<li>\n<p dir="ltr" data-path-to-node="5\,1\,0"><strong data-pat
+ h-to-node="5\,1\,0" data-index-in-node="0">Modalités d'envoi :</strong><s
+ pan> Les copies doivent être numérisées en un seul fichier PDF et dépo
+ sées exclusivement sur Canvas.</span></p>\n</li>\n</ul>\n<p dir="ltr" dat
+ a-path-to-node="6"><span>Cordialement\,</span></p>\n<p dir="ltr" data-path
+ -to-node="7"><span>M.</span><span> Zekri</span></p>\n<p dir="ltr" data-pat
+ h-to-node="1\,4"><a id="982074" class="instructure_file_link instructure_s
+ cribd_file inline_disabled" title="Link" href="https://um6p.instructure.co
+ m/courses/11196/files/982074?wrap=1" target="_blank" data-canvas-previewab
+ le="true" data-api-endpoint="https://um6p.instructure.com/api/v1/courses/1
+ 1196/files/982074" data-api-returntype="File">نظرة على المستق
+ بل الوحدة كاملة 2026 2027-1.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67695
 DTSTART:20261026T133000Z
@@ -5006,12 +5132,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10707&month=11&year=2026#calendar_event_67699
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261120T150800Z
+DTSTAMP:20261123T115900Z
 UID:event-calendar-event-68226
 DTSTART:20261123T164500Z
 DTEND:20261123T184500Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: 	B-G0-01
+LOCATION:Building B - Room: B-B0-01 I Building B - Room: B-B0-02
 SEQUENCE:0
 SUMMARY:INT202 | Laboratory | Theories of International Relations [INT202]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -5116,9 +5242,9 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10705&month=11&year=2026#calendar_event_67640
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261123T123600Z
 UID:event-calendar-event-67700
-DTSTART:20261130T133000Z
+DTSTART:20261130T120000Z
 DTEND:20261130T163000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-B0-02
@@ -5129,12 +5255,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10707&month=11&year=2026#calendar_event_67700
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261123T120000Z
 UID:event-calendar-event-68225
 DTSTART:20261130T164500Z
-DTEND:20261130T184500Z
+DTEND:20261130T194500Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
+LOCATION:Building B - Room: B-G0-01
 SEQUENCE:0
 SUMMARY:INT202 | Lecture | Theories of International Relations [INT202]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -6029,6 +6155,135 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T112000Z
+UID:event-assignment-37079
+DTSTART;VALUE=DATE;VALUE=DATE:20261206
+CLASS:PUBLIC
+DESCRIPTION:Bonjour à toutes et à tous\,\n\nVous trouverez ci-joint l'exe
+ rcice de compréhension écrite (pages 3 et 4) à réaliser et à rendre a
+ u plus tard le 6 décembre 2026.\n\nVeuillez respecter impérativement les
+  consignes suivantes :\n\n*\n\nFormat des devoirs : L'exercice doit être 
+ rédigé à la main. Aucun devoir au format Word ou généré à l'aide d'
+ outils numériques ne sera accepté.\n\n*\n\nModalités d'envoi : Les copi
+ es doivent être numérisées en un seul fichier PDF et déposées exclusi
+ vement sur Canvas.\n\nCordialement\,\n\nM. Zekri\n\n[نظرة على ال
+ مستقبل الوحدة كاملة 2026 2027-1.pdf] (https://um6p.instru
+ cture.com/courses/11218/files/982063?wrap=1)
+SEQUENCE:0
+SUMMARY:COMPREHENSION ECRITE التعليم والرقمنة  [LAN002C]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11218&month=12&year=2026#assignment_37079
+X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr" data-path-to-node="2"><span>Bonjo
+ ur à toutes et à tous\,</span></p>\n<p dir="ltr" data-path-to-node="3"><
+ span>Vous trouverez ci-joint l'exercice de compréhension écrite (pages 3
+  et 4) à réaliser et à rendre au plus tard le 6 décembre 2026.</span><
+ /p>\n<p dir="ltr" data-path-to-node="4"><span>Veuillez respecter impérati
+ vement les consignes suivantes :</span></p>\n<ul dir="ltr" data-path-to-no
+ de="5">\n<li>\n<p dir="ltr" data-path-to-node="5\,0\,0"><strong data-path-
+ to-node="5\,0\,0" data-index-in-node="0">Format des devoirs :</strong><spa
+ n> L'exercice doit être rédigé à la main.</span><span> Aucun devoir au
+  format Word ou généré à l'aide d'outils numériques ne sera accepté.
+ </span></p>\n</li>\n<li>\n<p dir="ltr" data-path-to-node="5\,1\,0"><strong
+  data-path-to-node="5\,1\,0" data-index-in-node="0">Modalités d'envoi :</
+ strong><span> Les copies doivent être numérisées en un seul fichier PDF
+  et déposées exclusivement sur Canvas.</span></p>\n</li>\n</ul>\n<p dir=
+ "ltr" data-path-to-node="6"><span>Cordialement\,</span></p>\n<p dir="ltr" 
+ data-path-to-node="7"><span>M.</span><span> Zekri</span></p>\n<p dir="ltr"
+  data-path-to-node="7"><span><a id="982063" class="instructure_file_link i
+ nstructure_scribd_file inline_disabled" title="Link" href="https://um6p.in
+ structure.com/courses/11218/files/982063?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://um6p.instructure.com/api/
+ v1/courses/11218/files/982063" data-api-returntype="File">نظرة على 
+ المستقبل الوحدة كاملة 2026 2027-1.pdf</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T112500Z
+UID:event-assignment-37080
+DTSTART;VALUE=DATE;VALUE=DATE:20261206
+CLASS:PUBLIC
+DESCRIPTION:Bonjour à toutes et à tous\,\n\nVous trouverez ci-joint les e
+ xercices de langue (pages 6\, 8\,  et 4) à réaliser et à rendre au plu
+ s tard le 6 décembre 2026.\n\nVeuillez respecter impérativement les cons
+ ignes suivantes :\n\n*\n\nFormat des devoirs : Les exercices doivent être
+  rédigés à la main. Aucun devoir au format Word ou généré à l'aide 
+ d'outils numériques ne sera accepté.\n\n*\n\nModalités d'envoi : Les co
+ pies doivent être numérisées en un seul fichier PDF et déposées exclu
+ sivement sur Canvas.\n\nCordialement\,\n\nM. Zekri\n\n[نظرة على ا
+ لمستقبل الوحدة كاملة 2026 2027-1.pdf] (https://um6p.inst
+ ructure.com/courses/11218/files/982063?wrap=1)
+SEQUENCE:0
+SUMMARY:Outils de langue التصريف والضمائر  [LAN002C]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11218&month=12&year=2026#assignment_37080
+X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr" data-path-to-node="2"><span>Bonjo
+ ur à toutes et à tous\,</span></p>\n<p dir="ltr" data-path-to-node="3"><
+ span>Vous trouverez ci-joint les exercices de langue (pages 6\, 8\,&nbsp\;
+  et 4) à réaliser et à rendre au plus tard le 6 décembre 2026.</span><
+ /p>\n<p dir="ltr" data-path-to-node="4"><span>Veuillez respecter impérati
+ vement les consignes suivantes :</span></p>\n<ul dir="ltr" data-path-to-no
+ de="5">\n<li>\n<p dir="ltr" data-path-to-node="5\,0\,0"><strong data-path-
+ to-node="5\,0\,0" data-index-in-node="0">Format des devoirs :</strong><spa
+ n> Les exercices doivent être rédigés à la main.</span><span> Aucun de
+ voir au format Word ou généré à l'aide d'outils numériques ne sera ac
+ cepté.</span></p>\n</li>\n<li>\n<p dir="ltr" data-path-to-node="5\,1\,0">
+ <strong data-path-to-node="5\,1\,0" data-index-in-node="0">Modalités d'en
+ voi :</strong><span> Les copies doivent être numérisées en un seul fich
+ ier PDF et déposées exclusivement sur Canvas.</span></p>\n</li>\n</ul>\n
+ <p dir="ltr" data-path-to-node="6"><span>Cordialement\,</span></p>\n<p dir
+ ="ltr" data-path-to-node="7"><span>M.</span><span> Zekri</span></p>\n<p di
+ r="ltr" data-path-to-node="7"><span><a id="982063" class="instructure_file
+ _link instructure_scribd_file inline_disabled" title="Link" href="https://
+ um6p.instructure.com/courses/11218/files/982063?wrap=1" target="_blank" da
+ ta-canvas-previewable="true" data-api-endpoint="https://um6p.instructure.c
+ om/api/v1/courses/11218/files/982063" data-api-returntype="File">نظرة 
+ على المستقبل الوحدة كاملة 2026 2027-1.pdf</a></span>
+ </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T111500Z
+UID:event-assignment-37078
+DTSTART;VALUE=DATE;VALUE=DATE:20261206
+CLASS:PUBLIC
+DESCRIPTION:Bonjour à toutes et à tous\,\n\nVous trouverez ci-joint l'exe
+ rcice de production écrite (page 10) à réaliser et à rendre au plus ta
+ rd le 6 décembre 2026.\n\nVeuillez respecter impérativement les consigne
+ s suivantes :\n\n*\n\nFormat des devoirs : L'exercice doit être rédigé 
+ à la main. Aucun devoir au format Word ou généré à l'aide d'outils nu
+ mériques ne sera accepté.\n\n*\n\nModalités d'envoi : Les copies doiven
+ t être numérisées en un seul fichier PDF et déposées exclusivement su
+ r Canvas.\n\nCordialement\,\n\nM. Zekri\n\n[نظرة على المستقب
+ ل الوحدة كاملة 2026 2027.pdf] (https://um6p.instructure.com/us
+ ers/13158/files/982065?verifier=74237adc-787d-4a3e-9571-d285a0b9631b&wrap=
+ 1)
+SEQUENCE:0
+SUMMARY:PRODUCTION ECRITE صفحة من مذكرة شخصية  [LAN002C]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11218&month=12&year=2026#assignment_37078
+X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr" data-path-to-node="2"><span>Bonjo
+ ur à toutes et à tous\,</span></p>\n<p dir="ltr" data-path-to-node="3"><
+ span>Vous trouverez ci-joint l'exercice de production écrite (page 10) à
+  réaliser et à rendre au plus tard le 6 décembre 2026.</span></p>\n<p d
+ ir="ltr" data-path-to-node="4"><span>Veuillez respecter impérativement le
+ s consignes suivantes :</span></p>\n<ul dir="ltr" data-path-to-node="5">\n
+ <li>\n<p dir="ltr" data-path-to-node="5\,0\,0"><strong data-path-to-node="
+ 5\,0\,0" data-index-in-node="0">Format des devoirs :</strong><span> L'exer
+ cice doit être rédigé à la main.</span><span> Aucun devoir au format W
+ ord ou généré à l'aide d'outils numériques ne sera accepté.</span></
+ p>\n</li>\n<li>\n<p dir="ltr" data-path-to-node="5\,1\,0"><strong data-pat
+ h-to-node="5\,1\,0" data-index-in-node="0">Modalités d'envoi :</strong><s
+ pan> Les copies doivent être numérisées en un seul fichier PDF et dépo
+ sées exclusivement sur Canvas.</span></p>\n</li>\n</ul>\n<p dir="ltr" dat
+ a-path-to-node="6"><span>Cordialement\,</span></p>\n<p dir="ltr" data-path
+ -to-node="7"><span>M.</span><span> Zekri</span></p>\n<p dir="ltr" data-pat
+ h-to-node="7"><span><a id="982065" class="instructure_file_link instructur
+ e_scribd_file inline_disabled" title="Link" href="https://um6p.instructure
+ .com/users/13158/files/982065?verifier=74237adc-787d-4a3e-9571-d285a0b9631
+ b&amp\;wrap=1" target="_blank" data-canvas-previewable="true" data-api-end
+ point="https://um6p.instructure.com/api/v1/users/13158/files/982065" data-
+ api-returntype="File">نظرة على المستقبل الوحدة كام
+ لة 2026 2027.pdf</a></span></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
