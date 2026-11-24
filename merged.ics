@@ -487,12 +487,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68354
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261104T113500Z
+DTSTAMP:20261123T161700Z
 UID:event-calendar-event-73623
 DTSTART:20261124T180000Z
 DTEND:20261124T210000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
 SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -1251,12 +1251,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68354
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261104T113500Z
+DTSTAMP:20261123T161700Z
 UID:event-calendar-event-73623
 DTSTART:20261124T180000Z
 DTEND:20261124T210000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
 SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -1892,24 +1892,24 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68354
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261104T113500Z
+DTSTAMP:20261123T161700Z
 UID:event-calendar-event-73623
 DTSTART:20261124T180000Z
 DTEND:20261124T210000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
 SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_73623
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261117T093800Z
+DTSTAMP:20261123T164100Z
 UID:event-calendar-event-69826
 DTSTART:20261124T180000Z
 DTEND:20261124T193000Z
 CLASS:PUBLIC
-LOCATION:A-A0-02
+LOCATION:A-H0-01
 SEQUENCE:0
 SUMMARY:Self-Study / Check with your professor [LAN008C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -2558,12 +2558,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68354
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261104T113500Z
+DTSTAMP:20261123T161700Z
 UID:event-calendar-event-73623
 DTSTART:20261124T180000Z
 DTEND:20261124T210000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
 SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -4374,12 +4374,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=11&year=2026#calendar_event_68754
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261123T161800Z
 UID:event-calendar-event-71532
 DTSTART:20261124T120000Z
 DTEND:20261124T130000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building B - Room: B-K0-01/Building B - Room: B-K0-02
 SEQUENCE:0
 SUMMARY:ECO101 | Office Hours | Introduction à l'Analyse Economique [ECO10
  1]
@@ -4387,12 +4387,13 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=11&year=2026#calendar_event_71532
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261123T162000Z
 UID:event-calendar-event-67562
 DTSTART:20261124T133000Z
 DTEND:20261124T163000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:ECO101 | Lecture | Introduction à l'Analyse Economique [ECO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -4564,12 +4565,13 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=12&year=2026#calendar_event_71612
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261123T162000Z
 UID:event-calendar-event-67564
 DTSTART:20261201T121500Z
 DTEND:20261201T130000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:ECO101 | Q&A | Introduction à l'Analyse Economique [ECO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -5156,12 +5158,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68354
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261104T113500Z
+DTSTAMP:20261123T161700Z
 UID:event-calendar-event-73623
 DTSTART:20261124T180000Z
 DTEND:20261124T210000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
 SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -5914,12 +5916,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68354
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261104T113500Z
+DTSTAMP:20261123T161700Z
 UID:event-calendar-event-73623
 DTSTART:20261124T180000Z
 DTEND:20261124T210000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
 SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -6631,12 +6633,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_68354
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261104T113500Z
+DTSTAMP:20261123T161700Z
 UID:event-calendar-event-73623
 DTSTART:20261124T180000Z
 DTEND:20261124T210000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building A - Room: A-A0-02
 SEQUENCE:0
 SUMMARY:LAW201 | Lecture | Public International Law [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -7530,12 +7532,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=11&year=2026#calendar_event_68754
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261123T161800Z
 UID:event-calendar-event-71532
 DTSTART:20261124T120000Z
 DTEND:20261124T130000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building B - Room: B-K0-01/Building B - Room: B-K0-02
 SEQUENCE:0
 SUMMARY:ECO101 | Office Hours | Introduction à l'Analyse Economique [ECO10
  1]
@@ -7543,12 +7545,13 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=11&year=2026#calendar_event_71532
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261123T162000Z
 UID:event-calendar-event-67562
 DTSTART:20261124T133000Z
 DTEND:20261124T163000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:ECO101 | Lecture | Introduction à l'Analyse Economique [ECO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -7708,12 +7711,13 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=12&year=2026#calendar_event_71612
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261123T162000Z
 UID:event-calendar-event-67564
 DTSTART:20261201T121500Z
 DTEND:20261201T130000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:ECO101 | Q&A | Introduction à l'Analyse Economique [ECO101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
