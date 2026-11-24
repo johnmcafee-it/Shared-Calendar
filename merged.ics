@@ -5952,6 +5952,19 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=11&year=2026#calendar_event_68385
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261124T094900Z
+UID:event-calendar-event-73873
+DTSTART:20261125T180000Z
+DTEND:20261125T200000Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:POL212 | Laboratory | Systèmes Politiques Comparés et Philosophie
+  Politique [POL212]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10770&month=11&year=2026#calendar_event_73873
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68166
 DTSTART:20261126T150000Z
