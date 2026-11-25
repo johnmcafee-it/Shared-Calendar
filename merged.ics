@@ -499,12 +499,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_73623
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261125T111200Z
 UID:event-calendar-event-67639
 DTSTART:20261126T090000Z
 DTEND:20261126T110000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-02
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:ECO214 | Laboratory | Théorie des Jeux: Approche Stratégique [ECO
  214]
@@ -512,12 +512,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10705&month=11&year=2026#calendar_event_67639
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261125T111200Z
 UID:event-calendar-event-67641
 DTSTART:20261126T110000Z
 DTEND:20261126T114500Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-02
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:ECO214 | Q&A | Théorie des Jeux: Approche Stratégique [ECO214]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -536,24 +536,24 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11916&month=11&year=2026#calendar_event_73542
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261125T111400Z
 UID:event-calendar-event-68211
 DTSTART:20261126T150000Z
 DTEND:20261126T170000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:INT201 | Laboratory | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=11&year=2026#calendar_event_68211
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261125T111200Z
 UID:event-calendar-event-67640
 DTSTART:20261126T180000Z
 DTEND:20261126T210000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-02
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:ECO214 | Lecture | Théorie des Jeux: Approche Stratégique [ECO214
  ]
@@ -699,12 +699,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11916&month=12&year=2026#calendar_event_73543
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261125T111500Z
 UID:event-calendar-event-68212
 DTSTART:20261203T150000Z
 DTEND:20261203T170000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -723,12 +723,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10711&month=12&year=2026#calendar_event_68228
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261125T111500Z
 UID:event-calendar-event-68213
 DTSTART:20261203T180000Z
 DTEND:20261203T184500Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:INT201 | Q&A | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -1307,10 +1307,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=11&year=2026#calendar_event_68385
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261109T155600Z
+DTSTAMP:20261125T112600Z
 UID:event-calendar-event-67546
 DTSTART:20261126T150000Z
-DTEND:20261126T180000Z
+DTEND:20261126T170000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-F0-01
 SEQUENCE:0
@@ -1960,48 +1960,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=11&year=2026#calendar_event_68385
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261117T161900Z
-UID:event-assignment-36494
-DTSTART;VALUE=DATE;VALUE=DATE:20261126
-CLASS:PUBLIC
-DESCRIPTION:For this self-study activity\, attend one book presentation or 
- one lecture in the Dean’s Conferences series organized by FGSES. Choose 
- an event that interests you\, then write an individual report.  Your repo
- rt should demonstrate your understanding of the event’s main ideas and y
- our ability to reflect on them. \n\nYour task is then to write a 300-word
-  report using the structure below:\n\n* Introduction — What did you atte
- nd?\n\n* Summary — What were the main ideas?\n\n* Reflection and evaluat
- ion —\n\n* Conclusion — What is your main takeaway?\n\nAttached is a v
- ery short guide on how to write a report\n\n[self study activity 4 how to 
- write your rpeort B2-2.docx] (https://um6p.instructure.com/courses/11215/f
- iles/967146?wrap=1)\n\n 
-SEQUENCE:0
-SUMMARY:Self-Study Activity N° 4 [LAN008C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11215&month=11&year=2026#assignment_36494
-X-ALT-DESC;FMTTYPE=text/html:<p data-pm-slice="1 1 []"><span>For this self-
- study activity\, attend </span><strong><span>one book presentation or one 
- lecture in the Dean’s Conferences series organized by FGSES</span></stro
- ng><span>. Choose an event that interests you\, then write an individual r
- eport.&nbsp\; </span><span>Your report should demonstrate your understandi
- ng of the event’s main ideas and your ability to reflect on them.&nbsp\;
- </span></p>\n<p data-pm-slice="1 1 []"><span style="font-size: 14pt\;"><st
- rong>Your task is then to write a 300-word report using the structure belo
- w:</strong></span></p>\n<ol>\n<li><strong> Introduction — What did you a
- ttend?</strong></li>\n<li><strong> Summary — What were the main ideas?</
- strong></li>\n<li><strong> Reflection and evaluation —</strong></li>\n<l
- i><strong><strong style="font-size: 1rem\;">Conclusion — What is your ma
- in takeaway?</strong></strong></li>\n</ol>\n<p><span style="font-size: 1re
- m\;">Attached is a very short guide on how to write a report </span></p>\n
- <p><a class="instructure_file_link instructure_scribd_file inline_disabled
- " title="self study activity 4 how to write your rpeort B2-2.docx" href="h
- ttps://um6p.instructure.com/courses/11215/files/967146?wrap=1" target="_bl
- ank" data-canvas-previewable="false" data-api-endpoint="https://um6p.instr
- ucture.com/api/v1/courses/11215/files/967146" data-api-returntype="File">s
- elf study activity 4 how to write your rpeort B2-2.docx</a></p>\n<p>&nbsp\
- ;</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68588
 DTSTART:20261130T100000Z
@@ -2050,6 +2008,48 @@ SUMMARY:INT001E | Q&A | Area Studies\, Geopolitics\, and Global Affairs [IN
  T001ELM]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10723&month=11&year=2026#calendar_event_68078
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T103700Z
+UID:event-assignment-36494
+DTSTART;VALUE=DATE;VALUE=DATE:20261130
+CLASS:PUBLIC
+DESCRIPTION:For this self-study activity\, attend one book presentation or 
+ one lecture in the Dean’s Conferences series organized by FGSES. Choose 
+ an event that interests you\, then write an individual report.  Your repo
+ rt should demonstrate your understanding of the event’s main ideas and y
+ our ability to reflect on them. \n\nYour task is then to write a 300-word
+  report using the structure below:\n\n* Introduction — What did you atte
+ nd?\n\n* Summary — What were the main ideas?\n\n* Reflection and evaluat
+ ion —\n\n* Conclusion — What is your main takeaway?\n\nAttached is a v
+ ery short guide on how to write a report\n\n[self study activity 4 how to 
+ write your rpeort B2-2.docx] (https://um6p.instructure.com/courses/11215/f
+ iles/967146?wrap=1)\n\n 
+SEQUENCE:0
+SUMMARY:Self-Study Activity N° 4 [LAN008C]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11215&month=11&year=2026#assignment_36494
+X-ALT-DESC;FMTTYPE=text/html:<p data-pm-slice="1 1 []"><span>For this self-
+ study activity\, attend </span><strong><span>one book presentation or one 
+ lecture in the Dean’s Conferences series organized by FGSES</span></stro
+ ng><span>. Choose an event that interests you\, then write an individual r
+ eport.&nbsp\; </span><span>Your report should demonstrate your understandi
+ ng of the event’s main ideas and your ability to reflect on them.&nbsp\;
+ </span></p>\n<p data-pm-slice="1 1 []"><span style="font-size: 14pt\;"><st
+ rong>Your task is then to write a 300-word report using the structure belo
+ w:</strong></span></p>\n<ol>\n<li><strong> Introduction — What did you a
+ ttend?</strong></li>\n<li><strong> Summary — What were the main ideas?</
+ strong></li>\n<li><strong> Reflection and evaluation —</strong></li>\n<l
+ i><strong><strong style="font-size: 1rem\;">Conclusion — What is your ma
+ in takeaway?</strong></strong></li>\n</ol>\n<p><span style="font-size: 1re
+ m\;">Attached is a very short guide on how to write a report </span></p>\n
+ <p><a class="instructure_file_link instructure_scribd_file inline_disabled
+ " title="self study activity 4 how to write your rpeort B2-2.docx" href="h
+ ttps://um6p.instructure.com/courses/11215/files/967146?wrap=1" target="_bl
+ ank" data-canvas-previewable="false" data-api-endpoint="https://um6p.instr
+ ucture.com/api/v1/courses/11215/files/967146" data-api-returntype="File">s
+ elf study activity 4 how to write your rpeort B2-2.docx</a></p>\n<p>&nbsp\
+ ;</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -2639,9 +2639,33 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=11&year=2026#calendar_event_68166
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261103T000000Z
+DTSTAMP:20261030T011000Z
+UID:event-calendar-event-68588
+DTSTART:20261130T100000Z
+DTEND:20261130T120000Z
+CLASS:PUBLIC
+LOCATION:Building A - Room: A-F0-02
+SEQUENCE:0
+SUMMARY:POL201 | Lecture | Institutions Politiques Marocaines [POL201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10769&month=11&year=2026#calendar_event_68588
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T011000Z
+UID:event-calendar-event-68589
+DTSTART:20261130T120000Z
+DTEND:20261130T124500Z
+CLASS:PUBLIC
+LOCATION:Building A - Room: A-F0-02
+SEQUENCE:0
+SUMMARY:POL201 | Q&A | Institutions Politiques Marocaines [POL201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10769&month=11&year=2026#calendar_event_68589
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T103800Z
 UID:event-assignment-36495
-DTSTART;VALUE=DATE;VALUE=DATE:20261126
+DTSTART;VALUE=DATE;VALUE=DATE:20261130
 CLASS:PUBLIC
 DESCRIPTION:For this self-study activity\, attend one book presentation or 
  one lecture in the Dean’s Conferences series organized by FGSES. Choose 
@@ -2677,30 +2701,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p data-pm-slice="1 1 []"><span>For this self-
  le="false" data-api-endpoint="https://um6p.instructure.com/api/v1/courses/
  11216/files/967148" data-api-returntype="File">self study activity 4 how t
  o write your rpeort B2+.docx</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68588
-DTSTART:20261130T100000Z
-DTEND:20261130T120000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-02
-SEQUENCE:0
-SUMMARY:POL201 | Lecture | Institutions Politiques Marocaines [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=11&year=2026#calendar_event_68588
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68589
-DTSTART:20261130T120000Z
-DTEND:20261130T124500Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-02
-SEQUENCE:0
-SUMMARY:POL201 | Q&A | Institutions Politiques Marocaines [POL201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10769&month=11&year=2026#calendar_event_68589
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -2833,18 +2833,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67426
-DTSTART:20261026T090000Z
-DTEND:20261026T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:DAT203 | Laboratory | Mathématiques et Optimisation [DAT203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10745&month=10&year=2026#calendar_event_67426
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -3423,12 +3411,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10747&month=11&year=2026#calendar_event_67595
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261125T112800Z
 UID:event-calendar-event-71667
 DTSTART:20261126T090000Z
 DTEND:20261126T130000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Building A - Room: A-H0-01
 SEQUENCE:0
 SUMMARY:ECO218 | Lecture | Comptabilité Nationale et Agrégats Macroécono
  miques [ECO218]
@@ -3600,32 +3588,6 @@ SEQUENCE:0
 SUMMARY:Devoir N°2- Requires Respondus LockDown Browser [ECO218]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10749&month=12&year=2026#assignment_33826
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68335
-DTSTART:20261026T090000Z
-DTEND:20261026T120000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:LAW101 | Lecture | Introduction à l'Etude du Droit [LAW101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10742&month=10&year=2026#calendar_event_68335
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-71528
-DTSTART:20261026T120000Z
-DTEND:20261026T130000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-K0-01 /Building B - Room:B-K0-02
-SEQUENCE:0
-SUMMARY:ECO101 | Office Hours | Introduction à l'Analyse Economique [ECO10
- 1]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10740&month=10&year=2026#calendar_event_71528
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -5228,12 +5190,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10704&month=11&year=2026#calendar_event_67625
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261125T111200Z
 UID:event-calendar-event-67639
 DTSTART:20261126T090000Z
 DTEND:20261126T110000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-02
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:ECO214 | Laboratory | Théorie des Jeux: Approche Stratégique [ECO
  214]
@@ -5241,36 +5203,36 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10705&month=11&year=2026#calendar_event_67639
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261125T111200Z
 UID:event-calendar-event-67641
 DTSTART:20261126T110000Z
 DTEND:20261126T114500Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-02
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:ECO214 | Q&A | Théorie des Jeux: Approche Stratégique [ECO214]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10705&month=11&year=2026#calendar_event_67641
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261125T111400Z
 UID:event-calendar-event-68211
 DTSTART:20261126T150000Z
 DTEND:20261126T170000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:INT201 | Laboratory | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10710&month=11&year=2026#calendar_event_68211
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261125T111200Z
 UID:event-calendar-event-67640
 DTSTART:20261126T180000Z
 DTEND:20261126T210000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-02
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:ECO214 | Lecture | Théorie des Jeux: Approche Stratégique [ECO214
  ]
@@ -5351,12 +5313,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10711&month=12&year=2026#calendar_event_68227
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261125T111500Z
 UID:event-calendar-event-68212
 DTSTART:20261203T150000Z
 DTEND:20261203T170000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -5375,12 +5337,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10711&month=12&year=2026#calendar_event_68228
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261125T111500Z
 UID:event-calendar-event-68213
 DTSTART:20261203T180000Z
 DTEND:20261203T184500Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
+LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
 SUMMARY:INT201 | Q&A | Foreign Policy Analysis [INT201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -5972,6 +5934,28 @@ SEQUENCE:0
 SUMMARY:LAW206F | Laboratory | Droit Civil [LAW206F]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=11&year=2026#calendar_event_68384
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T140000Z
+UID:event-assignment-37178
+DTSTART:20261125T153000Z
+DTEND:20261125T153000Z
+CLASS:PUBLIC
+DESCRIPTION:[امتحان الفضاء العام 2026 2027 نسخة وكا
+ لة المغرب العربي للأنباء MI TERM.pdf] (https://um6p.i
+ nstructure.com/courses/11218/files/984950?wrap=1)
+SEQUENCE:0
+SUMMARY:MID TERM LAMIA  [LAN002C]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11218&month=11&year=2026#assignment_37178
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="امتحان الفضاء العام 
+ 2026 2027 نسخة وكالة المغرب العربي للأنباء  MI
+  TERM.pdf" href="https://um6p.instructure.com/courses/11218/files/984950?w
+ rap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="
+ https://um6p.instructure.com/api/v1/courses/11218/files/984950" data-api-r
+ eturntype="File">امتحان الفضاء العام 2026 2027 نسخة 
+ وكالة المغرب العربي للأنباء MI TERM.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -6736,10 +6720,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=11&year=2026#calendar_event_68385
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261109T155600Z
+DTSTAMP:20261125T112600Z
 UID:event-calendar-event-67546
 DTSTART:20261126T150000Z
-DTEND:20261126T180000Z
+DTEND:20261126T170000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-F0-01
 SEQUENCE:0
@@ -6893,32 +6877,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68335
-DTSTART:20261026T090000Z
-DTEND:20261026T120000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:LAW101 | Lecture | Introduction à l'Etude du Droit [LAW101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10742&month=10&year=2026#calendar_event_68335
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-71528
-DTSTART:20261026T120000Z
-DTEND:20261026T130000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-K0-01 /Building B - Room:B-K0-02
-SEQUENCE:0
-SUMMARY:ECO101 | Office Hours | Introduction à l'Analyse Economique [ECO10
- 1]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10740&month=10&year=2026#calendar_event_71528
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
