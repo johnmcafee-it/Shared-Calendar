@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68222
-DTSTART:20261026T164500Z
-DTEND:20261026T184500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:INT202 | Laboratory | Theories of International Relations [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=10&year=2026#calendar_event_68222
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68350
 DTSTART:20261027T143000Z
 DTEND:20261027T163000Z
@@ -499,12 +487,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=11&year=2026#calendar_event_73623
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261125T111200Z
+DTSTAMP:20261125T164500Z
 UID:event-calendar-event-67639
 DTSTART:20261126T090000Z
 DTEND:20261126T110000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: 	A-F0-01
+LOCATION:Building B - Room: B-K1-01/Building B - Room: B-K1-02
 SEQUENCE:0
 SUMMARY:ECO214 | Laboratory | Théorie des Jeux: Approche Stratégique [ECO
  214]
@@ -1476,19 +1464,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68072
-DTSTART:20261026T133000Z
-DTEND:20261026T153000Z
-CLASS:PUBLIC
-LOCATION:	Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:INT001E | Laboratory | Area Studies\, Geopolitics\, and Global Affa
- irs [INT001ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10723&month=10&year=2026#calendar_event_68072
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -2836,32 +2811,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68117
-DTSTART:20261026T133000Z
-DTEND:20261026T153000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-F0-02
-SEQUENCE:0
-SUMMARY:INT005E | Laboratory | Multilateral Organization and Global Challen
- ges: Threat and Opportunity [INT005ELM]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10726&month=10&year=2026#calendar_event_68117
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-71732
-DTSTART:20261026T154500Z
-DTEND:20261026T174500Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-G1-02) / Groupe 2 (A-E1-03) / Groupe 3 (A-A1-01)
-SEQUENCE:0
-SUMMARY:ECO201 | Midterm exam | Microéconomie 1(Groupe 1\, Groupe 2\, Grou
- pe 3) [ECO201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10746&month=10&year=2026#calendar_event_71732
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67665
 DTSTART:20261027T090000Z
 DTEND:20261027T110000Z
@@ -3339,7 +3288,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10726&month=11&year=2026#calendar_event_68121
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261122T230200Z
+DTSTAMP:20261125T155300Z
 UID:event-assignment-36926
 DTSTART:20261122T230000Z
 DTEND:20261122T230000Z
@@ -3588,49 +3537,6 @@ SEQUENCE:0
 SUMMARY:Devoir N°2- Requires Respondus LockDown Browser [ECO218]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10749&month=12&year=2026#assignment_33826
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68750
-DTSTART:20261026T143000Z
-DTEND:20261026T153000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:RES101 | Lecture | Méthodes d'Apprentissage Appliquées [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=10&year=2026#calendar_event_68750
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-69366
-DTSTART:20261026T154000Z
-DTEND:20261026T164000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - R
- oom: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Group
- e 6 - Room: B-K0-02
-SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
-  1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=10&year=2026#calendar_event_69366
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-71705
-DTSTART:20261026T164500Z
-DTEND:20261026T174500Z
-CLASS:PUBLIC
-LOCATION:Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - R
- oom: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gro
- upe 12 - Room: B-K0-02
-SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
-  7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=10&year=2026#calendar_event_71705
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -4610,6 +4516,74 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11196&month=12&year=2026#calendar_event_69731
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261125T173200Z
+UID:event-assignment-37182
+DTSTART;VALUE=DATE;VALUE=DATE:20261202
+CLASS:PUBLIC
+DESCRIPTION: \n\nBonjour à toutes et à tous\,\n\nVous aurez\, mercredi p
+ rochain 2 décembre\, une dernière microtâche portant sur :\n\n*\n\nLes 
+ outils de la langue :\n\n*\n\nكتابة الهمزة\n\n*\n\nالنكرة
+  والمعرفة\n\n*\n\nأل الشمسية والقمرية\n\n*\n\nت
+ صريف الفعل في المضارع والضمائر المتصلة\n\
+ n*\n\nL'expression écrite (التعبير والإنشاء) :\n\n*\n\nك
+ تابة خبر صحفي\n\n*\n\nكتابة صفحة من مذكرة شخ
+ صية\n\nCette évaluation couvrira les deux dernières séquences\, à s
+ avoir :\n\n*\n\n« الشباب في عالم متغير »\n\n*\n\n« ن
+ ظرة على المستقبل »\n\nVous trouverez ci-joint les supports 
+ de ces deux séquences.\n\nBien cordialement\,\n\n[نظرة على الم
+ ستقبل الوحدة كاملة 2026 2027-1.pdf] (https://um6p.instruct
+ ure.com/courses/11196/files/982074?wrap=1)[الشباب في عالم مت
+ غير الوحدة كاملة 2026 2027-2.pdf] (https://um6p.instructure.
+ com/courses/11196/files/966494?wrap=1)
+SEQUENCE:0
+SUMMARY:Dernière Micro-tâche (devoir sur table)  [LAN002]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11196&month=12&year=2026#assignment_37182
+X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr" data-path-to-node="2">&nbsp\;</p>
+ \n<p dir="ltr" data-path-to-node="3"><span>Bonjour à toutes et à tous\,<
+ /span></p>\n<p dir="ltr" data-path-to-node="4"><span>Vous aurez\,</span><s
+ pan> mercredi prochain </span><strong data-path-to-node="4" data-index-in-
+ node="30">2 décembre</strong><span>\,</span><span> une dernière microtâ
+ che portant sur :</span></p>\n<ol dir="ltr" start="1" data-path-to-node="5
+ ">\n<li>\n<p dir="ltr" data-path-to-node="5\,0\,0"><strong data-path-to-no
+ de="5\,0\,0" data-index-in-node="0">Les outils de la langue :</strong></p>
+ \n<ul dir="rtl" data-path-to-node="5\,0\,1">\n<li>\n<p dir="rtl" data-path
+ -to-node="5\,0\,1\,0\,0"><span>كتابة الهمزة</span></p>\n</li>\n
+ <li>\n<p dir="rtl" data-path-to-node="5\,0\,1\,1\,0"><span>النكرة و
+ المعرفة</span></p>\n</li>\n<li>\n<p dir="rtl" data-path-to-node="5\
+ ,0\,1\,2\,0"><span>أل الشمسية والقمرية</span></p>\n</li>\
+ n<li>\n<p dir="rtl" data-path-to-node="5\,0\,1\,3\,0"><span>تصريف ا
+ لفعل في المضارع والضمائر المتصلة</span></p>\n<
+ /li>\n</ul>\n</li>\n<li>\n<p dir="ltr" data-path-to-node="5\,1\,0"><strong
+  data-path-to-node="5\,1\,0" data-index-in-node="0">L'expression écrite (
+ التعبير والإنشاء) :</strong></p>\n<ul dir="rtl" data-path-t
+ o-node="5\,1\,1">\n<li>\n<p dir="rtl" data-path-to-node="5\,1\,1\,0\,0"><s
+ pan>كتابة خبر صحفي</span></p>\n</li>\n<li>\n<p dir="rtl" data-
+ path-to-node="5\,1\,1\,1\,0"><span>كتابة صفحة من مذكرة ش
+ خصية</span></p>\n</li>\n</ul>\n</li>\n</ol>\n<p dir="ltr" data-path-to
+ -node="6"><span>Cette évaluation couvrira les deux dernières séquences\
+ ,</span><span> à savoir :</span></p>\n<ol dir="rtl" start="1" data-path-t
+ o-node="7">\n<li>\n<p dir="rtl" data-path-to-node="7\,0\,0"><i data-path-t
+ o-node="7\,0\,0" data-index-in-node="0">« الشباب في عالم مت
+ غير »</i></p>\n</li>\n<li>\n<p dir="rtl" data-path-to-node="7\,1\,0"><
+ i data-path-to-node="7\,1\,0" data-index-in-node="0">« نظرة على ا
+ لمستقبل »</i></p>\n</li>\n</ol>\n<p dir="ltr" data-path-to-node="8
+ "><span>Vous trouverez ci-joint les supports de ces deux séquences.</span
+ ></p>\n<p dir="ltr" data-path-to-node="9"><span>Bien cordialement\,</span>
+ </p>\n<p dir="ltr" data-path-to-node="9"><span><a id="982074" class="instr
+ ucture_file_link instructure_scribd_file inline_disabled" title="Link" hre
+ f="https://um6p.instructure.com/courses/11196/files/982074?wrap=1" target=
+ "_blank" data-canvas-previewable="true" data-api-endpoint="https://um6p.in
+ structure.com/api/v1/courses/11196/files/982074" data-api-returntype="File
+ ">نظرة على المستقبل الوحدة كاملة 2026 2027-1.pdf
+ </a><a id="966494" class="instructure_file_link instructure_scribd_file in
+ line_disabled" title="Link" href="https://um6p.instructure.com/courses/111
+ 96/files/966494?wrap=1" target="_blank" data-canvas-previewable="true" dat
+ a-api-endpoint="https://um6p.instructure.com/api/v1/courses/11196/files/96
+ 6494" data-api-returntype="File">الشباب في عالم متغير ا
+ لوحدة كاملة 2026 2027-2.pdf</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67386
 DTSTART:20261203T090000Z
@@ -4784,31 +4758,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr" data-path-to-node="2"><span>Bonjo
  le="true" data-api-endpoint="https://um6p.instructure.com/api/v1/courses/1
  1196/files/982074" data-api-returntype="File">نظرة على المستق
  بل الوحدة كاملة 2026 2027-1.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67695
-DTSTART:20261026T133000Z
-DTEND:20261026T153000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:ECO222 | Laboratory | Introduction à l'Économie du Développement
-  [ECO222]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10707&month=10&year=2026#calendar_event_67695
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68222
-DTSTART:20261026T164500Z
-DTEND:20261026T184500Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
-SEQUENCE:0
-SUMMARY:INT202 | Laboratory | Theories of International Relations [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=10&year=2026#calendar_event_68222
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -5190,12 +5139,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10704&month=11&year=2026#calendar_event_67625
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261125T111200Z
+DTSTAMP:20261125T164500Z
 UID:event-calendar-event-67639
 DTSTART:20261126T090000Z
 DTEND:20261126T110000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: 	A-F0-01
+LOCATION:Building B - Room: B-K1-01/Building B - Room: B-K1-02
 SEQUENCE:0
 SUMMARY:ECO214 | Laboratory | Théorie des Jeux: Approche Stratégique [ECO
  214]
@@ -5936,28 +5885,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=11&year=2026#calendar_event_68384
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261125T140000Z
-UID:event-assignment-37178
-DTSTART:20261125T153000Z
-DTEND:20261125T153000Z
-CLASS:PUBLIC
-DESCRIPTION:[امتحان الفضاء العام 2026 2027 نسخة وكا
- لة المغرب العربي للأنباء MI TERM.pdf] (https://um6p.i
- nstructure.com/courses/11218/files/984950?wrap=1)
-SEQUENCE:0
-SUMMARY:MID TERM LAMIA  [LAN002C]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _11218&month=11&year=2026#assignment_37178
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="امتحان الفضاء العام 
- 2026 2027 نسخة وكالة المغرب العربي للأنباء  MI
-  TERM.pdf" href="https://um6p.instructure.com/courses/11218/files/984950?w
- rap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="
- https://um6p.instructure.com/api/v1/courses/11218/files/984950" data-api-r
- eturntype="File">امتحان الفضاء العام 2026 2027 نسخة 
- وكالة المغرب العربي للأنباء MI TERM.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68385
 DTSTART:20261125T170000Z
@@ -6152,6 +6079,75 @@ SEQUENCE:0
 SUMMARY:Face to Face Session [LAN002C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11218&month=12&year=2026#calendar_event_70316
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T173100Z
+UID:event-assignment-37183
+DTSTART;VALUE=DATE;VALUE=DATE:20261203
+CLASS:PUBLIC
+DESCRIPTION: \n\nBonjour à toutes et à tous\,\n\nVous aurez\, jeudi proc
+ hain 3 décembre\, une dernière microtâche portant sur :\n\n*\n\nLes out
+ ils de la langue :\n\n*\n\nكتابة الهمزة\n\n*\n\nالنكرة و
+ المعرفة\n\n*\n\nأل الشمسية والقمرية\n\n*\n\nتصر
+ يف الفعل في المضارع\n\n*\n\nالضمائر المتصلة\
+ n\n*\n\nL'expression écrite (التعبير والإنشاء) :\n\n*\n\n
+ كتابة خبر صحفي\n\n*\n\nكتابة صفحة من مذكرة ش
+ خصية\n\nCette évaluation couvrira les deux dernières séquences\, à
+  savoir :\n\n*\n\n« الشباب في عالم متغير »\n\n*\n\n« 
+ نظرة على المستقبل »\n\nVous trouverez ci-joint les support
+ s de ces deux séquences.\n\nBien cordialement\,\n\n[نظرة على ال
+ مستقبل الوحدة كاملة 2026 2027-1.pdf] (https://um6p.instru
+ cture.com/courses/11218/files/982063?wrap=1)[الشباب في عالم م
+ تغير الوحدة كاملة 2026 2027.pdf] (https://um6p.instructure.
+ com/courses/11218/files/903170?wrap=1)
+SEQUENCE:0
+SUMMARY:Dernière Micro-tâche (devoir sur table)  [LAN002C]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11218&month=12&year=2026#assignment_37183
+X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr" data-path-to-node="2">&nbsp\;</p>
+ \n<p dir="ltr" data-path-to-node="3"><span>Bonjour à toutes et à tous\,<
+ /span></p>\n<p dir="ltr" data-path-to-node="4"><span>Vous aurez\,</span><s
+ pan> jeudi prochain </span><strong data-path-to-node="4" data-index-in-nod
+ e="30">3 décembre</strong><span>\,</span><span> une dernière microtâche
+  portant sur :</span></p>\n<ol dir="ltr" start="1" data-path-to-node="5">\
+ n<li>\n<p dir="ltr" data-path-to-node="5\,0\,0"><strong data-path-to-node=
+ "5\,0\,0" data-index-in-node="0">Les outils de la langue :</strong></p>\n<
+ ul dir="rtl" data-path-to-node="5\,0\,1">\n<li>\n<p dir="rtl" data-path-to
+ -node="5\,0\,1\,0\,0"><span>كتابة الهمزة</span></p>\n</li>\n<li
+ >\n<p dir="rtl" data-path-to-node="5\,0\,1\,1\,0"><span>النكرة وا
+ لمعرفة</span></p>\n</li>\n<li>\n<p dir="rtl" data-path-to-node="5\,0
+ \,1\,2\,0"><span>أل الشمسية والقمرية</span></p>\n</li>\n<
+ li>\n<p dir="rtl" data-path-to-node="5\,0\,1\,3\,0"><span>تصريف ال
+ فعل في المضارع </span></p>\n</li>\n<li>\n<p dir="rtl" data-pat
+ h-to-node="5\,0\,1\,3\,0"><span>الضمائر المتصلة</span></p>\n
+ </li>\n</ul>\n</li>\n<li>\n<p dir="ltr" data-path-to-node="5\,1\,0"><stron
+ g data-path-to-node="5\,1\,0" data-index-in-node="0">L'expression écrite 
+ (التعبير والإنشاء) :</strong></p>\n<ul dir="rtl" data-path-
+ to-node="5\,1\,1">\n<li>\n<p dir="rtl" data-path-to-node="5\,1\,1\,0\,0"><
+ span>كتابة خبر صحفي</span></p>\n</li>\n<li>\n<p dir="rtl" data
+ -path-to-node="5\,1\,1\,1\,0"><span>كتابة صفحة من مذكرة ش
+ خصية</span></p>\n</li>\n</ul>\n</li>\n</ol>\n<p dir="ltr" data-path-to
+ -node="6"><span>Cette évaluation couvrira les deux dernières séquences\
+ ,</span><span> à savoir :</span></p>\n<ol dir="rtl" start="1" data-path-t
+ o-node="7">\n<li>\n<p dir="rtl" data-path-to-node="7\,0\,0"><i data-path-t
+ o-node="7\,0\,0" data-index-in-node="0">« الشباب في عالم مت
+ غير »</i></p>\n</li>\n<li>\n<p dir="rtl" data-path-to-node="7\,1\,0"><
+ i data-path-to-node="7\,1\,0" data-index-in-node="0">« نظرة على ا
+ لمستقبل »</i></p>\n</li>\n</ol>\n<p dir="ltr" data-path-to-node="8
+ "><span>Vous trouverez ci-joint les supports de ces deux séquences.</span
+ ></p>\n<p dir="ltr" data-path-to-node="9"><span>Bien cordialement\,</span>
+ </p>\n<p dir="ltr" data-path-to-node="9"><span><a id="982063" class="instr
+ ucture_file_link instructure_scribd_file inline_disabled" title="Link" hre
+ f="https://um6p.instructure.com/courses/11218/files/982063?wrap=1" target=
+ "_blank" data-canvas-previewable="true" data-api-endpoint="https://um6p.in
+ structure.com/api/v1/courses/11218/files/982063" data-api-returntype="File
+ ">نظرة على المستقبل الوحدة كاملة 2026 2027-1.pdf
+ </a><a id="903170" class="instructure_file_link instructure_scribd_file in
+ line_disabled" title="Link" href="https://um6p.instructure.com/courses/112
+ 18/files/903170?wrap=1" target="_blank" data-canvas-previewable="true" dat
+ a-api-endpoint="https://um6p.instructure.com/api/v1/courses/11218/files/90
+ 3170" data-api-returntype="File">الشباب في عالم متغير ا
+ لوحدة كاملة 2026 2027.pdf</a></span></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -6877,49 +6873,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68750
-DTSTART:20261026T143000Z
-DTEND:20261026T153000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:RES101 | Lecture | Méthodes d'Apprentissage Appliquées [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=10&year=2026#calendar_event_68750
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-69366
-DTSTART:20261026T154000Z
-DTEND:20261026T164000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - R
- oom: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Group
- e 6 - Room: B-K0-02
-SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
-  1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=10&year=2026#calendar_event_69366
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-71705
-DTSTART:20261026T164500Z
-DTEND:20261026T174500Z
-CLASS:PUBLIC
-LOCATION:Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - R
- oom: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gro
- upe 12 - Room: B-K0-02
-SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
-  7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10744&month=10&year=2026#calendar_event_71705
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -7783,6 +7736,19 @@ SEQUENCE:0
 SUMMARY:POL101 | Laboratory | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68573
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T161500Z
+UID:event-calendar-event-73913
+DTSTART:20261202T143000Z
+DTEND:20261202T174500Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:DAT104 | Laboratory | Statistiques Descriptives et Probabilités [D
+ AT104]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10738&month=12&year=2026#calendar_event_73913
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
