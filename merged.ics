@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68350
-DTSTART:20261027T143000Z
-DTEND:20261027T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=10&year=2026#calendar_event_68350
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68598
 DTSTART:20261028T180000Z
 DTEND:20261028T200000Z
@@ -561,12 +549,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11223&month=11&year=2026#calendar_event_70355
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261126T162800Z
 UID:event-calendar-event-68602
 DTSTART:20261127T133000Z
 DTEND:20261127T153000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
+LOCATION:Building B - Room: B-B0-02
 SEQUENCE:0
 SUMMARY:POL203 | Laboratory | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -661,18 +649,6 @@ SEQUENCE:0
 SUMMARY:LAW201 | Q&A | Public International Law [LAW201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=12&year=2026#calendar_event_68356
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68227
-DTSTART:20261202T143000Z
-DTEND:20261202T163000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:INT202 | Lecture | Theories of International Relations [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=12&year=2026#calendar_event_68227
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261029T154000Z
@@ -853,30 +829,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Merci de prévoir une page de garde avec le
  51?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoi
  nt="https://um6p.instructure.com/api/v1/courses/10757/files/984451" data-a
  pi-returntype="File">PE Devoir 2.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68436
-DTSTART:20261027T100000Z
-DTEND:20261027T120000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW305 | Midterm exam | Droit Administratif [LAW305]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10765&month=10&year=2026#calendar_event_68436
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68350
-DTSTART:20261027T143000Z
-DTEND:20261027T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=10&year=2026#calendar_event_68350
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -1464,30 +1416,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68436
-DTSTART:20261027T100000Z
-DTEND:20261027T120000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW305 | Midterm exam | Droit Administratif [LAW305]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10765&month=10&year=2026#calendar_event_68436
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68350
-DTSTART:20261027T143000Z
-DTEND:20261027T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=10&year=2026#calendar_event_68350
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -2133,30 +2061,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68436
-DTSTART:20261027T100000Z
-DTEND:20261027T120000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW305 | Midterm exam | Droit Administratif [LAW305]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10765&month=10&year=2026#calendar_event_68436
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68350
-DTSTART:20261027T143000Z
-DTEND:20261027T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=10&year=2026#calendar_event_68350
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -2808,50 +2712,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67665
-DTSTART:20261027T090000Z
-DTEND:20261027T110000Z
-CLASS:PUBLIC
-LOCATION:Groupe 1 (A-G1-02) / Groupe 2 (A-E1-01)
-SEQUENCE:0
-SUMMARY:ECO218 | Midterm exam | Comptabilité Nationale et Agrégats Macro
- économiques(Groupe 1\, Groupe 2) [ECO218]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10749&month=10&year=2026#calendar_event_67665
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261104T125800Z
-UID:event-assignment-33825
-DTSTART:20261027T104500Z
-DTEND:20261027T104500Z
-CLASS:PUBLIC
-DESCRIPTION:Bonne chance à vous tous.
-SEQUENCE:0
-SUMMARY:Examen mi-parcours-2026-2027- Requires Respondus LockDown Browser [
- ECO218]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10749&month=10&year=2026#assignment_33825
-X-ALT-DESC;FMTTYPE=text/html:<p><span style="color: #2dc26b\;"><strong><spa
- n style="font-size: 18pt\;">Bonne chance à vous tous.</span></strong></sp
- an></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261105T144600Z
-UID:event-assignment-36388
-DTSTART:20261027T105000Z
-DTEND:20261027T105000Z
-CLASS:PUBLIC
-DESCRIPTION:Bonne chance à vous tous.
-SEQUENCE:0
-SUMMARY:Examen mi-parcours-sans LockDown -2026-2027 [ECO218]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10749&month=10&year=2026#assignment_36388
-X-ALT-DESC;FMTTYPE=text/html:<p><span style="color: #2dc26b\;"><strong><spa
- n style="font-size: 18pt\;">Bonne chance à vous tous.</span></strong></sp
- an></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261027T111200Z
@@ -3537,19 +3397,6 @@ SEQUENCE:0
 SUMMARY:Devoir N°2- Requires Respondus LockDown Browser [ECO218]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10749&month=12&year=2026#assignment_33826
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67558
-DTSTART:20261027T133000Z
-DTEND:20261027T163000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:ECO101 | Lecture | Introduction à l'Analyse Economique [ECO101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10740&month=10&year=2026#calendar_event_67558
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -4290,7 +4137,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=11&year=2026#calendar_event_67562
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261124T215500Z
+DTSTAMP:20261126T135800Z
 UID:event-assignment-36537
 DTSTART:20261124T164000Z
 DTEND:20261124T164000Z
@@ -4367,15 +4214,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_68061
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261126T163200Z
 UID:event-calendar-event-68062
 DTSTART:20261127T133000Z
-DTEND:20261127T164500Z
+DTEND:20261127T150000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-J0-01
 SEQUENCE:0
 SUMMARY:HIS103 | Laboratory | Le Monde: Une Histoire Moderne et Contemporai
- ne [HIS103]
+ ne(Groupe 1\, Groupe 2\, Groupe 3\, Groupe 4) [HIS103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_68062
 END:VEVENT
@@ -4758,18 +4605,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr" data-path-to-node="2"><span>Bonjo
  le="true" data-api-endpoint="https://um6p.instructure.com/api/v1/courses/1
  1196/files/982074" data-api-returntype="File">نظرة على المستق
  بل الوحدة كاملة 2026 2027-1.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68350
-DTSTART:20261027T143000Z
-DTEND:20261027T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=10&year=2026#calendar_event_68350
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -5250,18 +5085,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10704&month=12&year=2026#calendar_event_67626
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68227
-DTSTART:20261202T143000Z
-DTEND:20261202T163000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:INT202 | Lecture | Theories of International Relations [INT202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10711&month=12&year=2026#calendar_event_68227
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261125T111500Z
 UID:event-calendar-event-68212
 DTSTART:20261203T150000Z
@@ -5348,31 +5171,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Chères étudiantes\, chers étudiants\,</p
  par IA supérieur à&nbsp\;<strong>16 %</strong>&nbsp\;du document entraî
  nera un entretien avec l’enseignant de la matière qui se réservera le 
  droit de questionner les auteurs du devoir.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68613
-DTSTART:20261027T090000Z
-DTEND:20261027T110000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:POL212 | Laboratory | Systèmes Politiques Comparés et Philosophie
-  Politique [POL212]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10770&month=10&year=2026#calendar_event_68613
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68350
-DTSTART:20261027T143000Z
-DTEND:20261027T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=10&year=2026#calendar_event_68350
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -5935,12 +5733,25 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11218&month=11&year=2026#calendar_event_70315
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261126T162800Z
+UID:event-calendar-event-73919
+DTSTART:20261127T110000Z
+DTEND:20261127T140000Z
+CLASS:PUBLIC
+LOCATION:Building B - Room: B-B0-01
+SEQUENCE:0
+SUMMARY:POL212 | Lecture| Systèmes Politiques Comparés et Philosophie Pol
+ itique [POL212]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10770&month=11&year=2026#calendar_event_73919
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261126T162800Z
 UID:event-calendar-event-68602
 DTSTART:20261127T133000Z
 DTEND:20261127T153000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
+LOCATION:Building B - Room: B-B0-02
 SEQUENCE:0
 SUMMARY:POL203 | Laboratory | Politique et Economie [POL203]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -6333,30 +6144,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr" data-path-to-node="2"><span>Bonjo
  point="https://um6p.instructure.com/api/v1/users/13158/files/982065" data-
  api-returntype="File">نظرة على المستقبل الوحدة كام
  لة 2026 2027.pdf</a></span></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68436
-DTSTART:20261027T100000Z
-DTEND:20261027T120000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-03
-SEQUENCE:0
-SUMMARY:LAW305 | Midterm exam | Droit Administratif [LAW305]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10765&month=10&year=2026#calendar_event_68436
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68350
-DTSTART:20261027T143000Z
-DTEND:20261027T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-A0-02
-SEQUENCE:0
-SUMMARY:LAW201 | Laboratory | Public International Law [LAW201]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10713&month=10&year=2026#calendar_event_68350
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -6873,19 +6660,6 @@ SEQUENCE:0
 SUMMARY:POL201 | Laboratory | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67558
-DTSTART:20261027T133000Z
-DTEND:20261027T163000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 01) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:ECO101 | Lecture | Introduction à l'Analyse Economique [ECO101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10740&month=10&year=2026#calendar_event_67558
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -7536,7 +7310,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=11&year=2026#calendar_event_67562
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261124T215500Z
+DTSTAMP:20261126T135800Z
 UID:event-assignment-36537
 DTSTART:20261124T164000Z
 DTEND:20261124T164000Z
@@ -7601,15 +7375,15 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_68061
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261126T163200Z
 UID:event-calendar-event-68062
 DTSTART:20261127T133000Z
-DTEND:20261127T164500Z
+DTEND:20261127T150000Z
 CLASS:PUBLIC
 LOCATION:Building B - Room: B-J0-01
 SEQUENCE:0
 SUMMARY:HIS103 | Laboratory | Le Monde: Une Histoire Moderne et Contemporai
- ne [HIS103]
+ ne(Groupe 1\, Groupe 2\, Groupe 3\, Groupe 4) [HIS103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_68062
 END:VEVENT
