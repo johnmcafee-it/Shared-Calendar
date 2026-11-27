@@ -579,36 +579,36 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Bonjour à tous\,</p>\n<p>Petit rappel : un
  alement\,</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T130200Z
 UID:event-calendar-event-68588
 DTSTART:20261130T100000Z
 DTEND:20261130T120000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-02
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:POL201 | Lecture | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=11&year=2026#calendar_event_68588
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T130300Z
 UID:event-calendar-event-68589
 DTSTART:20261130T120000Z
 DTEND:20261130T124500Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-02
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:POL201 | Q&A | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=11&year=2026#calendar_event_68589
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261123T120000Z
+DTSTAMP:20261127T130700Z
 UID:event-calendar-event-68225
 DTSTART:20261130T164500Z
-DTEND:20261130T194500Z
+DTEND:20261130T184500Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
+LOCATION:Building A - Room: 	A-H0-01
 SEQUENCE:0
 SUMMARY:INT202 | Lecture | Theories of International Relations [INT202]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -651,6 +651,18 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10713&month=12&year=2026#calendar_event_68356
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261127T160200Z
+UID:event-calendar-event-73940
+DTSTART:20261203T110000Z
+DTEND:20261203T120000Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10710&month=12&year=2026#calendar_event_73940
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261029T154000Z
 UID:event-calendar-event-73543
 DTSTART:20261203T140000Z
@@ -663,10 +675,10 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11916&month=12&year=2026#calendar_event_73543
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261125T111500Z
+DTSTAMP:20261127T153200Z
 UID:event-calendar-event-68212
 DTSTART:20261203T150000Z
-DTEND:20261203T170000Z
+DTEND:20261203T180000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
@@ -747,16 +759,28 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261029T154200Z
+DTSTAMP:20261127T105300Z
 UID:event-calendar-event-73544
 DTSTART:20261205T084500Z
-DTEND:20261205T170000Z
+DTEND:20261205T120000Z
 CLASS:PUBLIC
-LOCATION:A-F0-01
+LOCATION:
 SEQUENCE:0
-SUMMARY:IELTS Mock Test [IELTS2627]
+SUMMARY:IELTS Mock Test - Written [IELTS2627]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11916&month=12&year=2026#calendar_event_73544
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T105300Z
+UID:event-calendar-event-73922
+DTSTART:20261205T140000Z
+DTEND:20261205T180000Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:IELTS Mock Test - Orals [IELTS2627]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11916&month=12&year=2026#calendar_event_73922
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261112T070000Z
@@ -811,6 +835,36 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Chères étudiantes\, chers étudiants\,</p
  droit de questionner les auteurs du devoir.</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261127T130900Z
+UID:event-assignment-37237
+DTSTART:20261206T090000Z
+DTEND:20261206T090000Z
+CLASS:PUBLIC
+DESCRIPTION:[End-Course Evaluation App - Power Apps] (https://eur03.safeli
+ nks.protection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2F
+ e%2F9e653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5
+ dd5d76324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3
+ D1731677578854%26hidenavbar%3Dtrue&data=05%7C02%7CIkram.BENMADANI%40um6p.m
+ a%7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C
+ 1%7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&reserved=0)
+SEQUENCE:0
+SUMMARY:End-of-Course Student Evaluation – Fall 2026 [EOCSEF2026]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11938&month=12&year=2026#assignment_37237
+X-ALT-DESC;FMTTYPE=text/html:<p><strong><a href="https://eur03.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2Fe%2F9e
+ 653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5dd5d76
+ 324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3D17316
+ 77578854%26hidenavbar%3Dtrue&amp\;data=05%7C02%7CIkram.BENMADANI%40um6p.ma
+ %7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C1
+ %7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUs
+ IlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7
+ C%7C%7C&amp\;sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&amp\;res
+ erved=0">End-Course Evaluation&nbsp\;App - Power Apps</a></strong></p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261124T153600Z
 UID:event-assignment-37132
 DTSTART;VALUE=DATE;VALUE=DATE:20261206
@@ -829,18 +883,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Merci de prévoir une page de garde avec le
  51?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoi
  nt="https://um6p.instructure.com/api/v1/courses/10757/files/984451" data-a
  pi-returntype="File">PE Devoir 2.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68380
-DTSTART:20261028T143000Z
-DTEND:20261028T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Laboratory | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=10&year=2026#calendar_event_68380
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -1273,24 +1315,24 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=11&year=2026#calendar_event_67547
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T130200Z
 UID:event-calendar-event-68588
 DTSTART:20261130T100000Z
 DTEND:20261130T120000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-02
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:POL201 | Lecture | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=11&year=2026#calendar_event_68588
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T130300Z
 UID:event-calendar-event-68589
 DTSTART:20261130T120000Z
 DTEND:20261130T124500Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-02
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:POL201 | Q&A | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -1418,16 +1460,34 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68380
-DTSTART:20261028T143000Z
-DTEND:20261028T163000Z
+DTSTAMP:20261127T130900Z
+UID:event-assignment-37237
+DTSTART:20261206T090000Z
+DTEND:20261206T090000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
+DESCRIPTION:[End-Course Evaluation App - Power Apps] (https://eur03.safeli
+ nks.protection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2F
+ e%2F9e653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5
+ dd5d76324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3
+ D1731677578854%26hidenavbar%3Dtrue&data=05%7C02%7CIkram.BENMADANI%40um6p.m
+ a%7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C
+ 1%7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&reserved=0)
 SEQUENCE:0
-SUMMARY:LAW206F | Laboratory | Droit Civil [LAW206F]
+SUMMARY:End-of-Course Student Evaluation – Fall 2026 [EOCSEF2026]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=10&year=2026#calendar_event_68380
+ _11938&month=12&year=2026#assignment_37237
+X-ALT-DESC;FMTTYPE=text/html:<p><strong><a href="https://eur03.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2Fe%2F9e
+ 653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5dd5d76
+ 324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3D17316
+ 77578854%26hidenavbar%3Dtrue&amp\;data=05%7C02%7CIkram.BENMADANI%40um6p.ma
+ %7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C1
+ %7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUs
+ IlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7
+ C%7C%7C&amp\;sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&amp\;res
+ erved=0">End-Course Evaluation&nbsp\;App - Power Apps</a></strong></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -1851,24 +1911,24 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10715&month=11&year=2026#calendar_event_68385
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T130200Z
 UID:event-calendar-event-68588
 DTSTART:20261130T100000Z
 DTEND:20261130T120000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-02
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:POL201 | Lecture | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=11&year=2026#calendar_event_68588
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T130300Z
 UID:event-calendar-event-68589
 DTSTART:20261130T120000Z
 DTEND:20261130T124500Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-02
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:POL201 | Q&A | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -2051,16 +2111,34 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68380
-DTSTART:20261028T143000Z
-DTEND:20261028T163000Z
+DTSTAMP:20261127T130900Z
+UID:event-assignment-37237
+DTSTART:20261206T090000Z
+DTEND:20261206T090000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
+DESCRIPTION:[End-Course Evaluation App - Power Apps] (https://eur03.safeli
+ nks.protection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2F
+ e%2F9e653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5
+ dd5d76324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3
+ D1731677578854%26hidenavbar%3Dtrue&data=05%7C02%7CIkram.BENMADANI%40um6p.m
+ a%7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C
+ 1%7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&reserved=0)
 SEQUENCE:0
-SUMMARY:LAW206F | Laboratory | Droit Civil [LAW206F]
+SUMMARY:End-of-Course Student Evaluation – Fall 2026 [EOCSEF2026]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=10&year=2026#calendar_event_68380
+ _11938&month=12&year=2026#assignment_37237
+X-ALT-DESC;FMTTYPE=text/html:<p><strong><a href="https://eur03.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2Fe%2F9e
+ 653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5dd5d76
+ 324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3D17316
+ 77578854%26hidenavbar%3Dtrue&amp\;data=05%7C02%7CIkram.BENMADANI%40um6p.ma
+ %7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C1
+ %7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUs
+ IlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7
+ C%7C%7C&amp\;sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&amp\;res
+ erved=0">End-Course Evaluation&nbsp\;App - Power Apps</a></strong></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -2506,24 +2584,24 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10729&month=11&year=2026#calendar_event_68166
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T130200Z
 UID:event-calendar-event-68588
 DTSTART:20261130T100000Z
 DTEND:20261130T120000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-02
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:POL201 | Lecture | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=11&year=2026#calendar_event_68588
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T130300Z
 UID:event-calendar-event-68589
 DTSTART:20261130T120000Z
 DTEND:20261130T124500Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-02
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:POL201 | Q&A | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -2702,17 +2780,34 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67590
-DTSTART:20261028T090000Z
-DTEND:20261028T110000Z
+DTSTAMP:20261127T130900Z
+UID:event-assignment-37237
+DTSTART:20261206T090000Z
+DTEND:20261206T090000Z
 CLASS:PUBLIC
-LOCATION:Groupe 1 (B-H0-01) / Groupe 2 (B-H1-01) / Groupe 3 (B-H0-02)
+DESCRIPTION:[End-Course Evaluation App - Power Apps] (https://eur03.safeli
+ nks.protection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2F
+ e%2F9e653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5
+ dd5d76324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3
+ D1731677578854%26hidenavbar%3Dtrue&data=05%7C02%7CIkram.BENMADANI%40um6p.m
+ a%7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C
+ 1%7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&reserved=0)
 SEQUENCE:0
-SUMMARY:ECO202 | Midterm exam | Macroéconomie 1(Groupe 1\, Groupe 2\, Grou
- pe 3) [ECO202]
+SUMMARY:End-of-Course Student Evaluation – Fall 2026 [EOCSEF2026]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10747&month=10&year=2026#calendar_event_67590
+ _11938&month=12&year=2026#assignment_37237
+X-ALT-DESC;FMTTYPE=text/html:<p><strong><a href="https://eur03.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2Fe%2F9e
+ 653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5dd5d76
+ 324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3D17316
+ 77578854%26hidenavbar%3Dtrue&amp\;data=05%7C02%7CIkram.BENMADANI%40um6p.ma
+ %7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C1
+ %7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUs
+ IlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7
+ C%7C%7C&amp\;sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&amp\;res
+ erved=0">End-Course Evaluation&nbsp\;App - Power Apps</a></strong></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -3186,12 +3281,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10745&month=11&year=2026#calendar_event_67432
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T135500Z
 UID:event-calendar-event-69111
 DTSTART:20261130T164500Z
 DTEND:20261130T184500Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-01
+LOCATION:Building B - Room: 	B-G0-01
 SEQUENCE:0
 SUMMARY:ECO201 | Laboratory | Microéconomie 1 [ECO201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -3296,6 +3391,36 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10746&month=12&year=2026#calendar_event_69113
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261127T130900Z
+UID:event-assignment-37237
+DTSTART:20261206T090000Z
+DTEND:20261206T090000Z
+CLASS:PUBLIC
+DESCRIPTION:[End-Course Evaluation App - Power Apps] (https://eur03.safeli
+ nks.protection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2F
+ e%2F9e653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5
+ dd5d76324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3
+ D1731677578854%26hidenavbar%3Dtrue&data=05%7C02%7CIkram.BENMADANI%40um6p.m
+ a%7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C
+ 1%7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&reserved=0)
+SEQUENCE:0
+SUMMARY:End-of-Course Student Evaluation – Fall 2026 [EOCSEF2026]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11938&month=12&year=2026#assignment_37237
+X-ALT-DESC;FMTTYPE=text/html:<p><strong><a href="https://eur03.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2Fe%2F9e
+ 653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5dd5d76
+ 324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3D17316
+ 77578854%26hidenavbar%3Dtrue&amp\;data=05%7C02%7CIkram.BENMADANI%40um6p.ma
+ %7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C1
+ %7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUs
+ IlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7
+ C%7C%7C&amp\;sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&amp\;res
+ erved=0">End-Course Evaluation&nbsp\;App - Power Apps</a></strong></p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261124T150000Z
 UID:event-assignment-37130
 DTSTART;VALUE=DATE;VALUE=DATE:20261210
@@ -3318,7 +3443,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Merci de prévoir une page de garde avec le
  _enonce.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261124T155900Z
+DTSTAMP:20261127T105200Z
 UID:event-assignment-33826
 DTSTART;VALUE=DATE;VALUE=DATE:20261213
 CLASS:PUBLIC
@@ -3326,19 +3451,6 @@ SEQUENCE:0
 SUMMARY:Devoir N°2- Requires Respondus LockDown Browser [ECO218]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10749&month=12&year=2026#assignment_33826
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68568
-DTSTART:20261028T090000Z
-DTEND:20261028T120000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 02) in case of a lack of available seats.
-SEQUENCE:0
-SUMMARY:POL101 | Lecture | Introduction to Political Science [POL101]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10743&month=10&year=2026#calendar_event_68568
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261026T152300Z
@@ -4184,16 +4296,32 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_68063
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T125800Z
 UID:event-calendar-event-68340
 DTSTART:20261130T090000Z
-DTEND:20261130T121500Z
+DTEND:20261130T103000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Groupe 1 - Room: B-I0-01 / Groupe 2 - Room: B-I0-02 / Groupe 3 - R
+ oom: B-H0-01 / Groupe 4 - Room: B-H0-02
 SEQUENCE:0
-SUMMARY:LAW101 | Laboratory | Introduction à l'Etude du Droit [LAW101]
+SUMMARY:LAW101 | Laboratory | Introduction à l'Etude du Droit (Groupe 1\, 
+ Groupe 2\, Grroupe 3\, Groupe 4) [LAW101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10742&month=11&year=2026#calendar_event_68340
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T125900Z
+UID:event-calendar-event-73939
+DTSTART:20261130T104500Z
+DTEND:20261130T120000Z
+CLASS:PUBLIC
+LOCATION:Groupe 5 - Room: B-I0-01 / Groupe 6 - Room: B-I0-02 / Groupe 7 - R
+ oom: B-H0-01 / Groupe 8 - Room: B-H0-02
+SEQUENCE:0
+SUMMARY:LAW101 | Laboratory | Introduction à l'Etude du Droit  (Groupe 5\,
+  Groupe 6\, Grroupe 7\, Groupe 8) [LAW101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10742&month=11&year=2026#calendar_event_73939
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -4208,29 +4336,47 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10742&month=11&year=2026#calendar_event_68341
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T125600Z
 UID:event-calendar-event-68755
 DTSTART:20261130T133000Z
 DTEND:20261130T143000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:RES101 | Lecture | Méthodes d'Apprentissage Appliquées [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=11&year=2026#calendar_event_68755
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T125600Z
 UID:event-calendar-event-69370
-DTSTART:20261130T144500Z
-DTEND:20261130T164500Z
+DTSTART:20261130T144000Z
+DTEND:20261130T154000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - R
+ oom: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Group
+ e 6 - Room: B-K0-02
 SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées [RES101
- ]
+SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées(Groupe 
+ 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=11&year=2026#calendar_event_69370
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T125600Z
+UID:event-calendar-event-73938
+DTSTART:20261130T154500Z
+DTEND:20261130T164500Z
+CLASS:PUBLIC
+LOCATION:Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - R
+ oom: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gro
+ upe 12 - Room: B-K0-02
+SEQUENCE:0
+SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
+  7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10744&month=11&year=2026#calendar_event_73938
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -4425,6 +4571,36 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261127T130900Z
+UID:event-assignment-37237
+DTSTART:20261206T090000Z
+DTEND:20261206T090000Z
+CLASS:PUBLIC
+DESCRIPTION:[End-Course Evaluation App - Power Apps] (https://eur03.safeli
+ nks.protection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2F
+ e%2F9e653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5
+ dd5d76324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3
+ D1731677578854%26hidenavbar%3Dtrue&data=05%7C02%7CIkram.BENMADANI%40um6p.m
+ a%7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C
+ 1%7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&reserved=0)
+SEQUENCE:0
+SUMMARY:End-of-Course Student Evaluation – Fall 2026 [EOCSEF2026]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11938&month=12&year=2026#assignment_37237
+X-ALT-DESC;FMTTYPE=text/html:<p><strong><a href="https://eur03.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2Fe%2F9e
+ 653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5dd5d76
+ 324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3D17316
+ 77578854%26hidenavbar%3Dtrue&amp\;data=05%7C02%7CIkram.BENMADANI%40um6p.ma
+ %7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C1
+ %7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUs
+ IlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7
+ C%7C%7C&amp\;sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&amp\;res
+ erved=0">End-Course Evaluation&nbsp\;App - Power Apps</a></strong></p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261123T112100Z
 UID:event-assignment-37075
 DTSTART;VALUE=DATE;VALUE=DATE:20261206
@@ -4549,18 +4725,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr" data-path-to-node="2"><span>Bonjo
  le="true" data-api-endpoint="https://um6p.instructure.com/api/v1/courses/1
  1196/files/982074" data-api-returntype="File">نظرة على المستق
  بل الوحدة كاملة 2026 2027-1.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67620
-DTSTART:20261028T090000Z
-DTEND:20261028T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-H0-01
-SEQUENCE:0
-SUMMARY:ECO204P | Laboratory | Development Microeconomics [ECO204P]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10704&month=10&year=2026#calendar_event_67620
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -4968,12 +5132,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10705&month=11&year=2026#calendar_event_67640
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261123T123600Z
+DTSTAMP:20261127T130600Z
 UID:event-calendar-event-67700
-DTSTART:20261130T120000Z
+DTSTART:20261130T133000Z
 DTEND:20261130T163000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-02
+LOCATION:Building A - Room:	A-A0-02
 SEQUENCE:0
 SUMMARY:ECO222 | Lecture | Introduction à l'Économie du Développement [E
  CO222]
@@ -4981,12 +5145,12 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10707&month=11&year=2026#calendar_event_67700
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261123T120000Z
+DTSTAMP:20261127T130700Z
 UID:event-calendar-event-68225
 DTSTART:20261130T164500Z
-DTEND:20261130T194500Z
+DTEND:20261130T184500Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-G0-01
+LOCATION:Building A - Room: 	A-H0-01
 SEQUENCE:0
 SUMMARY:INT202 | Lecture | Theories of International Relations [INT202]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -5029,10 +5193,22 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10704&month=12&year=2026#calendar_event_67626
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261125T111500Z
+DTSTAMP:20261127T160200Z
+UID:event-calendar-event-73940
+DTSTART:20261203T110000Z
+DTEND:20261203T120000Z
+CLASS:PUBLIC
+LOCATION:
+SEQUENCE:0
+SUMMARY:INT201 | Lecture | Foreign Policy Analysis [INT201]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10710&month=12&year=2026#calendar_event_73940
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T153200Z
 UID:event-calendar-event-68212
 DTSTART:20261203T150000Z
-DTEND:20261203T170000Z
+DTEND:20261203T180000Z
 CLASS:PUBLIC
 LOCATION:Building A - Room: 	A-F0-01
 SEQUENCE:0
@@ -5117,16 +5293,34 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Chères étudiantes\, chers étudiants\,</p
  droit de questionner les auteurs du devoir.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68380
-DTSTART:20261028T143000Z
-DTEND:20261028T163000Z
+DTSTAMP:20261127T130900Z
+UID:event-assignment-37237
+DTSTART:20261206T090000Z
+DTEND:20261206T090000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
+DESCRIPTION:[End-Course Evaluation App - Power Apps] (https://eur03.safeli
+ nks.protection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2F
+ e%2F9e653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5
+ dd5d76324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3
+ D1731677578854%26hidenavbar%3Dtrue&data=05%7C02%7CIkram.BENMADANI%40um6p.m
+ a%7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C
+ 1%7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&reserved=0)
 SEQUENCE:0
-SUMMARY:LAW206F | Laboratory | Droit Civil [LAW206F]
+SUMMARY:End-of-Course Student Evaluation – Fall 2026 [EOCSEF2026]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=10&year=2026#calendar_event_68380
+ _11938&month=12&year=2026#assignment_37237
+X-ALT-DESC;FMTTYPE=text/html:<p><strong><a href="https://eur03.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2Fe%2F9e
+ 653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5dd5d76
+ 324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3D17316
+ 77578854%26hidenavbar%3Dtrue&amp\;data=05%7C02%7CIkram.BENMADANI%40um6p.ma
+ %7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C1
+ %7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUs
+ IlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7
+ C%7C%7C&amp\;sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&amp\;res
+ erved=0">End-Course Evaluation&nbsp\;App - Power Apps</a></strong></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -5702,24 +5896,24 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10757&month=11&year=2026#calendar_event_68602
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T130200Z
 UID:event-calendar-event-68588
 DTSTART:20261130T100000Z
 DTEND:20261130T120000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-02
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:POL201 | Lecture | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=11&year=2026#calendar_event_68588
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T130300Z
 UID:event-calendar-event-68589
 DTSTART:20261130T120000Z
 DTEND:20261130T124500Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-02
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:POL201 | Q&A | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -5941,6 +6135,36 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261127T130900Z
+UID:event-assignment-37237
+DTSTART:20261206T090000Z
+DTEND:20261206T090000Z
+CLASS:PUBLIC
+DESCRIPTION:[End-Course Evaluation App - Power Apps] (https://eur03.safeli
+ nks.protection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2F
+ e%2F9e653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5
+ dd5d76324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3
+ D1731677578854%26hidenavbar%3Dtrue&data=05%7C02%7CIkram.BENMADANI%40um6p.m
+ a%7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C
+ 1%7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&reserved=0)
+SEQUENCE:0
+SUMMARY:End-of-Course Student Evaluation – Fall 2026 [EOCSEF2026]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11938&month=12&year=2026#assignment_37237
+X-ALT-DESC;FMTTYPE=text/html:<p><strong><a href="https://eur03.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2Fe%2F9e
+ 653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5dd5d76
+ 324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3D17316
+ 77578854%26hidenavbar%3Dtrue&amp\;data=05%7C02%7CIkram.BENMADANI%40um6p.ma
+ %7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C1
+ %7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUs
+ IlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7
+ C%7C%7C&amp\;sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&amp\;res
+ erved=0">End-Course Evaluation&nbsp\;App - Power Apps</a></strong></p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261123T112000Z
 UID:event-assignment-37079
 DTSTART;VALUE=DATE;VALUE=DATE:20261206
@@ -6088,18 +6312,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr" data-path-to-node="2"><span>Bonjo
  point="https://um6p.instructure.com/api/v1/users/13158/files/982065" data-
  api-returntype="File">نظرة على المستقبل الوحدة كام
  لة 2026 2027.pdf</a></span></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68380
-DTSTART:20261028T143000Z
-DTEND:20261028T163000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:LAW206F | Laboratory | Droit Civil [LAW206F]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10715&month=10&year=2026#calendar_event_68380
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -6473,24 +6685,24 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10720&month=11&year=2026#calendar_event_67547
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T130200Z
 UID:event-calendar-event-68588
 DTSTART:20261130T100000Z
 DTEND:20261130T120000Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-02
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:POL201 | Lecture | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=11&year=2026#calendar_event_68588
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T130300Z
 UID:event-calendar-event-68589
 DTSTART:20261130T120000Z
 DTEND:20261130T124500Z
 CLASS:PUBLIC
-LOCATION:Building A - Room: A-F0-02
+LOCATION:Building A - Room: A-F0-01
 SEQUENCE:0
 SUMMARY:POL201 | Q&A | Institutions Politiques Marocaines [POL201]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
@@ -6606,17 +6818,34 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10769&month=12&year=2026#calendar_event_68583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68568
-DTSTART:20261028T090000Z
-DTEND:20261028T120000Z
+DTSTAMP:20261127T130900Z
+UID:event-assignment-37237
+DTSTART:20261206T090000Z
+DTEND:20261206T090000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
- 02) in case of a lack of available seats.
+DESCRIPTION:[End-Course Evaluation App - Power Apps] (https://eur03.safeli
+ nks.protection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2F
+ e%2F9e653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5
+ dd5d76324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3
+ D1731677578854%26hidenavbar%3Dtrue&data=05%7C02%7CIkram.BENMADANI%40um6p.m
+ a%7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C
+ 1%7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&reserved=0)
 SEQUENCE:0
-SUMMARY:POL101 | Lecture | Introduction to Political Science [POL101]
+SUMMARY:End-of-Course Student Evaluation – Fall 2026 [EOCSEF2026]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10743&month=10&year=2026#calendar_event_68568
+ _11938&month=12&year=2026#assignment_37237
+X-ALT-DESC;FMTTYPE=text/html:<p><strong><a href="https://eur03.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2Fe%2F9e
+ 653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5dd5d76
+ 324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3D17316
+ 77578854%26hidenavbar%3Dtrue&amp\;data=05%7C02%7CIkram.BENMADANI%40um6p.ma
+ %7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C1
+ %7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUs
+ IlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7
+ C%7C%7C&amp\;sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&amp\;res
+ erved=0">End-Course Evaluation&nbsp\;App - Power Apps</a></strong></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -7360,16 +7589,32 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_68063
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T125800Z
 UID:event-calendar-event-68340
 DTSTART:20261130T090000Z
-DTEND:20261130T121500Z
+DTEND:20261130T103000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Groupe 1 - Room: B-I0-01 / Groupe 2 - Room: B-I0-02 / Groupe 3 - R
+ oom: B-H0-01 / Groupe 4 - Room: B-H0-02
 SEQUENCE:0
-SUMMARY:LAW101 | Laboratory | Introduction à l'Etude du Droit [LAW101]
+SUMMARY:LAW101 | Laboratory | Introduction à l'Etude du Droit (Groupe 1\, 
+ Groupe 2\, Grroupe 3\, Groupe 4) [LAW101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10742&month=11&year=2026#calendar_event_68340
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T125900Z
+UID:event-calendar-event-73939
+DTSTART:20261130T104500Z
+DTEND:20261130T120000Z
+CLASS:PUBLIC
+LOCATION:Groupe 5 - Room: B-I0-01 / Groupe 6 - Room: B-I0-02 / Groupe 7 - R
+ oom: B-H0-01 / Groupe 8 - Room: B-H0-02
+SEQUENCE:0
+SUMMARY:LAW101 | Laboratory | Introduction à l'Etude du Droit  (Groupe 5\,
+  Groupe 6\, Grroupe 7\, Groupe 8) [LAW101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10742&month=11&year=2026#calendar_event_73939
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -7384,29 +7629,47 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10742&month=11&year=2026#calendar_event_68341
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T125600Z
 UID:event-calendar-event-68755
 DTSTART:20261130T133000Z
 DTEND:20261130T143000Z
 CLASS:PUBLIC
-LOCATION:Building B - Room: B-J0-01
+LOCATION:Building B - Room: B-J0-01 ==> Please use the overflow room (B-I0-
+ 01) in case of a lack of available seats.
 SEQUENCE:0
 SUMMARY:RES101 | Lecture | Méthodes d'Apprentissage Appliquées [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=11&year=2026#calendar_event_68755
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
+DTSTAMP:20261127T125600Z
 UID:event-calendar-event-69370
-DTSTART:20261130T144500Z
-DTEND:20261130T164500Z
+DTSTART:20261130T144000Z
+DTEND:20261130T154000Z
 CLASS:PUBLIC
-LOCATION:
+LOCATION:Groupe 1 - Room: B-K1-01 / Groupe 2 - Room: B-K1-02 / Groupe 3 - R
+ oom: B-G1-01 / Groupe 4 - Room: B-G1-02 / Groupe 5 - Room: B-K0-01 / Group
+ e 6 - Room: B-K0-02
 SEQUENCE:0
-SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées [RES101
- ]
+SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées(Groupe 
+ 1\, Groupe 2\, Groupe 3\, Groupe 4\, Groupe 5\, Groupe 6) [RES101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10744&month=11&year=2026#calendar_event_69370
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T125600Z
+UID:event-calendar-event-73938
+DTSTART:20261130T154500Z
+DTEND:20261130T164500Z
+CLASS:PUBLIC
+LOCATION:Groupe 7 - Room: B-K1-01 / Groupe 8 - Room: B-K1-02 / Groupe 9 - R
+ oom: B-G1-01 / Groupe 10 - Room: B-G1-02 / Groupe 11 - Room: B-K0-01 / Gro
+ upe 12 - Room: B-K0-02
+SEQUENCE:0
+SUMMARY:RES101 | Laboratory | Méthodes d'Apprentissage Appliquées (Groupe
+  7\, Groupe 8\, Groupe 9\, Groupe 10\, Groupe 11\, Groupe 12) [RES101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10744&month=11&year=2026#calendar_event_73938
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -7519,5 +7782,35 @@ SEQUENCE:0
 SUMMARY:POL101 | Q&A | Introduction to Political Science [POL101]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10743&month=12&year=2026#calendar_event_68574
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T130900Z
+UID:event-assignment-37237
+DTSTART:20261206T090000Z
+DTEND:20261206T090000Z
+CLASS:PUBLIC
+DESCRIPTION:[End-Course Evaluation App - Power Apps] (https://eur03.safeli
+ nks.protection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2F
+ e%2F9e653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5
+ dd5d76324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3
+ D1731677578854%26hidenavbar%3Dtrue&data=05%7C02%7CIkram.BENMADANI%40um6p.m
+ a%7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C
+ 1%7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&reserved=0)
+SEQUENCE:0
+SUMMARY:End-of-Course Student Evaluation – Fall 2026 [EOCSEF2026]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11938&month=12&year=2026#assignment_37237
+X-ALT-DESC;FMTTYPE=text/html:<p><strong><a href="https://eur03.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Fapps.powerapps.com%2Fplay%2Fe%2F9e
+ 653756-242b-efea-ab3a-6ac635494e5a%2Fa%2F6428267d-e7dd-478f-aa9d-2d5dd5d76
+ 324%3FtenantId%3D39626157-a047-4689-87a2-6fa645cb5cb7%26sourcetime%3D17316
+ 77578854%26hidenavbar%3Dtrue&amp\;data=05%7C02%7CIkram.BENMADANI%40um6p.ma
+ %7C1ffd8fb87841410641a708df493aa596%7C39626157a047468987a26fa645cb5cb7%7C1
+ %7C0%7C639310188376944605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUs
+ IlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7
+ C%7C%7C&amp\;sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&amp\;res
+ erved=0">End-Course Evaluation&nbsp\;App - Power Apps</a></strong></p>
 END:VEVENT
 END:VCALENDAR
