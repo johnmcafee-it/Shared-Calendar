@@ -2715,17 +2715,6 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10747&month=10&year=2026#calendar_event_67590
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261121T135700Z
-UID:event-assignment-37046
-DTSTART:20261028T090000Z
-DTEND:20261028T090000Z
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Examen MP [ECO202]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10747&month=10&year=2026#assignment_37046
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67427
 DTSTART:20261102T090000Z
