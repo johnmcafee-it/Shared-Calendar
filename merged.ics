@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68598
-DTSTART:20261028T180000Z
-DTEND:20261028T200000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:POL203 | Laboratory | Politique et Economie [POL203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10757&month=10&year=2026#calendar_event_68598
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-67635
 DTSTART:20261029T090000Z
 DTEND:20261029T110000Z
@@ -4178,7 +4166,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=11&year=2026#calendar_event_67562
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T135800Z
+DTSTAMP:20261127T201100Z
 UID:event-assignment-36537
 DTSTART:20261124T164000Z
 DTEND:20261124T164000Z
@@ -4294,6 +4282,18 @@ SUMMARY:HIS103 | Q&A | Le Monde: Une Histoire Moderne et Contemporaine [HIS
  103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_68063
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T201300Z
+UID:event-assignment-37147
+DTSTART:20261127T201000Z
+DTEND:20261127T201000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZZ 3 - Introduction à l'analyse économique- Requires Respondus
+  LockDown Browser [ECO101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10740&month=11&year=2026#assignment_37147
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261127T125800Z
@@ -5321,18 +5321,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><strong><a href="https://eur03.safelinks.pr
  IlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7
  C%7C%7C&amp\;sdata=LC4ZnJmJZ8UqSfE55ovMHmsydE38avaB8RylcN6WEbo%3D&amp\;res
  erved=0">End-Course Evaluation&nbsp\;App - Power Apps</a></strong></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-68598
-DTSTART:20261028T180000Z
-DTEND:20261028T200000Z
-CLASS:PUBLIC
-LOCATION:Building B - Room: B-B0-01
-SEQUENCE:0
-SUMMARY:POL203 | Laboratory | Politique et Economie [POL203]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10757&month=10&year=2026#calendar_event_68598
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -7483,7 +7471,7 @@ URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10740&month=11&year=2026#calendar_event_67562
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T135800Z
+DTSTAMP:20261127T201100Z
 UID:event-assignment-36537
 DTSTART:20261124T164000Z
 DTEND:20261124T164000Z
@@ -7587,6 +7575,18 @@ SUMMARY:HIS103 | Q&A | Le Monde: Une Histoire Moderne et Contemporaine [HIS
  103]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _10741&month=11&year=2026#calendar_event_68063
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T201300Z
+UID:event-assignment-37147
+DTSTART:20261127T201000Z
+DTEND:20261127T201000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:QUIZZ 3 - Introduction à l'analyse économique- Requires Respondus
+  LockDown Browser [ECO101]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _10740&month=11&year=2026#assignment_37147
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261127T125800Z
