@@ -3,19 +3,6 @@ VERSION:2.0
 PRODID:-//Bureau Calendar//EN
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67635
-DTSTART:20261029T090000Z
-DTEND:20261029T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-02/Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:ECO214 | Laboratory | Théorie des Jeux: Approche Stratégique [ECO
- 214]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=10&year=2026#calendar_event_67635
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
 UID:event-calendar-event-68207
 DTSTART:20261029T150000Z
 DTEND:20261029T170000Z
@@ -437,6 +424,18 @@ SEQUENCE:0
 SUMMARY:Face to Face Session [LAN003C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11220&month=11&year=2026#calendar_event_69543
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261128T083900Z
+UID:event-assignment-37257
+DTSTART;VALUE=DATE;VALUE=DATE:20261123
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Micro-tâche 4 [LAN003C]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11220&month=11&year=2026#assignment_37257
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -1215,6 +1214,18 @@ SEQUENCE:0
 SUMMARY:Face to Face Session [LAN003C]
 URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
  _11220&month=11&year=2026#calendar_event_69543
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261128T083900Z
+UID:event-assignment-37257
+DTSTART;VALUE=DATE;VALUE=DATE:20261123
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Micro-tâche 4 [LAN003C]
+URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
+ _11220&month=11&year=2026#assignment_37257
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
@@ -4725,19 +4736,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr" data-path-to-node="2"><span>Bonjo
  le="true" data-api-endpoint="https://um6p.instructure.com/api/v1/courses/1
  1196/files/982074" data-api-returntype="File">نظرة على المستق
  بل الوحدة كاملة 2026 2027-1.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261030T011000Z
-UID:event-calendar-event-67635
-DTSTART:20261029T090000Z
-DTEND:20261029T110000Z
-CLASS:PUBLIC
-LOCATION:Building A - Room: A-G1-02/Building A - Room: A-E1-01
-SEQUENCE:0
-SUMMARY:ECO214 | Laboratory | Théorie des Jeux: Approche Stratégique [ECO
- 214]
-URL;VALUE=URI:https://um6p.instructure.com/calendar?include_contexts=course
- _10705&month=10&year=2026#calendar_event_67635
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T011000Z
